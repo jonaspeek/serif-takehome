@@ -1,0 +1,956 @@
+{
+  "reporting_entity_name": "Anthem Inc",
+  "reporting_entity_type": "health insurance issuer",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "LIVE HEALTH ONLINE - LILA GAMES INC - ANTHEM",
+          "plan_id_type": "EIN",
+          "plan_id": "852495430",
+          "plan_market_type": "group"
+        },
+        {
+          "plan_name": "ENTPRS DIABETS - LILA GAMES INC - ANTHEM",
+          "plan_id_type": "EIN",
+          "plan_id": "852495430",
+          "plan_market_type": "group"
+        },
+        {
+          "plan_name": "K HEALTH - LILA GAMES INC - ANTHEM",
+          "plan_id_type": "EIN",
+          "plan_id": "852495430",
+          "plan_market_type": "group"
+        },
+        {
+          "plan_name": "PRUDENT BUYER PPO - LILA GAMES INC - ANTHEM",
+          "plan_id_type": "EIN",
+          "plan_id": "852495430",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_131_17B0_in-network-rates_17_of_17.json.gz?&Expires=1711116038&Signature=RyaOjjZ9J6ujegdsfakHs1q6mkE1gyOYnFf~WtdeBDLiMvX5OeGD8HepJ66NUR5LiJQz8MoE7VzsipNxB3u5Twx8PbNlWebGj94gijzZnL68ptvyQlNmptEsZpYS-KJb4QgVzTJn5qd7bNWeqdXrsO7Rfwmcc5cxQbdX0OuQG4YU-d3i3SFZVvLbsuwxb0~gYPG4dFKdDBIN5vzWMoVLQLyAAObj8k9GweBP376DSJVc9gjm1xtHZS1aj-F33WOf~pmN6SjPCYCgYP71tYaj~ZPLarYI22xthnBxNCRvdH4SUpwA2JB3UzlJhSHkS-mJ71yL~~Ce1m4OAbqcWHkl4Q__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_20_of_29.json.gz?&Expires=1711116038&Signature=XRBDHfLW71xILUX5RaVM9uqTMrFHdCBS6tP6j-NH4Of-G1Zg-UoPkX8SLJUasNGTnjLMGRH7yNOp9scw5tqD9hqK1n9PynATMiArXAkP1fHDBhi-n0qV7H0RCNBBJ4ZF0KwFReSZFCHZwMk-rlDZdRBPlmP4XuI5agoO0u~xE2mS64kJkF39MgNYnLxlpHP4YOLkJ9WtrBzCNL-Vs-Ao9245flXaX4e2FgmLhSb8BFF75kMxmuhAUmOncoYrdEHfZ6P8eNYJiZXQPovu8BI4BKNQ4zzTdKJ8KJMjBXYHjgPuCvs3iDi26JP4CTIjZgffuCIP5aG7FVqLF~6kxNd3Kw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_30_of_35.json.gz?&Expires=1711116038&Signature=aB6e~m89cjNJHdosJk8l5Owm~lgX6IH4ShITPTk-rpKn7Hn3ye-f86omAmkM9JLpYBKqqvYvBQPP3hjdz6N3oz-g0Pjcfqcz87pjqc3F0NmvNuRXXXsdvFhUpTCBu8H~5GEThqyZMK0wVNLThAc4fTPkOH4WBx5mQOnSzlfRu8rC2CCUTcIUxLe1pMSoCkZgaBax20AVQW9aKdTKwJH0co3J7Mb-nZ1nEXvIU4LYNTFSfzPM5vGHBAqhOX-jNCS~~8kEeKrkkGW5aBbniZ4OIiPL026fD8GnSUDzLo53nWDU-jqSiEzJKoFN4Saij0GB5VmMkMCMSd4~dTzkOFUhCA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_254_39B0_in-network-rates_3_of_9.json.gz?&Expires=1711116038&Signature=Waj~qZ9MlFpU3DRP92Lq~3ECnaL9DzJgbqmwU6eZGDDOi8S6KkBT6G9xmPtvI6l8MjDCr2CcgKPi4damWye1xkbVAxbetSuZHJSdXXiSKZJBnWBXVZxyUij4zM30am~lvUnFmoCE9k-mN8XGdN1pt3JtfhUr10~dkEWArXB-tkRqDOUWmmWtMWoXYFIx~-pgup8900Qj1Ip8KOFZ1u6ql40hc9l8Y90Lq2aNtzy90QeF8DIDDiCzhwvcwv1gonpLOPnfSybl6C9kJRFZWfQ7lX663Jajg6BK47JfnDhEG48I4AJIIOXguDF9GRSbTeOGCmzJWrgyjFPus-VPq1Y9Qw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_102_11B0_in-network-rates_3_of_5.json.gz?&Expires=1711116038&Signature=cJB2OaNZr~2MZ5ASauV8gWRTnF1RT2bCkiB4YGs5VX6gGeW4kFj0h0rK9QdhhU70r8V5kWt5jXXTX1XYVBVZN9YMbc4BI81g-2zztobGHHIJr4GS9ApDor45VCCVVvEyhZRsZ4Gc9AWwbr05jx34MYLpBc72RA80-S9EYV87oGTvMO0sNe-7ix7jYhO4T~ZarLhoEvUc1M9i~PzcxpvfyCqmtHJPY7wyAr6nz-pSiWSdcitUxX8yvLCudOXvB~9w4FZmiP3AVZQM7CLtE31OAqUSghniV4CkMVMMsEg37gsRnHwu3E~4l3CoyVTAnbtOCY~egno5JNydGTCXBm7ySQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS North Dakota : Preferred Blue PPO",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_320_33B0_in-network-rates_04_of_06.json.gz?&Expires=1711116038&Signature=UV~GFd~Ajhwm3KNuwpNO9U124glwlMg8juIMyPHhL4iMKFGZov69u1RDE4lXvuFbo1mntvv8j9uI3dPJSfqwmnvtix9ZsAlkCqTiHgPjookHA~7a2VXZTSDjSGoyh2pc1od2MaMBi28h1C0CkAQRl2YuEWIcgFIbArmLba6aO6tjCVxaVVXL4c4Tap75NppEKpBOjSz7dhR7l5K9EziBCM~1dsQuQkWQ0DNeiWNYRMJse9~M6sIqpaaz6dPW5Kp99eTBux7eK5JADUwlOHX5VqQCVYAtBHMeuvfTjFqPeef9z8OxsxJma1rTaZK0lIlekmS9XmpSmb0ll5~oBEdi7w__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_12_of_35.json.gz?&Expires=1711116038&Signature=akYNlyNUU-eyEQnFBeX3fwIeRhA548mcU-vsrG4HcmGT7fgRHB1lWKYgAVEihY5gK5Qfe4Dexc8SrTwkCh4R~p9Lsc5YQeQVE5G-gzGayjb7qFmJ5uribLHBLCgOPpq0SUjlO1lA~oFAxjGJN6RqjyW5fdBN9BHuXtp5GpDLXBPRTPI8UnfTN16HqvSi83cWCFvd1vuDMghQiOQSuHDFDpwrVwvsOIiNtJ5im3Ltz89LdS6sqQIfWPIGLN9vdehQkKrRcN2of0JBuNei-ugyDj5xPyUeoWbgfrhx4sS1fLQnqSP~J5ubWbmQKYE6lM~iQ-TN7uiG0vsERQsbowdchQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_33_of_35.json.gz?&Expires=1711116038&Signature=LOePzuDrwgNXA0tt4vdptZ830R4~xFr5oI3OOHbmxmSlvObU7RoI2FQ3ddAezs8NbXieyp865zgor3k7i0o9UHvT7MwNenduf5thFIUVcSKzkNPaeIsTTJO2n29e4kXudeG0n9vTrZa5zOeDUSPEYDZnVKpKaTQIhGbycur7dF1beWXebbDJQoPlqFPkrw7n1aoRoCX2LBWbvKOn1gJ-4HgGso0pKRduqARqPVS94g9Bbc6GnP~SbwhWiTtWTL~Mg3aKdvVTKvTPcozbyIYvr70nuVGvaYOrHPrEiOglzpFZe4Bgo0PF2CP-ClhkSb6jBEcBErtqfcGGAq0bJIMLTQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_60_of_60.json.gz?&Expires=1711116038&Signature=yBChwflCwFGqHiCqCWZWY8G42rnI4j5wklOJuNiIgr8IQKig3rIQfdOzj-Y6AhcS1wv-jStEod8phyd9RV42EUbr9t7wefzPxeA0Ga0OsB3pMZ-6gRqpHlnePQnkwZNzENntl~YEhAlVdakTb7o-Ofuqy~prmvQSatSPEv-35ySlxbi2Rss5CJOEyoQlT8ww4dHWWa6U4A5eqsAvkW3wB0tNlOgQLGNoUiyF~xkL~pH7qt~iJic~6SF4NRWYJyxeIJ4Ay6~BPRiGh2HRULfiYfHLGrNfxRNH2nsc3ykrFCoVEuMXM16qJhDGFDwdGDBwwIqidNyeBMJPf36TSWjctA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_24_of_29.json.gz?&Expires=1711116038&Signature=Evb02p7ducQLbXtl91FeEDdFQoKThqjRBbJKrYL5x7D5EpfiwYyOKSrtQetNF1r7Zt8a-0oSC6aIxfoTQwl~3NJdHx5DtzH4KgqJ2-ca0Ebn5wBfahh-fNlpJLGT3g5UBOKrtaDK9oE8uOYlznHt9NjHipKe32ddGWMgL7gvUVsDorV3VmCilNN57yTqJT89-pY5Py-7SSVmePPHTh6PrfwM82gk5nWAhRPcomk05Hey52Zv2r51PQGMEEqNxrkcL3V9yRz-7oZc88d0NzV73gMm1IsFndP9pjvulscxyf7ldDGPo0xncvd-3C8nisV8dJnJes3QU6-Tp1DNpO1Jyw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_20_of_43.json.gz?&Expires=1711116038&Signature=vWVfBrJpHXCWzHl4erAZoejueoUOqudj1TvQk96Fpu-G6b0jCvlWnCvydLuydiza1S4N~SqIAf7JYiaQfaE8Kn2QwHT5lZ20P27rhzGp-m0Fjf8yEW2eGsInyobU3CNlYz7R9FF1znhWP9BKhrh8GF-uK-yoPleknD1X2~0IxyYtEIJ6cDNK8FvFNyUqmJ2~3e8TByV0212H7zUaEYwCBk137uU9jPlQG8bAzm7nIwP9Kfr3Cgzzbbrv~wNjIkkWxul8j1eJzbjZEzUXy1~SEGq7X6p1fG8-O8p5J9HvAdswh0JJB9m47OFDjBoRPMiIdeoGTDDyLqgpCLKUgalenA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_271_35B0_in-network-rates_2_of_4.json.gz?&Expires=1711116038&Signature=sj1yRyFHTqXUfMH9dlQ7E1lkTfTJ5f8SfdnluKC7JuRoyXGO2snS06DRZpNlJbqxynigMDXvoAeJ8B~sKzsCaFan9o1TTKEs-iVoQjVx9cpkRLau8Ln~h~Xe6gHo93U7lPspD731s57ezJ4WwZeRMGOx2vfnmcIenFCtuknPuCkkK97oRaO0mwC6YxdMLmBh7cAFCsVDqLfm2f81GPtHejhBfuYYx~4CYvxOV-yLGSsLE2yusZA5cLGsUUR1ekiYv9Jqrtf5nmhMs-0lLyunadwxTnqep~uWuJHU0MxCRPxxZwexvMpycfJdaALCcgVZdHqr~AhmFovs4etydnXZtw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Michigan : TRUST",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_710_26B0_in-network-rates.json.gz?&Expires=1711116038&Signature=f3FIoAtqnBmDc0yIcvxuHETZ7B0caEn0x9bqN7DJGpwLnthBUyxccB2BPSuWSepscGc0BmvqwCdQOKFH6JEukI2pUB-4-g6qCey-mifgvK0JF8ntDFOOh~-jvadXIIEeVjuAlhXVI9fxmM4hPY1IyD8Hhr~4X1EgOceOTaYoMe4wILpfo9Quyvxp40pfX8T8Iuyx2Ia9EeKhmrq8iSRVNFuxmRzNJirtuoeF7lIQNQ~5CtLHlO6xQj7HUhMZUuR2AR2cBGmp-AqkdG0HHxpcDmDKZMUz-4DGvo0hmtY3L8cNrrzOEsRjL-jDnZj5Vk4~2pdOLABArV5cDDTZP9UR-Q__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Minnesota : Aware",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_720_27B0_in-network-rates_13_of_26.json.gz?&Expires=1711116038&Signature=lvKhGOB4HPymUijPRS9c9CcUjJw4pSstUPQ2CvdL7IUnolhk08agQu8wzTJ5v-mzjbML3peMw5ENNSR8x494m6VrVVgRorRX4008T89oQeSBecs-DoN1alA7pa-aw2AHBkMpEU-nBFKcwet55yhHiCyaZz9uHSUvo1JJM~OD2h90-mXtuxJpVwBaaPLVurBnUHLat1vgr0y1EzK2VUpweWEWi7gZWle9AmfuexKwgFI4242KGAcZFTeIw1pD4qFH2lnhFVCc84UMkUt35uiS73VwlyXd1jSHVbZaYdZwU~zrQQtgwx10rhAjoZJx7kPMhlEkQm3sAzhQe0yBAzkqag__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_56_of_60.json.gz?&Expires=1711116038&Signature=W5A4Lsb16iDUTNO9LRWs9SZGMQRk5KKTYZHXsYUM8qRHcndta2WNdqzAHDuFnJgXN8bws-JHWafnW77QHPRSUtbHI7PzbQr9DlHYKtYZqg8zytGTS2sHuh~YVe2OVzrHaonFuF3V18JsXmnMX5IZc71wlCine51Xx9UxHNpEIUOOeoD9btCfpAwZK17GSdFpiPynraC6ZBCcs2KX42swvVR0iDcpMzt8X2cCtdg5davBAG1tU14agjXYfUncrNFgtj892eP9lw9l9yBKy3t3TJvNQx0I0Mtdwyi71pYR2bq~k-qQYMHLXTjAfEF5TGI1VKpghM-VgluOzO1gtqJrAA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_051_06B0_in-network-rates_2_of_5.json.gz?&Expires=1711116038&Signature=4ruq8dtxkdAD38EnSD0EQnt-snZiYxZirT9BvppMKBI0YRqk7DeE6sj-9rtpwAMxUoBtMXCqEpTJzzwQrekR60xaT23uoYRYmyGvpf8vgVdq3KEgP5lS4yZAziuc8yccWmDb1jioXr9GLbEHcJzJhT28w6JBF~KrCtZkVH8qhiT8uxv76yfHSoWAZgn0xynttC5ujWeXJOpIP-XOkRBVRvlT2HFuFfedToprciozJRXJzCLXR7y5~h1d~AW~0hZlpuWtwMspclx0SSbfOXfFZ8P3XAqUUF5eAONuAXkgkUPE6OMM51W2i8~6I-tyFMseI4PFjPuwHi~mzgfBeieJAQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_54_of_60.json.gz?&Expires=1711116038&Signature=Yj3DpVZSAUi6SiLc1xZCmDMJeYj14O3fZbs7tLJKciVshi7VcV501Z03XvEeZd4JtRSRQ-YtLFwV8UBasl~hldmJx7qwVbGwGxghnJFoEz0WdaddrB-fhpMndJLZnUFHbJXsodT-WfTXBpM8JWkOHCqUYXNJnQBUst-9CEwluIyrH9nkdihmXmeYCY7~inMa9Cfq7XAxO87wre9j0IvA0~z55ShRjLSmidfTM-zw8tg5Tu5Y00Rm7~oBmz2RYkfF9L45EKzJA5fYh89nvNPQYAUeQjF6~pP4BuzErKZZ5DioBIIvagT~z0LsKC4gKsQ-sB7-aUbfu9701Z-S4QxtyA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_18_of_60.json.gz?&Expires=1711116038&Signature=kROwVuPyx7BjMUeGwpzvAHOL6hqmN1suPNyw-s8WWjUIHdPAZG05VC96j2lBLjtzZhJfdZsdVbgyXiPcxFcHfQBHV-PAPfnRA-fnfi7btthFc5P0o-zX-S6iH-vugZygmQ9j8~KF7men-E101tUj9TA0nQzUTyRyhnhbeVAEYVctV5p1Em4LaUDFKvMldBO6e4cdiZKu-rw9Gw9H~GocBmdifWywCuYhtX~K5DA564BCfXBvzbLj0foeiFqnns8B3vU0VKo3~HS4cSvMDut2z6oDUAT1MtVBQomU018uXLfrJVZ5YgUeOg9cU39St3IBwAegK9KnaFeSk5po4je74w__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_23_of_43.json.gz?&Expires=1711116038&Signature=kgR8IlIQI9VXw8Qr2WgclWqZxYgDcC51~QODutvLkiEOqeD7U1XXLicNAGZWsrcYqyUesz-9QUrRJToaWBbDyIyYJZcsNj59lfSCvdlyYbrLaSeZqO~KuJrixoXkI8vVUR7WD3FaEjtm88fpExwETzcoNzsMJ40In7Y~bkOTmsq0veImw7Awc7~8Z7XF4tbJS~LvtrPxLRZoyCj-BkdZ5VfNhmnqXfnaGE6jlK57hqK9qduv6L2B-LSTDil4HFbHv8jOaoLdKvTw-7dqt~ZG0h8G~xNQYyaJCjEj4~idP7Xuc0SbR9lySZtI4e-zbU57myWExkIM6qxMx0GoCsegPg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "HCSC: BCBS New Mexico : New Mexico BlueCard PPO",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_290_37B0_in-network-rates.json.gz?&Expires=1711116038&Signature=DJUJCBh0uWNEO0FM-ZpaSB5nzWg7e56vdafepcM3tGRUeiH~BmL6Z7qDPhglP5Ye2G-2nNPGe2torXeIMrFXI8RebYUviJ5NDMkk3VSNwWkfboQS0PVsfPNcPhPwk8mbTHyTq9gn77K58Qir~bpAGwz100fTkhJjTHgvMQTyPlD5rC3V8KoyFh66U~SXEhI-d0KVsB3DO0beESY-xOh6T0Z-tXQ6cJJ2tOlvmEQML-U9iaj9ECT5gqOGv0FlYDZ4QvhsI2T5JkzHQOO8C3BNYhETJeI6fdJjvuT8V-JmgwU-VKMnjgx3bPy5bAy4LTkfU2pY7d4qsmXfhAxPIiNcQg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Minnesota : Aware",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_720_27B0_in-network-rates_20_of_26.json.gz?&Expires=1711116038&Signature=GcLD30Btr91bpXyKqAZZoCDd63qm~OspJruNzmfyZzKDtzkoXNCVaAQDsgHGbJgkAWG7UjoraZYgwFrsodgzkBlOrMNaTtWaJ2sZx1VM~UNFC8XP7-LBI1M5Ad45lRRBSlJh94kBREpfFAfNVB7CjFq0vlNkyjpw7GmT-wp-EPblXJat7OFWwDd2eXdYn6TihjHszemk2N27x6M378U9Ewts-tZMG6L64zFqTw~vRNAx83AwrL3pKQqHZTE4~w2leB1CGpcgMzDZnnucTv-Jxfa4-tJCxxAOxt7Z8oePkN4ZrmjwcSDFm9CiG28vH7uIiuWJXyWcixGBZ8SiHxmBDA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_131_17B0_in-network-rates_16_of_17.json.gz?&Expires=1711116038&Signature=Vx1WK2R597ZCQXCshCWNebofYxBAFZzPK~2t6F0yOztwWDshBj5pxDdvK-lrdzD0gQOEGjOmxIA-llSh~LMlQM8gKrPVBzhc2VMng2NZmEzT8tC3T0av2XxgdxNg0geAK~XG8Ql7yGZ2yk8TCnCz5Okz80zlxcuOHUMwoPb82pZsykBeLyZHCDKL6rcAX0qeLbpd86dRqVaA1eMIrsHwQcJ3o6SGXbHpgzweixjZtiwlS0l0tFVZvoCXGrBOjV9ZLADqy3Y7Cu0eXkiwDVddFAUGQgO9vsFCbMnbyyhKaktFs17pqN1o5wVPBcd5iAI-rr2B-7RZKTlxyuhkf5WJXw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_40_of_43.json.gz?&Expires=1711116038&Signature=NBhZ8JrewNhLjfnzn8wGhZN35EK5a0jaqUGR0zjdccdbXFs~3A96UDIlJkRHS0D8q3RDY5EWlmj6LAseuNmsiNM1EPPWevabnnO0H9J0amvS0NkqdPlusqBo1LWQOiVn9n5vXTf5XCsRpuFqc81yQ57nIzzJsNYSVQq0lM6U410993I8SS4DDV6SSx0JCj0cztP1T4aiupJT909y-3O6U-qo-lF0DqQFTiPoUtU-mCJJ6JNqNX5a9Jycwht67l-miLkzIEM1KKOIz9jjJM6Pe~SvRNJ2N4ya~8~gwIoK2fA4LoPXl1Vdlf9K44nDKhHHxfMZoNV~NGjfobdeiiI5IA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Wyoming : Wyoming Total Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_460_70J0_in-network-rates_04_of_04.json.gz?&Expires=1711116038&Signature=0QSerdZKH~VI7op~HXTMkeHb47splWu-MV71VZ6RVxJWtzf0vOvkNlPNva7AyiXEnqdKHgwtGu3zF997GfUtSfJbmxfgiKN0iUhE~vB-NPK38CwKDnqAO1UUCzcFHsBRZ9~QqqLMvHWwTdrtR5Gc6PjvaB7Hd6qAP28SUceDGAmQCxNDIsIZVkbrjPcX2PFR7AFxA2Xnm5NxEyjabfqmGbkW7PYnckMGd26fOgGM0YKMHsgsJxWdN8XrpZJBjl6~eIxv17SZx9juNJmIMWUO~N-7NDU-XO0FQCD5AQsFZ5BV42EJhlekWSHyXLmvyxE2CfVHzpzIQX957HXMZinrPg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Wyoming : Wyoming Total Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_460_70J0_in-network-rates_02_of_04.json.gz?&Expires=1711116038&Signature=BUPzjUmEmAAzSfcKc-jVexOYcRMr-0lMoSbMI5dJC049zCkuiE-AEsIZ0-YC0fmNos-CJdNpeAvOtHnC4Z0sKeFex-jFycQ8NLUnH3wBzLWz~1BJgRDebW8TroIjj8VCgMTrQo4xGms4icV1Sqx7t24h5XKnI8TItVBR9Qoz18DATLvg0cBQSXfYfigvEBp5ZWjqljGxmWt-vD3XWcyGPcgqGRKr3b-LI-ORzMpvzVG28qslNVfKK-ptVCZH1vM9EfR-Z~kIK1ZzTKU4JRkRNmnYlhim4l2TWs7Rco9F4V5~8RUM7XwM59-7zkt9L5FZdR~2UNgDRApITVlnZA9IEQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_131_17B0_in-network-rates_3_of_17.json.gz?&Expires=1711116038&Signature=AtaHZqlutFrxO87wLi5tR33rFuc1BwuNjP5f1hyaX5PW1CImph7XFdD6zxpletDDSdOVWiJKnzV5~aI5Gw4~OTI4oSD7EjbWUetO8c93X1uLwwJB~uqyvoyuLh02NbSP6ru6uwjbs-8SUKkLGz92P0g8Pl~iEVS3n1tZLGzZ3ZWkUQd86mUk6aMB4Tfx7PJjNcIFzAJWTpuDLWGKfhO7xWLnz9J7Afq-c4Ll5o3cfEpyDTt5epwcRcXHlXVqHSfyQnNqf-XDnX6G6qwPjdJObsObAawSDLFC6kilmIYCo16sw1CYUTdDHFY2CTT5LFnk9x0UwYUvs~nfxbhMnig9ww__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Minnesota : Aware",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_720_27B0_in-network-rates_05_of_26.json.gz?&Expires=1711116038&Signature=O9chQqTkP9vTQoikpCQ0lptxlSe7DoNs9StiX~ScgqPw3jeDh4inlI~ww27Wf87EHc7dcXYQpsvbQ4SCWHfawpMeHWnja~pbsFjZ3GZMBFiBrZ5cCik-U0NL0zIutqlZ-qaML3ojF6D7aoTUbOU-l0kXIflSKiNgomuloKOUVJknuGE7EqdX2GJhBkE51BIzRD530SlFcnESmkw3oqua2Q1p3tQN-jLxzR7SYLD5Sk7vJlogCGiCBr99E2icAtHY0c661atMQ0jxChJXEswM0mZE~70Bsjd9DHgNXWrE8Vts3KgsVS5QXIeZ2-pAyzuuAErBfaIV2Yr~gmjTHpUgLQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Minnesota : Aware",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_720_27B0_in-network-rates_25_of_26.json.gz?&Expires=1711116038&Signature=01IHRYlBYtZ1mKPBq1VltIW1rJRWy70xScsjYbieD2UrvRtSEvkSS8ZiHRGAB~Munn6Ah5PAlZGSkW7Yuha4qFa0EE2Sr77X1l6j6c3KtjqcLL0JzEonjW0k0nDYurSlDvVnghKOOyv545IRLWgQA3Ri6UzDSvdHcAP~eLe4eBAoypobr5jUBH1v-3GqI3ZvmEZO0qcQBOlCHOsZDN6~7IFH6SS8BzEyUfLkXrzD79RAFigBkL7HDt~v3BgaqbKmQKUx8J0ugZgolv9Mml~yM8UqTcsv-AaMy8ylEDF76sSKrSW3uelkIFK92ZLcw66fDr9L8zpyVS-SPOhOqvlUTQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Florida Blue: Triple-S (VI) : USVI-62A0",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_973_62A0_in-network-rates.json.gz?&Expires=1711116038&Signature=3kSFIuxbDvcVbh0htO5vP6m2JgcyNKAB2xtXlHNm6Og0wz8CaJE2~N~53voBDd7V9fVyaZF6b8KpBsADz3AoqjnhNpI6BIBaN7E~4XudOJtvYi9KbPb2C9HnJiU6KjpT0GuRT-L9LxgwK7JnVo7JTM8qGLindOEso3Kh6pP67gf7GrbffUWa0yqWVz7fqEDEIse0TlseY98oJfv6yXlMw2rDs13uYNjpr1whfD6y1f~4nk6X-fDNIRPKh7Mfg0i7RMFs3rAmlH76cwZaRI2lB4cLGVTBodLzwqpX3VQq5CI~or7MasP0HCsH1drNwBeWR8fF02dbnofco10zgYtHNw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_09_of_60.json.gz?&Expires=1711116038&Signature=B2wBTq9Mnf~bXXBOdnchZiWOlBkyXHXpvkPIDHzyd1Ti4QPvVBRr88jk4oU3iqQ70~YkwJQYKhQ51cXlIG3b3QvnpbxjAJPBHbR~Vtg-4dnWOgi6As1nYtWxrmv0VTbzsQnlFw3ZpJLPNPgEIu3hJy~kqv3U0ptf~NIbHHfmcd3S-ZUIE3YSq~dVfmc1It7rfWFf8E1DfXkj5xfQr23vA7sR5WbWZrPZnVrqMmKVfcO-cqdMSsJ68zaDizo9HMdXsEfhDpTeoiOulryJCVKK5LxFvf8fxavO7o0IANqwucPlnb69xvz2-npT0y20ryBX3NLK~GOUtCxooq-W1gY0kQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Independence BC : Personal Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_362_52S0_in-network-rates_08_of_13.json.gz?&Expires=1711116038&Signature=ou5rhtgMvLm2FvL~xKBPnjxowAqgPiwk~D8CL7nnp5OLd2wLoivtA2qnK74Fc1ZDnjb37tv2CXy2jEdbPDZMNeUy~cXecsEwubhWmKM4wCoV--zI3tNgQyDeaaP0vFtrj4zqmzNwTrbiLIcIW4v24V6pri6oaUmlcIjte2N2stUTkp0-3kSOZMgjasty7fuVsNr4u8ZbhPh~8fZbuZ4E47YCI0T2oGnhuMohoPOApctGAYlgrIoC3~DiLLIz66HGIZsRfQs9jVauA3fQnRkvt1hAC1MZXg4Ju80IQCW4Qfi6E8lOUCMhzu~hGEKIzXVa9E-K2cLqKJG58fjDc3FVPA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_35_of_60.json.gz?&Expires=1711116038&Signature=fOb5zki3U0bwCHss22-pLmykqSdiwT50siEbYmiXAC0ZIQR-x5YDePiM1uHes1zPql9~Bj-cSiRruFGTDYOZySrVlZLUeAmimAMXLUCHoGniYRMnESdbHhLXNyteu0LNgYvy6ENfJbvrhKbzPr34if1EYWHuka4ntygcWHLSkQMUzK47ONxlwcsi0nF4u0trs8x3ax-xJqyVyuvXpQP43n2fttDW2i8Yf5BsWtSuioLnH3e1LTJS7iv9CXkAkUyxtMLOLZq3ZVohtiPDBxUCbxRTIvDnPR5VbZ8B5QMoTIvNsQ3JfGjq2R6D~VZ8COlIXQ8JyV-NPDWiRiFSoGarZg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_22_of_60.json.gz?&Expires=1711116038&Signature=WFI--iuZerm0i~zCWQDQ~TLA-19S8LDMlq-lfEIUkw169cxMyhf2uCsI0fmJD6Ud8A2D4lQvyUGDYdGDsWJpzz113PLq~iaVg87EJoV9CKbxaP~pgQrL2sq6tcJ0O5mjsvusnsOmWcDlKgnr3ba2oQu751bZR1cDvn9UpjC~5MkDHAdMCNXGXztLCsr8eYr9~phHnxoAZZGmbcyig-sWgrVjiuzXE~aJOwS339jLSvuDoa360ZMHmyPu2hcrU5enrIFilF5ivMug~2bh~47kun5kINy7TtPSo-DEz8Nr4v9pe5K9CzLE78B4z4pspOjivcW~joTXgGgV-kQu9ipFAw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_04_of_60.json.gz?&Expires=1711116038&Signature=pfr87hMJsQeaMJQpG7bj~iJss0KDrq-GECbO60i7cdM7srsqZ4~TS8Kg5K1mwVEcn786SDQlGVb44Lsj51xTevi-12Ucrv0U2RHXg62A7TgpwGrmpM6ROlKHegGRAIMLhss0ZqJFFNqLeHWmHh3W-ONg7kSOA4aoN7Zm-1uccKkFm9dakop-9SNEk6WaM8H7wbUQY1YNmNjKTDeGFN8ydfU8B07c6YhAJDzbha41sgyfFkln92AnamkbEnzxW4LkS1pO1QSpO~vmGdxBiK-1se~9s2MCYdCTmK4w98gYevjrcJPM~pSzPvg7V~53IPPNEorKQ9Oz9V2NSVwM5eDgDA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS Northeastern NY : Highmark Blue Shield of Northeastern New York - PPO",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_800_72A0_in-network-rates_03_of_03.json.gz?&Expires=1711116038&Signature=VcI0P~xtKZeBB7x~nQ2BSUkD8nce5l1uBDQd0R9PBI5OTE5bx6kZce7LxsawT6fdNHc-~QXbmfi165VZrYvOWR2E0G1s9qycaWpmfKwq1xfrPNFJVSWEbvTkFmnMeJ0oqlqIO6CXezfP7o7TcYLByTqlf35yKk6U1H1nDEzDA3qTOWWGs38Yjm8MiPg5L48Jzt8oRDN-Q~WL5u-~-waePquRYtgNfUCwquLxq8Q8bvrKjwYNxZmW-oj2W5PuvysHPi9XAhwB3ddNNa6t1vRuGEH37jQ5DiQkR~b3SuDkehW0cnDEg9-qQNBM710lj-d-MoGPYAtfulqhQAaqJpgvmA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_08_of_60.json.gz?&Expires=1711116038&Signature=2h3K~I1xZ2u-8Y~zatnMrf7OGqORcPnY7cHDFHM5cfGPgPbx3mnvtYo45cC0NqnZR65NnMueQZ33sR51QV18Gi7zcoTivwgd6TC82Wc0JrVwCq80m-CmuRFPlm2bDx7NMInMRHVxdX7zfXIAClkQc4HXE4VvQB4O9gS567kYiu3AiGEXbtQJFD7D~X-TxEaiU~8pJjKNSUIwtaxKwwUT8PVhBhnUuprcueMDupOG7BQ~xP1GJVOFraDPa~DgZ4GDOzJwhJ~ox2vEAgq2rPdU744JlpDvvmzz7qZYULpEjuuBe-xhc7-9ET3AJVt2ZtzcAimXyXKMTzTg-407yPj8bQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Independence BC : Personal Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_362_52S0_in-network-rates_12_of_13.json.gz?&Expires=1711116038&Signature=VmuO-ns3WZVBj-KxusZS~6qI88GcGfc4mUW4QTGF5U9hblo5tfRDk4QSvoZsAjn06ngvlD2vUGMa5iSKysP7yrlZZcHO06R1y8t0-bEZMzAwx9F6QuZuMNWDOHbmf6GPbqMeeNhtRNHaP3XtA1B2HMSNO~v5jEzQ7SihTw-Wtaq0kJIUhvnbuQyJERuyjAEHzg~OoplKl-G9v8IAndKZNdcJsiM8wW0O89el-tfRBm9e4iuozRU30zgMTUD0uH74WlDvbK-tRxDmGZe-swAi0Lsi5H5JvZi9u6lEQ1F7PSZuBz1xGgFne9efhZ7Ys2Gpqa0v4s4xu0lhankyuR9Qjw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Independence BC : Personal Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_362_52S0_in-network-rates_10_of_13.json.gz?&Expires=1711116038&Signature=cTsC4aWK3OnKAOlbvsUXy50ULLbDJ63kKbon9sV9dLLwbTbArWeQqi0ZdCP6-lDuDvTzq4y3O~CsijQdZUnGtMcmKPovHABPTZbXjQS0gBz1QZ6doIGt-Yv59ke8R9ICsbdD6ZX3xUIrGW-xrZowO8FJCZE70ABszwIlUX25HtUaezUMuj8SFPB8YdlY4gsgSWzDLqBvQ~brhT9tGEgcA4xJQoSWjCc8ew0WmdWrE18~BlAgdsXjMNUy7Hcd9H1LJp2BhgseZYA07Md0fQ1N~EwjaC~E4q9636m~r-yYT5BDd5F-5N75jgNIdBM02hZQzT2GpYkqnnUIVOQrQa1FJQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_46_of_60.json.gz?&Expires=1711116038&Signature=lajd6hslvpIGIdKSnbNP8elTEoTsKMDus0X-rQODvhDQ4PDKZo8AYLuwcDup-x-pANWOMGHHvRWbM~eAnbh9p1vxEQMB4pFaLHczzmNOpjKqdSQr8zwpreVnsjIPdrTp2Ea~WEKaO2nQu-WPgNlxLOwgcJlZ55j9s8MNv2jeNwWSojVVSUYu3CxM3JlVHaBBvEPfogbe2xRTX6Q0cMzUYPSPmKL93~tc7Kr92DVk3ZZJQuHKP8FxcQh~T4X4TMxQL8EgTX5ivtU4SXqhA54JeqtNG6msf2VMNJ~VtrPhbSv0o95UA7sY0cUubel3nAmhNheg6tPfX6vUzWuDWhCi4w__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_47_of_60.json.gz?&Expires=1711116038&Signature=eFgI5-~VQq16cB8HWXlb47Psqb6UZsQWQsX69M1DYEA0rZ5IG0SqDLrrwmR5fUJApMACMGZhTglQHGxn5QCD4T0LhQtQHqv~pYJ~4Gv0gZUx7f2Bnbg5Iuagk0tLI2aiy9qOHEY5DOK7hfTv0Aq3FP2g3h6qKUne2zKDUGcMkQkG6TH9Fn~RWvLIjPoU4FJPmEncfNxbk029wXvkq2Ob1S8UcltsntL~7VCGHzY1O016t-rQFLhPUpjagul8m~9r6HLZaaxvapu0d4CMj12Qx98i~F2-4rghhuPSFxpjiT1H28emkOevOUFGEF~~PtuM9OuG40cReczYWcV6AQqEKg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_29_of_43.json.gz?&Expires=1711116038&Signature=GWSuvRkfwX-cll4JosIAg3mTd525dKMUcl4DnFERz9wsDy7lOd57J7h0ylRrRhfQJMegu8vTp61FxzG2yyteOhI6r8tLF4n36wOAMTqF0WURKYBHP0Ns5Jz4rtByi8~haWcw~~MKVtqHHxEIC2LcAVxyqzhLp6-Ndmd-U50TtR7XAkSHGCoy9-kzd9OpJd7Bu8UV11jt2SE-9F2KGud8repOvm-MZpqsDYjBFYYM4WdVVPIIVV86LlOZf3PasIp0iKNJGaiZUv0azDBL3E9HEG7aOzgNgFE8v1e2tg-zDrOxtftEw31sybWCad0e0d2T2f1hB7c~1aAq2kj5odsWyA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_27_of_35.json.gz?&Expires=1711116038&Signature=VEcBd6mAYwYpleeQAIEX79jE2hbzulhVQReEA07rFa~n9QzDDcnEvOR-jNzZBVFcSBMXhk59rgx-6x3cCfFV~QsuGhdrxzY9IMBNt2bInc51chY1uRm5IWA3ZKNZc2khD1UH3Rbq3Pzd6SZo8PNbcvt2KJxOwQMnlx~WAAMYGCBsH-g-Y~X2iy-QiBzEYTHtEKnZaWtrO52Cyha0qN7A3Qn5gI-0EBBzDcP0DMoGqgO72zYPbqEjGh-09D5Fsd~-cUxeU2t2x1AMdjBZuPPsfYQSZsiLP~STxlsWlVl-uuxhIiwKRLwuiy7M5bjfD0B8dkiiFJbYEi9~DMP0vHYbyw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_03_of_60.json.gz?&Expires=1711116038&Signature=E8LoDp0tCMO~a9Q901DnzNsxHg3Hez9Jeh5cMd91Bs0jIkB~7tUTAhicwcTnf3KT1MJSzVccZm0ogIR8nNfICumneceR~RJUnvuu8ws83nIjk5G18Mnyy47UOH7ADXpB~JF33NeUiAdBSCIgKZA6mrazyM6Enf2hFnJpo4Vq5~6ISbriDQFWhXTUZSJOIG85KuGuw8h~NsZeIPpXF98JWhuOjmjYYEegfwvdOC0NxT4Prn8L0K4d40Uho-1MVxepIqgrjtzsy28SO61j9hWG0c8CqSZTd-mK-PqawFpUdEpUny3I3Yc5ABAI2KUfO9lTN~8AUVqe~J3aI7mKbz3zOw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_266_38B0_in-network-rates_3_of_3.json.gz?&Expires=1711116038&Signature=Lem4-Lhy8lLG0pDuM-ybZt53CdRjaKrGL~ROWicAucQdHBw4p2RCwzHF5UAq1FTmKmkiwLzCW1ZYgCzB8MBrp8HF87wwdqKy4-MYTis0TzZJ7F1YO8ELRnIbBtLAQMAgI0QdFEHv2CLIvUCCm2XqNKymLDfe6~TVOQ-w-HARhGMNSPDvzLf~XOiDpF11RoS4Yyo9QE5tNhPvbXJsBDm-1WKUfCD3jn~0Vw93ZNx2MoQ8dW1ovWXQiylTWEwSyVpjMTyvPuDCD43R9Iry1~xNRHyTPl8FzkM3J1gOCuQoo9xRawQ81yhJEKI-it1SNVa~Bmbp-nvZIzPYkU7f70kwlQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_05_of_43.json.gz?&Expires=1711116038&Signature=XtxmVLLD6nqupIlXzEU7LxMto4Jh6Fl9CYbQ~SpIit7yNi7ZtQ8gUk~X38fczJOfPQuSXtV8twez0mLzQHInxuWFxOCTPQS8WR0PkcaZinWF3Bc7LVBzFZy3bXHPNucAuOD~zReFGsfwTTJ1u6EvCxVbdRB04MAMwAK2QmIsb-m7Pd78gW2ADCG22acaNBjUKKGm~BPDEPtebk~YBGUKCZxgLhXRz8WUOichOjURCEaAHroXxGY00QkxdPWI-575UUHpg29Ft59sJPMc139ixgeLetp-CssteaWHEzypiUSnFqzgprv9g4sWV6E6z-p3unFMN72l5OolkSNnWUv5oA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_25_of_29.json.gz?&Expires=1711116038&Signature=AqhNLWKyNup4eRwFFIDYSb8GAU7a-hdwGQSOPE~W-k8LxNmaAYV9ok5FkD34G0oCT5eTGw9AuGIv0ph4c3sNFPRHZK~p~IU~DGQxMo3fUiNl-AIv826rfXjmt7rhXg-a29ETLzzVKeqnhzeZehY7R6zVGiaGWscBM0uQqj4W3TJLHXvNmlQ2Ff-Q8xQjeBL5ace8IIOusEqOgIctVsBP6FppnbfHAZ-9TMesr7mMRMtC7xQTlRlOcZdIpG2BwMocKwDEdH0WRmLtmIl7Qik5XzyjW~3WTr0vijzLrqYW7A8ejfpYfgrMDfYht1W~vo4S-ZUB0UxJpNZi9wQPWWor9w__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_08_of_43.json.gz?&Expires=1711116038&Signature=WUxHqG2RTDWNzZ-c62pYy0xCNFmd26Tbw6LKmtQgXhio606f1eN-FzBMRnZp0EgwqIFIeol9-tjK1kBvIwqGu6ScxREiiOL8-3pFrjoIPsRExCmZWQK3cc8BEhfjdGvY3I29JsFmHbbWKYIK0DRnJrYEmwQS8UWLqkUKaXv8YUPrqvDOi8Xu-5vTd2BUKxyJaGMmJKb4f5Ouit6WLEO3az56e5i5hEfhn6OtT8EmhAuy71fLAsRz1v5UZ~bssCajy5tceOpTgeECdYFGwoafPt~2JmgtDbPtxYGrTOtMroa6u0v-ZmDzhiHI4Mzk9anoUMt5IvJRl0GhJeqDm6qQew__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_24_of_60.json.gz?&Expires=1711116038&Signature=rxZH~-jznTxQ2saYSYKBS-qpxt4aAhNhz5A1lu1O4TECPMyWzXE3QzZgYxO1irw0Py8QX0QwuR0mWXDtS4jHhl9AOu-HoTZTHJ7KtAuzJml9yMQCaf8uoz44mTqoFSJZ4~iio713DfOpnPfk14fZR0Fk~iTCUPTikwrrsOeF5u4ZoanVameSDFOCZgAr-JrjveGNI13QtFv9MDcHYR39HeNuaoxluIXtOdDXJjx3q140ah0jwcs~~HbL9JaGktz~HfMTjZF93Vl4NaLGRcJKGGhFbwe5Nf7rUca14y230MIS8Sg~f~iEKi-S1O-hqYIJo28~ZKx6KpYlu~g8Hxnmrg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_20_of_35.json.gz?&Expires=1711116038&Signature=ph4EUyK-8UplnEzFHQRnuVwjfyh59x9VyxD-vDm-mYz4qndzMRB1P~rQP6wpipizQjxqS1Dbxd5rcX49ZTAImjakgew3GhG~9XLdJ74JQEsgERkUYG77bqDrIag-D8zNiCz05inE1f2cwGQ0fIrtacV0btoCioDePvCgEHI41WIu1xzcphEtucWOQzS14j2TY-4Fn51qXUOf9gWXpqR4H2hbVrARw1nEFHopL8NQmqFCOAgzscRhxC1BBLus5NwZc~GqPEkfhereNqy26n34rd3VLpgsYA6SWV7-OQL1d9UoTCnVPqWUwJm-GVl4f8HOKMcJ4EEjE-RC-4Cu2jm~iQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_21_of_35.json.gz?&Expires=1711116038&Signature=dBh0M9g9gEWiJSlei7xZRYRKHAQpPMBYg0eZA1RLF5pOYRdkmTaG6pMTIfAFNJ423-aIOOlR6rMWJw13MipdLWWWEhz2GknutFYuv1fZy9JH7UJTwQBUrO5yzqZakNiiM25dm6-ZXuj3nlQanMTJunWJtS9VY41DHL1VgHMmXeQJvBF8pKN2XV6mwMmhcoxI9rW~6GLw2DvFkKi~iQLrMhO0MH~m5h1Ty-yPfUG4qnoc1CXTnR0h1fP4WTKpnE2ZIED1sb0fsnwZOsNeHhTB0HAWUnt5trWQ-Ouy16pkIrjHdSfVYr-YS6HotiDnnko7CAfIjrcmPGg4~uzk1QEgdw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_35_of_35.json.gz?&Expires=1711116038&Signature=uLWfODCaRwV~uE5rnrMjGaKekdOpQ~HNPuhSbTWof5My95~lX0KkosL5zV3tcfmjUBUuDczsVhWZcsBcOsU6AEACBZeXx3iMHrP1T44FdCLgULJjiFOOQrvNtfyqGHAwtkUi-uZ3KdrZGNPLG642jtFo~s47r1hsVKvE75y-J06yO9myWCNUvGFVwZ9GIz17T~jQgU6XNdsTcG1W181jrp86aczHHiXYDHu9X1BdeNbzQ2-tkY-9UmSx8Jn3NdDu~vYhV4ATQCWspOm4jux9TKLKY79RxCx~nAFDoVlXA4A1nSU-CUmFLoFnkrjL54hRW8YhJm8Fs-04oVxyZHCJkQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_13_of_29.json.gz?&Expires=1711116038&Signature=X9QShEpDi~oCLiAgqOq-zp2CBTyWl6FhdZdYUKTMHlA0MzQL95bHEzpnLgb6Nf3fWBXEIbgydzqEKKuNTr5uVPUB7KBkwWpLaih9ZIfe4zGYiUw1--63nMCqBy2b1-nGiaGbTMh89sg4z1884NtI0K-bs0vd9ZYfVP46K1f0~yW7pJadMjs~3QufUOVkWf4hDcBmEkGhknrntIvkAEN7~pB7DCO4wQ~fR8n7rswT7z2F~GMGS8~LiWDnCbpGM5si3wyw7QFJKutdyUqQx933Ens0AVaZSxlSdVvKgPJVrRa-kRl~8dcVZf9ChhIFMI6h6z6r6sH~gjN0HFmRrM8ZeA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_21_of_60.json.gz?&Expires=1711116038&Signature=f40lo-nw4f26AfKL7s-9Eg0rTtC8O2bQQcQmeL6X9-2YF6unk0D21CIWr-~shIJIEgmMdOAf0YW944~rjzLGmNj0J1ISFaUgQruZ4fZUKrELaBPFosuAPLlvLPRDRB543vdsXjBvb0AzPId2YIlY7J1iQ2355M4YfNcizic9u13BsCNSQ7lWTe2J7Z5LjXAwezVxUaMLrc28XGaBMl-hbr904Qla814WVOac~G1HiKX3azx7D5YPtGB7W7N6UoPfx97aYLre7i8tVu6xl1AbSadG2ISf-twErDxG6prEO5YZ8RAbtoSl-92SfmBN~N38~Eg8wW7XmwawOf4s~v5Zag__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_25_of_35.json.gz?&Expires=1711116038&Signature=swjNnIaCtGtjO3yRz5PEo8NVln4OuNxJHfjRNZa8CNiZytK8gsapVpJS6dI~StcCnhA4pfoMj5EozGgrVnshgD1Q6myU9~3fZ-dCYtEQ-A0gVAC7HOCAabP1Z05yqdKMIwGESZMw0503TjH4byI6dDvKTQ0AcYZ-zCTYjTDErxLR0qysqtHc3JIeD~q4XXDBOU1pGlkKJd-LYUOxhIrfbAWGWrtDHcw88beXEFxOhSoBIm6RFciqTHrU9UGQ0fFvXPW437ygHKaCqO5Qvl6Zjj~cgTlbX~76o0-JzAZuodzq5auLcCZF0D1yX3hVN7tCOKNhvTWxXLWGnHrTkkRYRw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Minnesota : Aware",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_720_27B0_in-network-rates_12_of_26.json.gz?&Expires=1711116038&Signature=dGsgEd6gIvFWvQHQm7BAJPamEg8a09BNbGQ4pAtG-B5vaBr5D21eKQamUMHoxyOE-5vsSwJgIzZj7fu35cTebgJepULA8ca8gdh4tCNnLrehgo2ReQWqPOeEpmc8Y4fPTdr0TFQAQ74xgyP8dhrMo-pPMZeWWpf8jiGCMS3c4s3y-gKtcjpwqN6P77qiVfH64nl0bPzTDDBGeoGBMuOLKspes4JKq4OCyOXAniHadvZmpFv8zjBZUppS9E~1xIPlQWrLXd-GOKpSgR1g7H8cAnZsSIbknYFSq269zlgMB8CROXf9gOzZHGx1qkkYV~Kp4h9JRZNEflqYX3zUvv5dbg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_23_of_35.json.gz?&Expires=1711116038&Signature=cZeGN5WUvhCWf9OzLSoYmSIsNrg-WMIHYnQk~jcJp560y1RV1RuGbsf-szIBQadlNZ7rU3brP1FOgAUAgLqj1mjV7M2W6iMRro9593eK5QxhrUk5LV5nT4il~7dG1JmB1VIWDER9DQr~h8dltdIgej5eji1RICGfTjKzplsJi8EiG2avxxLtRWtLzuk97hncNEe0S9GuIhk50OQdzkOdyP~jimgTYyo59GVrFtukZ03~4e02vslPyFLePwBBqqePLW7FwHup70o-II85C-fdw7p-af2VWUxXlMYsbQj0t8JfoxYbb0lUvEAQqeyKGvb9CThaTZwkx~4xklTgHLMziA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS Northeastern NY : Highmark Blue Shield of Northeastern New York - PPO",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_800_72A0_in-network-rates_02_of_03.json.gz?&Expires=1711116038&Signature=rnFQ1JSIV-LYAZcDka4m~ETMrbenD8guVrVrG29spS~3-nhJKdj1yHwSwRvi7Ewy34~Dh5q79utolHIknw19ytlbqkhx3jDQ~AI9cBXG9F-0HSEF~Ab3P~bgtpKcHRKuV3PSErRFrX7MPy23ni850Ubp3NrpTf9ygS5IN78j7ZD6TKxBu61qwhC6denLJmsI7fFvfUSXGo~rbT-m-Ufza9N9vuW8Ylk7TMeY2BvgAIVD0Ma~dKKBLWpWvCJD-QSVKm7OKYnw7-JTI9cqu2gP7P3CnXWXO~Bo8KDEP6LI-9Wqi~x4XLLvK-tK4yJ9pfJd7ltjRc7It-QD1yghimQ5NA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_22_of_29.json.gz?&Expires=1711116038&Signature=ckhPtNFdVKQXxd5f5y~DS76YnEoKY~19-mxdvmajvOLSiI6fRUbiCXgavQ04m6kxHLUyOk7fAY7nSuSx0vATsH4VPzAPr4G9fbIQ-L8lT0Yq2zKYu1xrk6L-UpWzcy2XXVl0s7ebZkWT7l1y6u2tehZ5Dx-AR2URmZklLoBz2armfzSZrnEyApuw2VUzWK5Zv1erF5huOhzOqgyg7tBSr-0pcToWzVGSiK2GleTdKVEKwNZhhk2qfo9BSgIh2y7IfI0DLzVgQjv7zP~5-oLFIBOQeZFt2zaf3pSrdnxqW9z68n8mLxYJXgXAGIwfvsN5IWe4x02bFjHfm4gAY3KeRg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_16_of_35.json.gz?&Expires=1711116038&Signature=B8~FfT3FJqa8tF0fGyj8GwTUrFybw3TI8uo8R4y9EHVk44~qkb047qznzPCJUwQQ2N6MooCdSQuHUOHakQXiKhJPp~FIsevqApoUh4tqDGnrEQYtSspGcIxjQWaMynh603tXkjoAmY5qIffXBTqgP-Gg~WWRoofgAAEemrMStXE3CYIPfbEUqigWpfmuMHYwRC4MFxsfOYGbBzJUOFA-ZxHmMPRFigh~OAZZ9R7CmL3mYwAk7m~~v0JSIjp4kiMvC6rzMF1RMO0INlJCe08lBjm7NgZNbzzpWlpizkgVE1tIAUSFLbojuTv5lsmgdkqazQVeULuhHHatUl6VxzCmpg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_16_of_60.json.gz?&Expires=1711116038&Signature=Xd1stfdL0KaZReny9VJ5RqsnsxE1M5nT1zfXr6C~TR-ImJEzjIxdWIWWvZBWW2Uj4btdmNVrHtSBxmxkzjPvrJSku5nheuN4WbBTG9R11HF2C7sJrAiyQEYJ2TfX7ylnkT-Zm5thNUa9rjnq8Q6-RYxRkBn8OmgBX3HUNfWOKmixQhioHw07Kx3mm39FGCGFVxsdpyqDahijrDLAXIL5B~2J7hDzErTTAHmHjGB0nBDXwlYvvufqfv2Pf4a98oWjnu~my4QeMM3axaaBm-VMKcz7AY0jvp4kjxHMzKbeqgIZpaxQoubqJrk~XPjp3Gzbcv34OZWrGc4ZPsod3VMpSw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Independence BC : Personal Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_362_52S0_in-network-rates_11_of_13.json.gz?&Expires=1711116038&Signature=o1MciG--cB2DaYAUhbwLAyedpt2dfEPOuFJGsmKokZUzvZivtdQzmYulJxItrCNLZ-26uUUmYRe5I1XPNAUrlzERkKszAcQwqVFYkf7oeZDceazX9tQEwiSz~LOZCYcx2g4JJUdCsXvFl5UZmcTjips8lN~grFdTExKK02I3bWbIIUE7UxtjBgpm~hv8sFG6IpB2ih4dydic-Tj03hN6YOFiyP1VV78AVgYexvOahsUHZPORAKKrJQJ7MGBJ-xw2AYPyZxpVfB4IQtq6rrH~A2uae5bhAF52hSt7VAWGq64wkfNFOFjeXP6fJRV2Qer~w58a6X3sKTruGGVZ5e70wg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://antm-pt-prod-dataz-nogbd-nophi-us-east1.s3.amazonaws.com/anthem/CA_ELRKMEDELRK.json.gz"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_09_of_43.json.gz?&Expires=1711116038&Signature=E9wPAVRCC0PDM7AjJ8NEnC8O~fy-i~6N1Toqh~XmHuC~vyZOiN91Qci9eDmzlLGsvXzsWb~eKuuJ-2KTpYcKTDNUbsr9xn0TGBhF7ezUJdfu7Y23oqHyOfcsKCODqncq5pS81mP-GFPSNAthx7NvIFjFCxZ29008cwMdr3y~KGjZCJ7q40ct9mpcOGJ1tjb20aIhEsHcrDSo5rm7Q~pAKwQ-z5QmKVUx9Y~ztARVUz1ugZryj7km07u3My0tdzp07QD~lBcEt8WDWP~9-qJWh0BTqeFdl8sZlUa5IiBwCpEMyIl4T8QIIyHGjD6hAkcDg8rzrZk85-314GcY55Z2Yg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_27_of_43.json.gz?&Expires=1711116038&Signature=tW77GcV2SwJ3dQlFoNmmCE-Ytpqemz3WA2uQDoJ-wHtgbdhBvK~HXVIx6fZ9KGWLz00TYXWj7lXl2zF3CeXvlO8ZTGxDKw56Gm5ubPdjrxCETVZD-FgMF7kkvpvp0thwW-3Ppuvh~R7P7y5fR~tAp4I-RHZDmediaZB4gW7fHWS1cDS1HTSWBhQIAbnGseIBFzXE0g68Gua8yXQrpMpek38Ycy4OCviUZ1ra8N5ckKiT2ELuruGlc89F1A7nSV9PLsaz8KWsYjpZmmuyo0xibH9xLB~0TRqowYnJ0HkmEaPUz-cNNiIz784pSwC5uoBrioAu5oY4RYwnXB~XuWkTcA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://antm-pt-prod-dataz-nogbd-nophi-us-east1.s3.amazonaws.com/anthem/CA_ELHOMEDELHO.json.gz"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_41_of_60.json.gz?&Expires=1711116038&Signature=ehU~OiWzOIlTZwFHaERKL-cOmYEm4fuh6ZKSB0pCIOHeFBmUaTqDCDFKu53Jsl~HOmvIrWshojPyagpAUWWzy1tVbGYKubZQxOV3LTVY2-QQbPbE-z0b4mLxsgiqh6h4NQAIV2fqsg4v2S3nfZlaBUCkdH4L9ZiPsIGWzqMLmFSeh1cJf331sDCRB1LAfV7K1ziDf9K8opVNFr9ux4HyHg9X6tSbGMDMUDhlpo1WE1d8zOJLa2Br5fztD2llsM4tMELZ7nOlCVHmlr4wNcEZul7ZNWgNV5gtG7HfSiJbsYtNispXiN-Zf-L4ykjeN1WniHWCqKeNPx96fyLgcjvK5A__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Independence BC : Personal Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_362_52S0_in-network-rates_06_of_13.json.gz?&Expires=1711116038&Signature=Nn10ERigMf-wXRg0QiFC53tDndOYl7VE7JQVIQqBgKUkLTGKSfLcUvCAU1SuF-xkvW1RdyARTKbcx4ksQ8ZetE5QAfYKlVHggwAsMMBjKtakXAw7Lbav0fPMgDtLnYxGtovMVAM7r9ZLCcXH1Tb0b1R5gjJjFJPEsEVELiimLqUPKQwnVraCp9K18w8CUk-~tPQIGaTWyWSB8sSzzpP6bislJbwpipb4WnLYrgtkiHMllURZpqiC8YUW2M05Gnym6TzNuO6-E1rb2B6WkRYq2mI8pA-yeICucs2ZnfBmT4SDxYC76ynXoNVAnmfVPK-ciGy11N-PGh2teq48vpg-Jg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_23_of_29.json.gz?&Expires=1711116038&Signature=wmXxmTKM~1OUs9Af8ep5pueLzVXAndU17lqk4RDsWqpqUeIQe2ImnKLO32zat10RmvMjNVRy95jXbk1ZQoVbBYb49IwqnWmDBUdOHwRKhqNric~IB846NwdXrr34eRJF2FCn4E9CagNFulp64ZMEgWU5xaPrqvPisJdg1AludN6MmVdI0llWjOqcQ4XwjUXmoWXEXM8xB5mbTDSsDJybIi4DNemLLOYAmYYtkUtt0lFxxmq4s2SEMLky24jEsLbEkbhNOrP54s-ApSXl-vjWeqzT8FBG4RiehqtoolxSKBq8HA7wOIkkto~rHmx6bfZL9aAWOVTeX~NiPgWkNQzcLw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_9_of_29.json.gz?&Expires=1711116038&Signature=Kn1ybqQCPhVRBgJ23EpThs-KE6ZfdbjenAgw8eA~SWt97OKkai6gcd4GKAfEC6BiJwYAbs7HkA-98LoCzEr8TvXFIN23hX~eK6obanFKqRdIrUTfe2YNalpW8nI8wVynP2yitX4EbVlR5wAAlezstvJOCaL3-fq-rYip72moDfliGkPvuBqShlZBgCTYCvIHfqOGINIcgRsJRsM5QltMaZagdmu4sA40KwlzLUQgkJOICTMd7ds3FKOzjtJRNJSEJFLbinTz0rM9x6PjyUQb9UAI0dv6eqZmb5eYwCGsgsDEUEy7WjrWDgnbNlCYu2PkmUXrjD1FiLT3EWGBE~jPzg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_39_of_43.json.gz?&Expires=1711116038&Signature=iG4rXwbxz~0A1IIED9XYVs3UQgLWJmQ9WJ~fiEONIpGkJONjGBm-JnaAsPJ80nd9ew9R4zh~EoYgInINUXXz3CAp9P8A36jzsZ4ko0Ink6C9GPJxqPxdITcB8~KN~zITm4lAxqwdwjR2I1y5NNU9vCrW5cyuNXaTEC4Hwif~tnY7IHQA9ID3~sdIbJKC3nezNlmSfebbM0zAgVWZUqIisx2KXeaz3EDM2D-aQRiZNgjwVgY1XhvZrTHhMbJOEw-nhtT-pC9DFF95eEkikq5CVtLXCtYIcwYBm~OdORLMe8xjR-QP5MQRSkAcKNmtC-TXEWM8bF18wS7JP2yypLsN9A__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_07_of_60.json.gz?&Expires=1711116038&Signature=zVfk9cZZ7KUqWJqPgzELuw4tCqKZCBff5VxE1OsciAZOMdi04sS3trVI7vco391uj1DHijuldRx4P1oRNmGkNg5aQbP1v8U3ET0NWUMVDuAFmsR551pS23~1NG23CVcf~bTYqSdbmd7U4yq40ZSYa~Q-2WQ7wtw5gSzPJnC2RTizKe~vgF6vTnYC2QKdS0XVzPJKdhcbbeBiPZxcyvsBZXz8SEksI4v0c7JGYS4NHUQEkemR~9MuQHzQiganXLIQDu9WIYR9qCJPME25gXtFrXN7mzSa5L-AFAYbcBrsUA0pCtpcE~1XUfQjb1cDosV39tLTHEMX691oPwgXVAuJQQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_051_06B0_in-network-rates_3_of_5.json.gz?&Expires=1711116038&Signature=a0y6nzAS5Atdg~MpcMQkvEfDEW3deLkT2BqM7dzd2-NCo0KOA0GOV97UbejBbyKtssMjNj4Ha7SbtwYSkmy~hcecoPvXZGKYkBL6dekZG2bDVRyrfBHJPPTUlqAyV4kGUXdO9T4RPqeOZz70~A8EXhTjFsUUVcUjv1Sn2pcQvyk8NZomaf6HXZRC6-jPVayOV9n7eTPcojvnuiIcwcknY8wLBW3z8-KlBu28XkMVUf1ntzKrb~yHgcljTiZJYLwqnPq3~TC4unxBXkHZrVHJN5q4dOm1VCA9pxag3LIlje6u8zj7UGp10G-1azsKuL0elh5sMEKrxnsQjsNf00emZw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_131_17B0_in-network-rates_12_of_17.json.gz?&Expires=1711116038&Signature=n9o2JuHYSP99zEb~RXhuZxJYpjvPU3~3AHbaCuZRNoeZB~VSBvwDdvLDSgLEJhkGiJDQv7Ex8J8~ZXHYj4o4OABUxdMgdFosmxUZ2qp39GrnXgcKAk~E-pUmp2VN-P5Bic91rOC6rI2EycgQcmHUtExi5JiLksOjkwXTyHW2yrscSIdgeFJ3NNCaAxNRjsZ8HbwlU5lSEBOYSohYlMHynWcOqqh32EE8WLtwCnsrZo6F84eJ4mLDDSPqW5e3IuFOhaU9H1wZ1YfVGcB0~46vDWJa5FRvupreYz5ZTOBbik1sW72InFT69DLhL4Dl4QyYajP8HoI0KWyM03qJaXUg7g__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Minnesota : Aware",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_720_27B0_in-network-rates_03_of_26.json.gz?&Expires=1711116038&Signature=HhY04Igzmw-3-nZrhNjwX8gPPpD6~eMjcRnHOESSco-fmdJO~AeZOwuKjbqAdB~6x3iZJlvaYfjaQSdHN1jYq5J-veYQjZk0IerDHAJOGogsuEuvtI6KzHqNTDT5VzJcs7jTg3R08p-6~5iWEHT5Fa7kGIUMyc1w5QQ~~st8lRO4BWEnERyCMrsvYyuPh2tPHK~LvCvLTG6IbLK-d4h5KHPZHUqLqgv6FwX0Y6mg2sbNPpa7yWpKeUdOkqtnvQ2~lz3qrO7C-SjRAsu~JAJEgvTvugL7~QjlLSxG7eYtjZo7aYQD~mDckpjydIq87TLWfHbJTtUx1DSLtI07xcjcPA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_254_39B0_in-network-rates_3_of_9.json.gz?&Expires=1711116038&Signature=Waj~qZ9MlFpU3DRP92Lq~3ECnaL9DzJgbqmwU6eZGDDOi8S6KkBT6G9xmPtvI6l8MjDCr2CcgKPi4damWye1xkbVAxbetSuZHJSdXXiSKZJBnWBXVZxyUij4zM30am~lvUnFmoCE9k-mN8XGdN1pt3JtfhUr10~dkEWArXB-tkRqDOUWmmWtMWoXYFIx~-pgup8900Qj1Ip8KOFZ1u6ql40hc9l8Y90Lq2aNtzy90QeF8DIDDiCzhwvcwv1gonpLOPnfSybl6C9kJRFZWfQ7lX663Jajg6BK47JfnDhEG48I4AJIIOXguDF9GRSbTeOGCmzJWrgyjFPus-VPq1Y9Qw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_55_of_60.json.gz?&Expires=1711116038&Signature=j4atGaV3ryZyrJDuK6t6JaMTggvRr2jIa4~ZXa5YRxbsHiQ3wkQEsX1dQyqAGW9t8jJ~2SHzX3MyFo7lIp7-isLt~u6xYJvJiNhXJbMDx3o5a3quubMQgx~9b2iwLh9CTXLqNorb6rHO3VguCPnQkN7luuvXg7jMXMks0o6IhWzcSmm6U8PjSiapEPEv3ADvxd5j7JGW4vOEQm6qcr08vWyX9joScKhbQFSMYMd0iTMlxeqqusx9T86Nyy6hCGWdmWrvna1Lh0a0herbIqJ7dz7cd-YsiFwFlfCdSN3Rz8aKrhV1cPh3vmsehWwjMsE3fohKqyc-E4xyQvn8J2cLgw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_26_of_35.json.gz?&Expires=1711116038&Signature=atv5W92LTvPnoOMIvRp-LG4OUe4vOlG9nI8S7ixZvJQTLVXs24NQqf1nv1zJlYc3OIS2Ogs1m3TL-NzGak4CkM3Zh00zsGfaKcroMAnbMvD7oMYVADfbfpm8guiSf5fc3IN4~enap-0mRuNcVBHUZGOkG1M3-mpQTsYMRgJptrgxuqBLqG02a7oD-tGFsbwBgv4K0aHjtyn-CaejLslh0Nzt~jXPRHsvvw7DXjmPuG--pnRZr~PEE1rS81Nvd-LoQwbO7B2lj7MHbfJbKRQIMYwEb365Kji7XwIOmzgK9RLliwAU0caBJE4-bwxsOADXY3GnPkoe3xVP6EVyZ-QQXQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_131_17B0_in-network-rates_1_of_17.json.gz?&Expires=1711116038&Signature=K6iMzrTyXg4XBFtvNiQctnwPI8BwL5wBGVymvOz1ZjLloZK47ZLgncmkypO3ALzjkf-3U8fwZGMcI1X7ED-PB6oEBWysbIsIj4aKgFxBdRjuQwFFC0kbHmua4YhHutniLs5gSZwnICRaTogZMRr2L5ZaRfH0GVGQO2sZt7j6qjn5zVlNeYRurztLiPUk9xwMfHmdx8HdBzWKZzh7Xph327idXEUXpiGhDaVhgIygTxkTjJy5rKXMu6FVDUFIEJXitkN1kSiV0Wv8I73eTl2~q4m6IpRB0i5iLVi0BkP5AbLK3924eZwO71T-w-6Y5Ro3hMo7SXdHEOq-6zsafumlVQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_254_39B0_in-network-rates_7_of_9.json.gz?&Expires=1711116038&Signature=1cu8GSsTRwdgGJlQcK8Z4OVjtV05-QQp~rSiKo41LYQzxIr5ySTzUOtGqe84j3SpnjdeSs16oGQh3n8wpPabaVsa3UcRc1kb6oc2OuByMm3p2cRmKl5OeJUyDA9jwJpdUGrLHz9onQkGUXsGfWZuEtL~3iHbilTbOQe~vMpZKBd2C4u~jDORvK57EE41Ph~paZXNDlFa102mtLzDTktt~RwcpoBZxM5LxgGSfozxDIfqud5ugb5lFfKuRzjdQcYYWtYnJ1jIGQcOy9qMXHqk1-Le9CmROEauZVfO-Xwo09rIIm2lFFnwVs-sQCuVPzQTtXaYY4H~DvQa~ZU-dDdCTw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS North Dakota : Preferred Blue PPO",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_320_33B0_in-network-rates_06_of_06.json.gz?&Expires=1711116038&Signature=zI9EIvbfXbahow0YWns5GUOwr7vSVHpPcyuvjrGlq1jGPZd6S5qBDCvu4e9PAflB8RmCVg~6AIHSV65UotcTlLJlrYpRlYXJ9EOJEJFJvi9vlITa96PHcO7O9bZSHcxKNcsgf6L2IUC70MjztoTL-blOP~tw4asHUUnOpdF~PTfyOzpTFp-iNCV7J7SRj85jkftoByRfvCWXedPUTxY9BjRzUErP-UyRQjSDDCW2Zx3jgJfNCtHYuqT2B5TznUxG0BUoGQcPo7nTsiso-x84f4UAeQhUx906w9aCqmqKtDV7GHLFXNIBUv-Yox9r2o4NtABheE20zDuSI7wVLybXLw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_37_of_43.json.gz?&Expires=1711116038&Signature=yBSfRLchj7e1T0AqoNhwtK5IQBgjQ7BtVn~-jBc3SwV9fkVbRPrc650N1ZpVKhOw3ZSvbI1PnsSZjCiE2WZQolURSsivf5kadV6Q1Io6Y2Sn9C31H0gVwmLMy-PG4O6isrsuH-KRnNSESvtUiBA9ACf5xMiQoLeUTaMIDv0XdSxboP8IIyqAgaTF6w4hlzA6l0uPewpl10oaW42l7I~3wuvnilIW0nZc1fZXk0EVW-obqS1YPkvXiNsjSgoHqGkJ1LnP9pzss7OTs0y4EKcscWzvG8QyJHuAnZLJd316088ouxF8cmHFI5ArXmxcasvyM-L1HuL3TXmejdTVSYgvvQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_425_61B0_in-network-rates_3_of_4.json.gz?&Expires=1711116038&Signature=iDr91hMgVnv--RU-LJWaYmrh9j-7wtbpFQG-3v7-QA7CLn4W05URAhTOtvriQmccJqSU7-1Wyf5Wdx04z6sG6ZMsHH1gh3Qdx5JEKhpXZkB0T7uJrdYpYyNncP7KX6rz78Peh-WWSVZYQdpj3Ne9XNDw2yh9iUBsK57NTMWSFtCBuUWbUdUgKz0qIQDrUCyW79Z-0Z9tVfD-AQIMYjF4q1dmfUDL3051z~6ra8ETthzqG2wE3PN5hwjrcDzmG73Uv5a1qejwci2bburaRiDq6X7KkHy4VskRK7EUUXEau07N6o7p5tXdYSfarMbHRQNCvrN1GNn58p6XNEhdicMjMw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_18_of_43.json.gz?&Expires=1711116038&Signature=2IOVLLFJsszmkFzqI8tdB0Wo2D3Ra14pVaA833CcFPJu2fagVn-XFB8f~xAgLXrRT8IgsDjrZ32rldlygCJj9KfQjwlUWGdQ5pPKAy0B2Hh7hhPT7LLE0lPwHqKEq4QJn9Nstbj-41WCWIV7g9SoFIlbyFjbyWxVyXsHvk7RbsKj774312nlXLXUws5OSGxo1UIWHv8NYsyJVpA0qhZG3ehQu0XQWf5bc2zq6VnYq4~FyLqMoyHf97gOgmwSd4J4mveZPwHD~07wx-gKs~GNrvcQ9KZ91uh5JzHk5VcS6QwpnYFnqWAlsAQMUcUape5tCyXci6zKEFOwI9dzExyVvQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Arizona : Blue Preferred",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_030_03J0_in-network-rates.json.gz?&Expires=1711116038&Signature=47z7zrw9wOV5jBzdFDZgvGfLYE4xBJUf84jNGHZjDglWJqeUknN7z5aboujY5NP5NM9IPxnPaJ441wNNo0qRYsWtdmfKzaAgAH28i4C7zyNdR~wQ3WEGZQP2c1LTT64VJ82yEzbXJcrC929Fy1M0pROJIO-GCTO3h7~mzguA-kxwAgXXT8fQEPiBsjAHQJl3w3Nr~GueeOgMhO4chmflRIvHPz1-QCZ8VAzLF2G~PxJWa1nQhzgCOovv8mPCmU42eKZ1MIayRb0RDl4Wtjx0~saHqf1qEUjy2xppbHfyLlhKPWe78SUg0~VN1lqD3VdzGTw5T-HXWYC9UmUEsr9pLw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_14_of_43.json.gz?&Expires=1711116038&Signature=Awipt4kVIFpmhxh3-n-Gcjm9ZuNsVfrxYcTNJHU4iUH059seC~PbF1ZhwPHz0IwIQ~RNiAv4F0mxobpQnsTqtZhulEUYBxuVKeysuVw51XWXVkSbhxEEa0wthFU8LnBX7DA-yyLQalb7-a-jvIH3KSWPuU1VVieSyeftdftEeGGlloQwZrHC3~LFJAXMC4F-Lgp5-a3lkos107EJ1lnGFkOXNiw8PjqL50jADZUymBBcIfOfkiERsBv9bfeHwRhobpX1YDf0naAvoAOLgliiIjQLTC4ACavxZk-Thv82NJyyx7PnhvdGIxJ~YUhWh9mtYEOr~nu23~0lUM-m4JAP2A__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_45_of_60.json.gz?&Expires=1711116038&Signature=wDFuYrDtTUnaTsPdgahNLE6AiX~7S3lSqPn3UV9mFSgOjK5j88LyAXdzbb-GdxuXXHrHUj9RzJ7-fngvcyJ9pkPABCwcsjpCX8fmguFK6x2-g6ja6EHxIjXqrmkArURBXnYZcmYk9S204eSUS77ezBdE3YM5AOjJ3isdjuslB4qaQ7QjxcTH7zFX-kXmI5zc1Ax1Ztqhh0ORD-w9qW5yhtZTLxzz5~jQskYszVvXmGCUZGfXoQmNTYjfyBDppKz4mNybF1xp0SPfu0x52lfFo0eBfIHz6wxhV4Xdw4a6iyB3XRH3Uedp76Oj~kWPYHfB~TZVj6UPqQNC3TVkbmsLOA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_182_25E0_in-network-rates_2_of_2.json.gz?&Expires=1711116038&Signature=KJc2tZEMTRpI9KhBwPbtZCSzw6tMVO7gA-h7B3zwXX9dxkCR3QoBwSjOO~mPRFYeHt4vxzgcKJBwz8vcG9JQxSKmrNKParCCnns3CoaswqiL30eCfej3ACk0H6bwGaK24SDDfX6tmogUtMnpILkPhQrXpWTFOIcgRlOSYiTuYIHEVdO9F9UNVSCj3YVdc1n0sN71S4gRagJAlCV1Kv1cGhoiqhvQA6~ab1ZEfESzVw2tlzMtHxcmEji9qVXyovGX3eCv2kZReG3h-efj5g4cAsBWv6hc2xedCXVqFn2GyUVVgtuj-s3Tk2mNOJCLXmbNug7BPyGI2rtWt6kZr9kf7g__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_5_of_29.json.gz?&Expires=1711116038&Signature=gZ65F4oiM6p2a9bN176Ow-wpi1SDzWAhinpOWMkig7xZFz6Xfe1TnuCICnc3VDg7bJovRjjpUuSEbzNlbwVaxThDJuVPWhyLNFmPRa3g2ko5os4DjgVmuight9bx7QotSyeyuwglN2ZplKE-1L7yHU5gUpgIz1nz8MFSoIHOzdK1myGVxsDzYPWpASybzy4i4ZfhWhRBgS~0fb9KgmZ4Xk9YOb1FeP5-SjMi4NkcTEWRXT0NzxpCf4im~tQ28z5UX4XPZAAS5xB3eFUwY044hiNBM6RTZW2g6iWMxEvQZfJKu0eVpc49BJC5peiRSCAQ-4upc1a9RI7uGAA~SO8GDw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_34_of_35.json.gz?&Expires=1711116038&Signature=yjqkuMWA1b6bPNnBbBsGsr1BWLlpHVYZXgjl-xuBcBK1Mw9FSrtUvGrEEk-7wSu-g-G2Xp56szvwea6-KYA~9zG3A9drGHq46YMRDkc5G9xouZncOVPIgliixZ-S2fXlZH0fz52yKZVNlJolJblCZskeedO8plbGR2nJ4Dn6vSwdyGwpaJ6tvKVqn5NkMxskmyVXJioihXJ0hcIxxEgUmhzMmale9TmkiJ0QH5pBmoJJZCpAvI-NWBornzAmgRVqsQ1Nc~rCz8LuozdMjU9H75GFd5sT-ywq86b9Lc-AIEQnOvgvVFPUbbSzPtaIKuRI27um630NCVMj1glF8jBDbw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Independence BC : Personal Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_362_52S0_in-network-rates_09_of_13.json.gz?&Expires=1711116038&Signature=4X2cQbuIvcc-dDbCrhBpZz1~RWtEdqhKXin5zmyeF9Jlf7f009oKCAR6FE6WhrUwcTU4dqzcKqtepC~KFYfvZ4ECzhvnsPM1V1xiRjgVE9EZIL4e2zghBRyTn8WIltiJPtHbXTUS7pzMRFlTqbvayTSLnMk8WXUugPilhI5y~5d-gIoC8pkZN1zdNyawrH4CHDWmdzfPHN0A~dAwGTW01e4nFLkokHoV73x38Tx1SYOrvPCDcYylm3YIjnwUGPBsRh379bq5csDsKaTSZHYngHodfg4fjfK17hoMin0Xo-3c8AuklGwDV88GFcM81sWfodXw-AatywjrxHPtTE4Kng__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_254_39B0_in-network-rates_5_of_9.json.gz?&Expires=1711116038&Signature=l59qzUoc3EyKdxzn19RF41Qq285Dn234Ch88KIanv5x3dRTwofXmNdSmryakJyFjMPSetgolMki--OcewrtMqHbcYENNAXPEUO3JUkhf9hx3DxMxItz1EPCBiWGGxJkwGzQUK2~QiCjxy58XlOIpGcNOtrcg~HVAArMcu2znHhHNFS9n~Nw~~rE2iAKXuU~VeZb3T~ukt7NrvdqOuy0JXsUr32WTPbsGUi2LgfUsqwssXYdS8DrrhEtkngGLKKzO5xfSCYaaB5N-Hv0t7ejajMX3kfYNyAjZvEWXLnvqtPfQuT-p8IYwrpyHMpb2PfvGI1FvToxtl~Fted~0vMmbxA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_11_of_60.json.gz?&Expires=1711116038&Signature=ZPg0ldusmkquqJkmC3k0FhuS05sQ4FR1yRPDLDrDtRNFh1YgDXuNV1aS-t9pfTOlf58mrkUaO~H2vB~hTdrGfhPIUV008VXzdGMTHwuV8zqujiCER5yRVyiSwENGI1obbCHFlp9Sn-bfPLqEg23VLoUK8RWqzaQvWYAjRHKHBxfBejS3ox1ixXgue5TmcGg82PZLTG0rsTNggErKGAXQmXntDhcgkOZw8ofU8s5Elsc6C3UhKG3GC1aToekHdndq57PznzApFwwLLRe76LGyzAjgEhbMxRkEU75K98Ot9feOgkOSKwKzEKNMpRRSqRxRFRjf~LixgfO0uEFTK524pQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_39_of_60.json.gz?&Expires=1711116038&Signature=pCIkO-JFAT8y4BVOMCMk-260U54Rr7fYNx-RdH2Ke6Bzb97-5Gy3yZXHdP0dmUVLxvhWfIBN3ztO6uQ0thjznVxPVf32W6UUk-RCzAd6RkOD3HByugT4AchwoodQ-jI0vK-V2DCu9eDfign0hJLkYMomMTP8CLYhyADumwh9kPUEWbSNV2nf9sUCE~jzmEnaJ5GwnJAFXU~bnC34WTSagkSuvU57eVdRceGn~~uuoMr3gbpe-OWP1Xb1bs81T3g-p0dbYDDROj5gfsbGUUp9K-yzyPikOAyauWD~AnAstF6XwrgMl34VG8OAVcDVxgy3XDDthygsjTcO8SP47J8t7g__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Wyoming : Wyoming Total Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_460_70J0_in-network-rates_03_of_04.json.gz?&Expires=1711116038&Signature=nx-gMPEIPDaC0gcZGRaM~wEYWw~fYplc0zLzIFk7DWT7m5JeRKgpmwQMwA247RJIk8V4E~rWrI97VGcKQ7Ai1RdRikVUFus0hor9~sEeUlsuGxQjagHXZFsSld65wvHmN06t0CpjIKk~1fh4mVDDtQYRBM8lOBhhm69Yd~Cb6eNc6EmgVV3rJJH-Mdn8V6JSt5mx93qSWHSBt2EvOvd6qt4hzzKSByzIzlUq-Dxa0rGeUy-dKvM~8Rys0ShFEuYsd4MZhY~1~hrx6NY7zwEIu-3RVaYsijHM7VUznSqoohdAk-H1FhGbPTM-JBc4unGY5usapSmTsl-yPZJVZLjZkQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_10_of_43.json.gz?&Expires=1711116038&Signature=dAfHvl80ZThj5K3ZwN0pIvSPJ8EblEa50TDdc7AGuzhlUXEF7K2c07rONS9i4VI5MdqEzulUAlOGdicEkb5qQOOCedSsVcebNcB6~E~2xY52ef7VAwtIlVTJDSiFsF04eck3-bp~fF~7vRZLSCRf1~6NuTl14xlz4xvtW7BgWOwZsgMsRai7fiQKTcL~wZMcQ2bGPyKtJIe6y8ubwqyzPbk9QObDs2I11pegB-OtMoWeQ3t2Oh0sWDFXZCqeWAqf1FHLalHfZRzmFxjYJopzrUQNV2jb77CDzH4~OUXrIiFRhIawDJjrEYYSMs-mCoc6Y7sMTQyKsB-AZxs67AQkgg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_16_of_43.json.gz?&Expires=1711116038&Signature=4Y1wXbvvRzz4s9D4M1iHyG2574WpCGdgIzS9x90E05hdT-vlOeL-tNkADAbd98eKKeCuDAj0XdGzDUqyUnZ8otExHS-jx222QuwzI2eMbBHpqU6Ntk2PTshjSKRxdhNhMMxjauX5YmV9YXNFy9ghQyL93unTXSqhnLfJa5mbDETKhn941nhelZCUCJZbgCOi-3TC0phNG~s9OVsk1eMIb~LpYxPm9ry4A9r9u8~HtIChhfRz60Q7T9VU1CV9PXeUUAkKXtuJcYb65RzUOT4bmzTTcjzNHq5VaFJ5Q53VZe0e0bwsOQBGzSqvjBbXiuqnfdguwpdQz2-hzwCGR7ucLw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_33_of_60.json.gz?&Expires=1711116038&Signature=VCwBOwmpRJa9lhVCZZQdIlLZwfQBkYvK~aZQuHJxnYJlJAgXkQKLFT39qGavNI1XGezqHlcQfxkBtTes11PCcpLquXgIs0bCydOh0dcqHAOXkFzqT0gDF8FGAdMLbtnR0IQz7YT-4NQLasXNcHIYZwvrobf2TRpFNDhcJxqjY4bG3DKF5FjAGGrSLlpgJa601RO~UPJpDUTlkeHKpn1p9SneeWz5UITgwwpPQxEqrw3MH2cCI6vXNmTKrfsr6zbmo8ZvxGHWwwUsqtHKlMBhPAim7eO00fiqefMI~8nyjdSbDq8ZzD9f31Jn9DTXnUUSdrdynThz7YGqbeQONvbOLQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_48_of_60.json.gz?&Expires=1711116038&Signature=CzahZdmf2d2OPHgUwWooijlefzTV5e~H~gxepabnSDWdOfZnrVQ63GNo~hL5VfWnuJWHKOIe~iw6nK4a5ic9ubGeqsioCrKMtaaj4fgE-uQzvxdMoUGkRFEH4qOXQx3kiatl6nc4eBpTHFe4A5YK6OcFH2~d2mGLFLWPkxnSpKKK8xFkAOEquRF8d6znA~YJS5-Gvx6EGZZIyftfwa4QwT4Vm3jy6hos0-W~WKbheCxoigd-8UA72EAZLZkcc4uVZr7WaEQyL6yBW8T4mSen6x0ZSx9VfPVdsYdPEMI1OGGH7nt~PHD-T3WX30h7HF6DoPf9Xt3EGg6ync1IPC3n0w__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_29_of_60.json.gz?&Expires=1711116038&Signature=ZQqNjmhDkdQt73tdIHmHYowcQhDxliZ2DbY42v1aZFzVgQIBniQukj9w5o8rwHxvqPqeEB1kG9URkPW8KMu-o0waYxK8juVfEVUfCGmo~U56BY-CVtKuwDVxd8E9XKJV7F6m1kim89lXkX9YZ~vGx-BsDOYzMf6sSs8x2uGu-TOgxF8DQ2vdHpZV005QWorkmiu6PdHqTv5VN4FC3tCSHqt7R78r5uPredD9RWxMY4~74jJBLt6cmzQfV2Q-L3dFa7YQUUUC-KP3obXgxeLOip3zmir0hiN3IWc0NVcCjmGcuYdJGNF4l0w~ocCPV2OfxFD6lDHMgrr~11GGfniseQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_254_39B0_in-network-rates_6_of_9.json.gz?&Expires=1711116038&Signature=RG8FIYwSSwcWeTQgDsefRKl5HIq8n8Wm5jyRq8YhG6~F0ZBgKyzjdobmnsBBNnldY1QVmvwKw~Gy5lN7gppq7w8VHohbbCL9NynQuBv5XjCHc9-84PgbXnnKE2aJJ5-uPXu9VDDwsZmO6mSFfObn3p3C4ngUL97czvbd2ez5askkUIu~NTMVDIINcD~CURZsJM1Pc8h6o6Fq4GnRJqLDbw93z53QZQbQ5sti3hSovlpZyftERx6PPdxal333lqY8J7dUBJLrimmbnyUFfVMRROIYBOXmiDMDtGPAYpGedEspDmzLYT1sAQHXwmGdAu8Ef4wVVY1JHsnfavIrR6J8lw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Florida Blue: BCBS Florida : PPC / PPO Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_590_10G0_in-network-rates_2_of_2.json.gz?&Expires=1711116038&Signature=C3lGXWQ1NC9bxMrTOz24xJqQ52nIWQsCDT7jcVrz-DJ5c1imP9WvMZBLa-i82wojeNAu51QkYJOlSOnNvkD37z8hiYqGk4fZ~ZeKxx1ND0h27c2rOByDxytJzcKkCJBL~uI0~E5PcKw1lQdflkJCmffi2qHVEjwO7rKZ0lt-TcP25FeXpz9oR6D53bkVq46Sot7V8J0brNDThOx3nlmEIjG0~bAyRVd7Lky7e~uGTdvrs2BA6hz16ROkLJX9sSPPcglQImpkh5kxQMnydh3lSgarZdrYpwlif-BnxyOe1yRrWhQv82BWI8t9RgDXYNZPcjbR3gJe6Q590kxt9gAnUw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Dental Vision",
+          "location": "https://antm-pt-prod-dataz-nogbd-nophi-us-east1.s3.amazonaws.com/anthem/2024-02-01_anthem-dental_in-network-rates.json.gz"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_3_of_29.json.gz?&Expires=1711116038&Signature=C755K5h5Lz8i9ABdNuyy3gXRWm-keKQ75FeIgW7W3gnz--q7NwMi~NAwjiipXz4Y8NVfzUl3OXTEQ47XJ3ShnzkNQGKf5GQxkGf~0nXgSRkA96GLCG9-1wcSp1QhOqeAge5PN2aJqXGdDODGIFDarZjRkpF0mMqzkTUj-i8Pp~pVYlimv~h1xYs9YxEX4Yn-1OwK2dYESi-MAEvomoLRqLSsttFz7OpfFFPdfhSae-pu9I5C1IgXL2v8PV0V0mhCB19yxHzPtjOsIP7N2Bj2DZdeBMvmPDEAk4WcomO4O8Ce84ZaOv17nV4fISxYyrQH6-zjlcFipsy1ARJ~96i~aw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_271_35B0_in-network-rates_4_of_4.json.gz?&Expires=1711116038&Signature=sTeMcqNWY9DA0e9VkIOeJBuKJhbQb-adDJiztoOUaCSVbhwBn15lsA9fYe~oVhdk39prdAqAzabhLdI8tTozVnFzxo2EsxvwQoEBcSH1DLA0XkoW2MN4x0TP76pPBBBZuJuXTqW10Ci8kLZpYM8YG7wTaibvUjs~xwo2AWDmIAtrXmB11Isw2tYgLyxUG5FNgT9O~yLsQdpO86JzmF-YK31zfGBSe1RW9O7FaYtjPSYO1MEOEym056Zp7gR5umw7FpSblUaKy7auQmcn9WTJd8SALUZDoopSzhwngT2jGrFH4Qeqtpm~V8G1nnrg3Aps3NU-7XPqqKxwyXc~Nw77gA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_31_of_43.json.gz?&Expires=1711116038&Signature=trjHPceT4EEy2YfATGQz4qz7D5-YCGqYS5fT86cFUABqpFPcgTO1JDeS1ctC~uT0E0A8KidxrQ8Cb3Sxvm-pTDkumK4q-MDI9PBo99TW445-tpE~9dYFAfgdFiCjnTPDCj4osYUuWeWI5Yz-druYQCpXdpFSAqH9XoYmPxZxvFHSGpEsQffQ~cg1BuUTqOM~G8FwQ2haPM4cyyXsINGhvDRk2m64jSrAIKvNKwnv2XvLU8kvuPew7C1GfrQTkWGrsl9kgNAB7sPv4E34Ej08plqrzeLojmShGLchdm4rCjVLErbzc3oQu4VjvHZY4I4zzRGThGBJUgZQiwIZtOoWqw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Kansas City : Preferred Care PPO",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_240_28J0_in-network-rates.json.gz?&Expires=1711116038&Signature=g5Ov-yvux-gdyhTgKify-pN2gU8S-v0QhqY4bTWH7pL1yNoVAX6hN~A~E7TkLNskHsTrtSx3L0UOqwau2xJra70P2iPPckX6C~p7t5GKfjWNuhH1PfRBwf6F-5nRHUfQBgYmCqkp3l-EfzuAnipdHOfn6BGiKX-40XMYd5jrKttMiLYLwPjSXwqG-XWJ0dmLLckTCQ6j2USGbctPIw7xJGArLXkeTDXwx4~~mlGxWXo9XE0-Cuc764IkA-IoX~nyFn9k1INwQS1kfo~Al~QrT47~QJma8w3mhuj4~L0kzJtW~dhTTbpD3Ky-0TyFxagxXw-e32kYcFjaPcaz4jupxQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BCBS Western NY : HighMark BlueCross BlueShield of Western New York-PPO",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_301_71A0_in-network-rates_02_of_02.json.gz?&Expires=1711116038&Signature=0LyMYIhKSaD4PSddNMqg65LNk-9GaYfaXcoWY7dpi48nSk6qEtbSJfrAeyXp~NcDbVjbjq9-0ItfElS3q1pnFpil2bqK~ONjLgBgLqVZmLrFwMpuS2EAMaLyS8GpTN3755uuO6Uh1K21Ho0TTE7Ch0jfR3y5TbKm7KyeN9TFROA2BEhUheT8-9NVbf~eaUQ35wu55guMAMPP53rC2E9RLrdzd3KJxIB64sTNG4V9GIg-1NgUo-Cxj2oi1Gxe0MEj3D~Nk~ZrFNYiAcnPWnGo~ZJPU0RzEbNUo2bZDY4hlrZypd9H2imJHKbSrC9b2wxJGz~scC6VMFZAF6dmUWmNvg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_062_07B0_in-network-rates_1_of_2.json.gz?&Expires=1711116038&Signature=YZirJI5ejn0E1uC58eNHvbbOOalZoWrY9OGqIwbWS5fYiF1DgHgowV1O-XgS2qQCpifuJtAwnMbHM-Y3vEa5I9GP2pm62T-tggcqeCpjjYy64Bf3lv7yqmkI6YYERGN-B24DUNhzVXmPvZUDvJCt--81eH2YJUM715F9BqLQ4bBECmYrK31uNKOedYOD~pBlPFJP~3EbiIBBISY1cIzpERfzYfVDrej~QzFmvCDbcCh3pb4BeiPXmxhh~no4NUZCOvsxcc~aGW2tVp5G5PGErPsCy52iEKeVfWXKqKKExvPc7-i~dquWNsksgQabVI73a5ovK8dyLIxWODQ8~7aPww__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_6_of_35.json.gz?&Expires=1711116038&Signature=RwGoeSa1v7iV7S1ZdbtfQRf9cPACYKI8zY7iIPlbl03bW5gkU8AHcRRRXt9SnN-GkS~CtmiJQrMl8EInSA~OTdfxO-mDOrZs8WiJ4hy7xeN0wqIyuhpUiX3-5utt5iPjKFrl96C9AEd4NPcfULNpQBdTqP~2tn3qrJ-85y3ioR45q1KOcxnE6ZQwpy39hk7Y4N4WQqbiI2p0oeU-jwM2qFa6a9xqaK9hHFGeDB6V41pktrt2oWcUYAbohHlkZgYfWwP2RaOz6FuYs8tJW5k64hhUylt9miHBknR2nurirgNYJsiW4hOlhgP~QbR2vXApPm5p6Q7UBWJ6MnNIoxTw8A__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Independence BC : Personal Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_362_52S0_in-network-rates_02_of_13.json.gz?&Expires=1711116038&Signature=ZjfkI0etzKekPj240nAUaOJgGvLvD~LxaFP7vT1B6y8FdKgpI8GP8EYqPBIF0ea9g230S6pm-Yhn42y67Rb4zAKDQdioNC3mX0401~FeuztyrhqJqIUCXNNNHb5Yj5juOLUfgfJ~SJTvbqFSY421RSjlgzhYsc-jGW2E4VOTACnb8hl1wBJ7zZ0HT1EZShCL0cZPHhPRZRRR1DrGjVgnCQl96nQnFSAT6CqmX-S0ggK6fo56IwRXRPzZXovLe-L5zChV0dT91Sl4o0cigozW~bcD0eDEYqIb-QJF5q9XwidD5lJd7DhhGO6USRXqNEVplN17vkxey7z2hcKPdc7O5w__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_43_of_60.json.gz?&Expires=1711116038&Signature=gW51OQ~JQ8soRoCGyk8vqgv1uRYVsUff9vW3oB26Rc-7H0bkGCjvzBWJIA4gs-UVsL06F0pqIAYV1SJpBEBH9l8UhzKGvA5GalOa3zZ4rH962lcm19acG2deCo-GiNSPyp4HL02quvur-Ot9FTigovR7sT6-dBLjvAGzwXnxncEK70SBVjBt6bMusqybemdNEchLKit4uIBTKPo~EGoSWm64ghS5KU7DynmToMdzFe~wpYqU2rXesjdlD1Y9wEZNYn6RuTKeY3LBE5W5Rr9yDqSz6JgWF168FRZQIInRfXQVYSYTeVJ6VcrKDcA9-y5ETV9wlz5u4kOF8GIAW4jMrQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_50_of_60.json.gz?&Expires=1711116038&Signature=O28MulSJt7S78OKhNA3NV4bM4PFprLaFBe7qiuCoyMPte7rON4WAl-MZmKhXwnwgbu-CWojjhK~pg3GN0kz2sfyl3LdwCGTQGT89tuE1W7KVt1xeuWPW3hP1oUH7UdIaqWQUKOexQm5vKtJh1zlNmhWmoiy917aJlRPaqal0UaldEFExQaY4GIqe24nIpFXhcrrxUZLBR~428NR3K3dIWnCunuUhaTaX5ipgJs9fjF6usY6YLQL6zmUbinVrJ2cjPll59KbM4hicZZeFzuGyaegkXbawB4M-pYVITGNdYtq86QK5HKV9j6j5Jk9xuW~Nx9a44A~uxqTJUECIurJF0g__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_28_of_29.json.gz?&Expires=1711116038&Signature=gjYymu33DgrREaYfdm7QsY67PR~B6931aulAl9E7jAMZMGSbvx-Ppbz4hI7Q5n2Gq2-muCbqbYhSJviWt-YGrcE3ZaCN3ZLMV5aObWJUF9tsLEo5m4KXnTv5HGHH1nyGARRRRSXtyaMCtAksHdLXbeNEdfsOrwkkqKp5SWzwf5wGWDYGXu2BEZi~4cOJAZePzmprdxLVCtblQfysvhKRaiuFlYff1vBi0D15UtYJNtDPgYQT61v7c-YH5HbZ3RBj--f85Czb1dJ4nyaqTcMmSYkkp51FOF00lrJpZcQEgfyaw6CDGg6RcyvlrKDaiIgWoj8wgaYWlQH7cY6LSK8uNw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_102_11B0_in-network-rates_1_of_5.json.gz?&Expires=1711116038&Signature=BoszAuKAb61AYR5xtJeKUF6aZEO-UKxbAgECnjMvRp7m7PVrgSUVFbPZgR7sZqhQkvBWg4lSZm6Gbxuo13BHQ3DvONg34x4HsZfxf5VYFVmOkKmTPMrUCAfxFflIWcdqdth1ICvB2G~-2HnyOfAaVPf1BTW4ply8l0KLJMx9MphAELmkELnDcCdWyNNXSuMCCLp5xDReTzXIMim9kqyjflVkJceM4MkC2DJ~G2O67yxjGMmRPJLEFmwq4ge~GILjm3ClGBClec0gJe8mVdSCgO4N0q8Y9EbQ3ryPLkLMuG6i0oeRkwQNOOcIg6d~mp-zd~FOxQHhmKnTA7aXqsvz-g__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Minnesota : Aware",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_720_27B0_in-network-rates_11_of_26.json.gz?&Expires=1711116038&Signature=cILkC0Ju68S-5A2jHFRKXZ9ZFF33g9caIfxDEM6OyXPiiEco3SqYWx9P-Yjq0A5A8w4QB101dmsrZy-cWQmBd6ve6pAPBjkJprGpVUFYcl8N7ok-dRmIkKRP~HQXzxl0Xg3goksXzajI8vPvGRi3LYGKSGO0goeY~9c9NIn0zPGYaNDzDp1mWmU8FffYHsQ3Wy0nqYSllfnWmZaqIva4UGLNrcgjXNz7tN6LMzHB~Kc7FmvIRmhNjz6HGwl-ileConWyvmNbkZw8CpJYC0oq4pjpirJ6pLq-8ZRiQmYesZDIVYPTjcHVCbNFYgL5si~3-FF9wvWET3EM22B9~cyXIA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BC Idaho : Preferred Blue",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_110_14B0_in-network-rates.json.gz?&Expires=1711116038&Signature=anftM3WUFMChqqdsdklwISTGbfk76bTrTSaVEH40Wd6QRxCkwI1PDQKGu3FFO-irf3YHF2c3UDCvjJUuk4p7QTwQMa48KhstSzNcCx5qC-oWXB48FkdcBfWRWo-i82EB1O7-gRgvLS8-U10prE-4CezjQS8q3YieJho9ReVFiuATLeVNKSbZStTI7YKskyPFOPnXzqqWbxUXYwWfowkNGBlokIFTMUlNpKfPK76IKQJO~mvQJM9m93wZ6ehZYHVbYwpBt2wxNIW2A8AZSctpPRRd0k-gVuZQ-E5UJewTQnFTyEoku6-15ELTF-TP19WvN0Ytahh6S2pK3WBpb7tj1w__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_33_of_43.json.gz?&Expires=1711116038&Signature=ESyvVu1uV0PTLBUWH28-9Q0HGNqlmwEIE3qMsBn9muqDSq8vCVSzN7WBh0bymupx-IziQGt0ucHk0EfMFhbV0IpPGj5KwX~ayN3oazDTMlGBXuTJlA4eaqmSSRFn1Dt9Uiju1PowkuyPLsfuPh-HxARBvhSYfM9N1hmPJlnq~~lc3Lzcr2yCTwDYIrqyro6T2sCESkfNfptdB2j0qrWnuoiSMY2GQ-Cgy1jA8HedXca8ZFxdfpDHzIuLo02Z~4juOcs2p6XfdfvF2E~m2WmtY9fgb7b2AX-v1-Nr5D6li6PNFxTZ4oslV20aXxgYEaDmUjUP3wxl0RF-wwzP-undUQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_06_of_60.json.gz?&Expires=1711116038&Signature=eAujFR5QXsDr6cSoz6XkkucTBe~dyfqCUmkCjS3iy3m1O6wUSTPihzreeb22c-qjh~WUFR4aMuqXTXKrSsOawqU8Xj-S8iMQftGHuZ6sjfAiVuqnjDUxCMkBkkm5g3c9yK8kc9QsEvx4iHCg95KbocRUz6ZsO0A93lzenooNpj7JTnKEoVSiB42zNLMb1Zqp-t4mxJJezUbZIVToAw3Sxxyl0wRGpyxLGBMaosFsSBynAFvdWZkvh8oyRicMlUChqd2Rj-5Yi3NpmqOjBt8hn0tvXJ-BRJmDKNEKAAmJPAcGLRG3Y3dZQ5Luf850zZ3ZB9ITGUdAYochX09p8VXaKw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_131_17B0_in-network-rates_14_of_17.json.gz?&Expires=1711116038&Signature=EumulyVO9AR~OQjKPX8VE8wiCidvfIf-Xa~odX7XhzTz9m88sk5MwwLLMKhkHm5LEZoAS36haA7QJ6R2T1ulwug36iuedLM69hBgHO41cE1lVeNjpB0KiLBFZLJIl1E4BRQZsLOIb15q1ZbxCV6ecvzszC8LRFCtqDDlWwXeOwsA9lhqPrwatm69bF4RTkQx~53sBja8H-wKAKDL5F2WgBup9uKxP~G21dbw5cHkW860CGxIB~II6o-7yeeRoe4z~J0vMOKCY-eRGne5VuTIl4324kquVciRr1gg7zfe5kH8TDpPjKn35lDUBVvZGSapaHYaUSNo5vvXFFkBfAuSKg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BCBS WV : Super Blue Plus",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_443_69B0_in-network-rates_03_of_06.json.gz?&Expires=1711116038&Signature=v1XEgkAJTjGkUlTvhC6e3hmrJVbQ60WZTTySV6pu9AHrRKV9A3JDvKCG96Aej0ATSzOBJwJ~o~snnHKlvLumtniZPGkf~waex0yPD-HNxf6FzHibuAV0OHes25-VJo6tbs6ltL-9u6XE~J3UUkQdt298aXBSvhv0D~qHDLkNRd7pOM6tKgvt-XG9fdyuluOyzki9owTtR9-VjvI~UbfEwJZkbQg3mC~Z1tAg0Qp3Gxk7EgzTcr4Zz7mDh0lI1xGDKLOl~ozt4Prneg8Q-fjT9AZ9ypmwuCvw~vj7krH61UJZkL64zFmndtOAdvH0aIki6jk~~JaNVxKSQavZ9~hrFw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_182_25E0_in-network-rates_1_of_2.json.gz?&Expires=1711116038&Signature=mhRcBNrcLeJLM45xL7qrPzMqhqhl0zTEeJwz3VvMk6ztJ2lBsBDi7To9F2olpj-rsAAs3vKVPsLNcrlj0sVrc-xvnx4tQbcDryF9FsI3eHHxfOb8-OPShkNHgTIlcV0cbwiNuQ9IyuipEoeIc1YmfSjpFjwHGnP2lpNVCzQGv~JUGU-m4grVdPFU45qbCvNjCLRr~fQfqqjRe2~Jo572Nja873ewWSncUcL2SwFw5OohGeRXOm0MpXygxqQ23rx2vkWATDDKvCnTuhNYkkvKlPUZLMB7Ezn~Lt6-tZpGBUUiQ4dJmyOtLCV8Zl9NX-L7C2HzRReox~c1BCOSu1WaaQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Minnesota : Aware",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_720_27B0_in-network-rates_18_of_26.json.gz?&Expires=1711116038&Signature=qNav3WgeCifLPb6TfiHNhJhwTgM5VM46habtxPCQ4Jxv4xLjJJ1WCakPhMtP~6Ows6RWVYoLX3zkKkEBM2t0RFIMaOtVGsJqOWT8o0dBSE2JI7ZVNzR3NkdxEg7V6-lKoSd0xBO1ELuixVQ8HeUSFAosLbBYQpFi~IsK-ubs3n9ZZfCAzS0Ewx1McMBVi5nA2M2GAvxJYOjEu-GRlv1XrM23jLL14Hyt7EUcpHn-t5~Cmyxov4gjqDnSZ8vlrkl4CL3U5CYcx3SbN-uHr15uob-GDfvgiqK2tKu46kR1ZFQnGo4xtiZAqwSK5K9s83nFZNuTIR9Xvgt~hSZ-AQvm~Q__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_11_of_35.json.gz?&Expires=1711116038&Signature=ZO3bNiZWnE22R44TWY5PaTghUtZhNgb5b5SuqD0pDmZRvr~XggxKKzwqup1Nxz~Mwu~S0DXleV5ddZAsnSGN2yvEnKB4Wdrvc2t8~T-5IPfmQ9Q-r7xzDSk1~8CQkC4~GoosEkA~b6dSzcGCOcsaZhDTY9jyJMg0qb1~YzMWAUr1ySjFRiC2ePsJU54AcJRgkMfgyD~wwBdovWn9C3d9ikZxCthR4~jATgeOL7tNB5Sf1afEaaRswSb4vRdMznlI4XjeoDqSpCEHZ5dOno1k7DxI15cRwwGOYD5sms6xfrl1NL6GwNookxsvIBJUe4SZibMxaFBR-5BOkDkgwvA5LQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_131_17B0_in-network-rates_2_of_17.json.gz?&Expires=1711116038&Signature=LWCZcB9JENUndv2NxTAuFBZrcaJcGq0VW9jOp1hADGRTiOYzUh3vX6Jt7GmzoPXTAYC1ixaNh~f1MZGXc3XKyZ3gOtCjiLofALg~A4iqXjLdkgHyTPbVdbHRHHtcJ5wO6Bdw0Zrirf~PFgyXqK8GIWv9P29P2uIuAr4mh~epNRjvwypXS08UbnwPdOZdZPczdNDEb75i6FOgQlUXIaK01ESFs6lwkWnLqdr2I2uwkRrmG8NvN45szY1Z~z93Zri1mX-nJM5KXcqRK6p9upkcMePdyVy58kutHDbfBY89odB2lCi6uZPCUZjBgurJ123zot-xzooYrBJt3JUX51lukQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_19_of_43.json.gz?&Expires=1711116038&Signature=LM~a5kcynPIFf~xTUB88pdkidpL5oWhLaoME7Y3JzOhLJXSBK3RWYQpb~sgdKFft4yCMsTsLdV6Ck7k1VCj61J7VxHDl27pZT2eK1i0w5h1tnuVi0Re1mp974WDpfncdWYpd7LNUdFjBICjLGPETORKEFywWK8q5sfGp36bHNCccLdqsXTlYzXFTEMky2xyRqt5t3hmi6nmAfq~SMAdsclw8bYpf58~EXK9v~oQayMlLw~yPSXeF1x3JIaKgoMRU0bPXvhehSe7SPf0KtjOIppiSTPByQQsRJz112OB9cZ9ShdLlrAMCTZBAPn2OdX48QfgBUF9JlpTWkpKJguYEkQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_102_11B0_in-network-rates_5_of_5.json.gz?&Expires=1711116038&Signature=RrlnNZkee9U2JI6Su07Zfd4RhxhZM9SIZjhNo91H4MxuiHXZk9IYs9lOPxKDeuqE6LgUq8fz6rucdXzzo8ZOYPKw-0q7De3fg0n9pQRck92-WBaI5mSkzIN0WCbgYo5ZExYqjajTrgExuk-xQhAst2rG61bK7dM7AUEKZ5IGpbKTnlzCweFFz3s0KVRlG4RUPwZDQLAy32QrTHaTTvHP8G0dN~2aaK4baFWmKftANhHzMlIAlPZNHae-hUHr4E4CMaKYaKvA7cncScPavMFBBtrx7c2zytqxqrAifyx9-lCM4A6kpN7Z5bR2hxR0uQTtL68Lv1swaf9fxHqu~GmH2w__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BCBS WV : Super Blue Plus",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_443_69B0_in-network-rates_01_of_06.json.gz?&Expires=1711116038&Signature=2qAyHKghYHfYXar3XNYGvVWJHJfTmw5vYF5Jr-Do5GMW6RJHUoCZncnMouLFVEDc3DEAY7OGBXy0b2I2cz4nczYGfBB67RzZV6pqTfsBikNPfeE8SmuH00G6HmlQ1t2NId9nLongpZKxHlJ4o9BdCtD2Ap3qh6yhRXnWPFr0UTFVTo-2KC2fIn~7vdFmG99K6oDHIW2Ydx16bMjfmiIfDXQJcaOxiU85X7QwZoEfAVQ~dun5scsZYIJnSReQuYKCshbqq7KZ6RE1PY5u7WItXoyA6fOv~65-x5kgJJ0zvPh8k~QQ-3w4hYW3XkEkuYnof-s4-Z-cGdaKh3ixiyzByg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BCBS Delaware : Blue Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_070_09B0_in-network-rates_04_of_04.json.gz?&Expires=1711116038&Signature=NZdkPsYeF3VoxM9VQThOmKS-5-6jRXJfMNh4O~NUBpsbkJE23foz4Y6xCRUlO7K6cMoclPxtBz0rWibNAZ153YHr-aaEJQHuLjr50B7repXZ9V7YR1Uy3dYCdHjhmLefoWroUyuuXtrNLzV3Tv02Lj38Ju2Dq0NVQpGQ9IWhWGmWNoHasvBcMrxcDE0mvdtHl6ahBwz-Kgsf1bfPMXQ8-fU1SO0d5gcM8k8hE5bmtk5ePFnk04mFawdGwBAPTaFmA4qgCk0fp5zrj~SyxUVMsASD2loDtUqtVAFKg3-FYYWAumJ6HM9BYJ0SfpXxnfwE2OIKQOiryI3f2N5gSeb~uw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_10_of_29.json.gz?&Expires=1711116038&Signature=4Lun0zr1LqX9TWaetTx6CSuSukNc0GUTktoSRsmZzQ~tU99OpvOXEm2QVCMu1yByevFkmmfh1Z8EKLNh8WDYGwFmPXzYkyke2o3aDzi5f0D0TiyPjEGenurKXtuppOrkGoB-SBwe9iU3Z7541mdDR8hOzPwfHkNYSme3eaUeOQicC84gBbtGJRfQfQCANvh2KtaSzbuyQRykjaz5aD7fsJSJNuQy0kxyQdhqEc4kMzFnuWrtJjTwOV7MnPZ~ZMfwR5Qn4IzUXTmGfLMZj8rGk5kcw99kYEvzYpDCWgGa5Brwyz4QTIMnSV~vPInlrVEWVJmSqRp5dm8xUh~YagSdUw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_9_of_35.json.gz?&Expires=1711116038&Signature=lFp62u25vfi-LkCaTGn8TwxY0KyhvdVONKPDzmG7RlUA~LQJ-~O7mBn-M7vijiwTxQIWcdqUsyjc1OJCWOcz6pA74HoKASPDt92OWK1K6gKkXG0A3OYD1z7tnU~Gr9CxH9GnJAppt0~xU0McbaYhU1KG8RkVhFgE3UG8Wdbqih~waac-3fg0s~ek6aihBxcvWHegi2sBH~ruN6VtJCIe9Is6WRssXD8whFve0Aq3Uzv4HrWtpxjFKjNjXCITdT8hjGvh1q-4zECeZlBHkddko8O1pwtAk2NdToC~chLkte3qiKRP~9CfdGA3OvLRl90hpQ72aDkq0PTXkcalfJZdPw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_06_of_43.json.gz?&Expires=1711116038&Signature=n3B8zEReAYObQjjUn0k1-fiHrt8ZXgwix-XHi6GMcsVhLE2B7OfwbDBzy-JIIym1Bak1bttBJ86jtc9cCmcHo57vuscE~DeXnSRuId4bFNI~BUT5l15YlLr9nfR4IQY6NG0wGeGIiertRRXiu3gKCry-uu8uN54ZyrTMzI-DXQKhT-jNI4dw5MRlLK83UUsLpaFgHuh0T2AaszCmgLF3VfYtViSBe0qQ-XIix5sLbrrxwRVOoF7bNV2nQIblxdvwyFay7k1TWWIaglDciIEr1P7av2b-ozQLWJDQuwWSfaG~uiOafAizloAqRH0mcTFxOkFbUZ-sbyYzlMcpHbA8lQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_266_38B0_in-network-rates_2_of_3.json.gz?&Expires=1711116038&Signature=4diiM692e1taA82UIYpcU2rmzcKRejrSmKIPY2kTsFQQKm8GXtoZqcLnQXL2bWj9WhNSZWSmfkM5loIzHbnoyANBd9knjkHJzjmh8ArXiVNYXu1vh8RcDJ4kSHDs36x~KP6bAwTUHGx-gO4sqqXkqJbTy6-tbwko61ULI65G94XzC7gOfvggvxe~NuP0SqaqVhDuC7r031uCi3i5G5CfhIoeHhKRrJevu2b49JRUd2O~39HXn0Qo9m15uGAAefLIROJ6hKjZFNiU4DEAlkpRbnLHS1TYeAxZdzS~3M~7xohirX1DtJu-wfPdYYVdFGOaPrHbTG-ILOMA11h-xMIxog__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_051_06B0_in-network-rates_4_of_5.json.gz?&Expires=1711116038&Signature=lOjFSJrtQ30zziFCkmyQ9TlB2KS6-HDbZIFCUo7aQF3HbDweLIAsUg-eeYVjHQ3vYNuvRnuZ4KAQfZpoEGH~rhNtLwgO-5P2Nln-v2OnwpjErh6SnPlP3Nrjr0dp0y4fWsgbjWTbPmfzdccUBRGfbZJFnCvvtuhVWBOfNf5~tDl5j2wIf7ZfHwZL3o10lJZok7ovrAWZdHR6UswWMXGcfhoP26tr0jMHLHF0U35KJWxkr~pjEjHFZ1i495rT-EGdiy1LowKuPyZNP4gwdOm9b7iqo-XnvbwNeBaZW~xClcPJRu104sZZXE7DoDztSyvc0GaDgSSyB51DXWCeqjRwuQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_425_61B0_in-network-rates_1_of_4.json.gz?&Expires=1711116038&Signature=nUz0A5De08IyXmwC1lCI17fzQqK3RMp35s~1UGxMBFnw~GQstF3ryowZzJSpXLpG8n~5BB11jfEcndr73gsG0MmXBhctr91VEcDSuZk8VzqX9hWjS87J3H~WqnDSLxRRDVr2FvoJXjYNSn18OOLzVdJ9GZ8Owu0mseHlJL0wj3Vn1l8H2zuYCvHlg5MbWlUzzf5Jf5rnz4BEuAeDODrIPefY3g1nFDAHSXvzL-doEUT6NFJyEP6Cl-QAkwZGoldX9N55wLX-QBxya7yJWsRlurn3Qd94XJV40zpJvP1UjDdBLgblsVX12B25hwsSbOoscUJYLVLifajctz81fFOCzA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_42_of_60.json.gz?&Expires=1711116038&Signature=mA46FoenayCS8~TEGmMFyWEcUXQTmx0NY9DpIhwslLZiSxeipxUBGP-0~Ek4pHENa6XjF0BI1Wq0-RxKS1mC0~OMuj5wicHTrHFQFtvN5y7kqBpxEW5bfmqhvGO3vmFyZl0iP4RMB6TGdnopmslrkj99sL0wDyWttOVSRQc9ydAnGfP2JARjJpYAjNJ1SSt-EmI-rB52DoNSuoJ-CBcmFEOJdtskMpamol87jyDRJNc6OHu7Z5Kv1Khr7ZmYjo6LcRW-GfbB8C2kpqE4vHLCRbfl~Rq-mjwn~e0wIEHvc1r5ULFju-3Uv91rV3160WR4QkQBmc9VWX8I2lSK51jB0w__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Mississippi : Par Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_230_30B0_in-network-rates.json.gz?&Expires=1711116038&Signature=4-ySOlahT5ybGcQqILLX3jaBahfPMtm5AUWAkTY9VfDjaAIZ8M2ps-JykBv-qQV~ij64Hc8W5cpmjM1KlSYxnIfnaval33o7zsBxn-wM1Zlno9geT7ytJPeUjv4J2~NRfIHVsY7pSRTBKzJUF01LSiw19yqmUI~QxW6AwN3KO8kBUksOcXvXL3iVZV0R1azB-sAZCMsu~wv8zS47MbB0XmSQsNSsOe9qbIyZfRHbcOZeCpz4C2wRZNanMFstCmXIeWEccrr0bTqdNyGA7uzfsumnGDJGD1mrp4D2TGT~6kIyauIFqk6Jdk3ReIU~c15veRL0ETq9TQkrZuLxq0~syA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BCBS WV : Super Blue Plus",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_443_69B0_in-network-rates_04_of_06.json.gz?&Expires=1711116038&Signature=zKk2mG50QEhmr7D68e29LSA2w0lxaoqEjh5Z60S~KZt0wCfeoirY3sOTtTpc-Y-RQlpe5VFnYLwY4dXEnj8TSqIYHBFtzUtT4eJOg3oY4o~9kigudxiYdev4vzxtmK9~qjEuMq-cdebC1AFChBgFiOgcwx1VraJ64cKEpwZz~gPYfu~LRjOgjAjMJUSahpnbQxBPEl832ccx0pWY5OiTigee4NiSt1fewh4vW9Dk-o8qN6h~80CZpGRhJEZ9wgIciEJ7Hp1718GIV5EBOGL5puHUO38OdkY-9Lfew~cdL0wdgfM241a1C36mz7rcWh0reG4Q20oSQMLILmxBSwjuJg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_8_of_35.json.gz?&Expires=1711116038&Signature=FXMXo7LFOr5xeVLInGmRaoz2Fa84QIxA-VqAe81SCiR79wq6AQUoLRvC3ZYelBcNobMUrgDxQmFcMEqt3m-2s2Py01amRu5vNhD-BPCbQgt-FbMe-1dQFbeyf0ZukNS4NXYkQtqr6Ois7CZWEk5Cgi8qt7fLxgesfzzMkjd86fmdDykqo8D6NxPVW13SqSvZQUlzP3~Gy-GNtMJi3Qnoba9-U5GwITUg05fzH72xdoJgB6bBPqIyaJ2DPGLFgbBStRRUyzFiyQ8LgdaDKbI7k69tdYdv~J9gxntutQZ4~JjIc2CLXXOrD6AXP4VtMIvw6N7gX8p2fpu8tckmU86oyQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Regence BS Idaho : Blue Shield Preferred Providers",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_611_15B0_in-network-rates.json.gz?&Expires=1711116038&Signature=zYy8grRfNF72FPNhM6nQ7UUUEKmFJCQZx8uf26kODOz21I0eb6rlZdCCsg~b7iKKqs~K1ps-M9ChQYRLQ6q5DRLOajUO5pxbIwDwh9cB9fyXqekFlYz2KRHj6eEwcdWnYkFlacTgj-r12D0t7eF8F93RUWM6dBRtTU211F2QCrHhQAWzyIrK9GbIOBB~XwmshMeSymJfe8IZCb3BTqHUMG9SzSnb0dDNi-GRoFr9vTD59RPQGysKxqF~y1TIHiwZ4BoIZKNlqmRr7hPMM0WWgFnMb7igZGS1ZIVD1D3K6BqsLLhsx~3ThfNquS0LolLqKm1e5gAh~mLtHq5hSU8XiQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Massachusetts : Blue Care Elect",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_700_23B0_in-network-rates.json.gz?&Expires=1711116038&Signature=Vi7t97z6OSixFRmuDGCMuKqY3zE-i8Egj17aqgfFfczs2VheHAK7A6Pk128~1ptS8nTsz-xPZEQqtSjvRwPFHIeUOLFCCO1Z9N1XmIZ5iGDLcDpY1FuqArfLcIj3-RFbInkUCo9oimO3wHybstnYPz7kJg6kAuoPA7yvUjEtcW4MYmQ3~3a~eg1-EAsauHyBtPWg0Cs1YW70kdA4ypoL3Vfe5kFmjoHsT-7Sbvk344tdKd9n2ix1ApMGkXveusMCzlzl9jp94kB5v-FCp5~XCwKvZg0SbJTQFeAwYMP8MT7S-93y9AbllWBKytXVXI~Stc33wj0nC4db2NXor~rBdQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BCBS Delaware : Blue Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_070_09B0_in-network-rates_03_of_04.json.gz?&Expires=1711116038&Signature=qog6c5tzPfbfC23zHoSryiEykABwKB2Le26jZTADe8u8H-eYDW9rwBcMG4-klj4aQ6JmIN51Q9-kPeFBbsXX42xAeYVq2OpJYidyluMBuYu7VgdfsdRmR-bgWsODoCyi-QhAzzmdXhbtg36f3BOhYaZiP6saUyddIp~sbzk8FZgXqav3FZv9554QFY0Y9Mbviapc-qAnIvs7CTZJ9rPQbrFzdXK90xniDZbUK-HEcBh3RbvkFZ1RJauQ3XQNHV4aCTbKuQh2SRYQgp9CgIngfc8icYcw7aLQwlI0rT4CwdBciQ6aM3Sq6bzytyR4e6KMKIRS3mVvflTfa0SyHbFSkA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://antm-pt-prod-dataz-nogbd-nophi-us-east1.s3.amazonaws.com/anthem/CA_ENKHMEDENKH.json.gz"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_22_of_35.json.gz?&Expires=1711116038&Signature=tUKUNlvTzCtGxX1ZeCT8wuRlo4Fm5pe2hzclxTpsfkJjwF0Wu84D4TsV0g6yfeZugRw5BNXnn0ELXeIryytIrbnoVW4ZvGaRVBHu8zJ0OPQfjHn5xFwWPzDrhPIf7e5IsksrMYJAgrWHTb1bC7JFZd6bnz6ugPIsoo5iz9aw7nVPw8JzarUz-XtyD2gD5KRzk5N6sLcWh3cYdXen~RwEaLHgANhdxSnniR1EVky2JUzl8VinU2ws9k89dgJMvm6bLoFh3BKMXtlbfEBVismNzLikvp68jo6oWqgumMkrXL8xYCQa4uqVHFGptOFW1CuOOdF28NALkkgj34GSmKDLxA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_11_of_43.json.gz?&Expires=1711116038&Signature=aO5XzaKYbv5rf9xvOw9oZCEUvs3OsnMMdETYmlU5In7ZHI8i2wA5Ko3UggwiHfgt3h8MWDUkCTCpb9Dapi3X-ro3-lt76W1wkAc1AcxsRT7y5vYtvm8ZPuisw4j5nsggL-zQ0thI5KFrbOnaZM2R15QvHv3DayCKszrcIa9D5Wc1YmFHEY1~sp9d~JNgjc-E-3t5MidTySkXkvYkbRABfACgwgN0Q8pIKKzbdKLZsPBAYes7rf7SSvgyJc4sJ8Fw1IE~tuft6dy1wwP-xj4IBYGD2vOTYgvAOVLLSZRLnFFSvjNGQUPRz55o7L03mEElM1H8NBADmwFzwVeRQz3RjA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_11_of_29.json.gz?&Expires=1711116038&Signature=YoNjsrsIsp4b1zqS9r7LlBwdfjZxU18hD245x0qLIFunRwyWuKDNRxp-IFfEcPv5ehQInF5Ajb61H7euCJ16o6ncCBOnDGYTlKZTEqce0Emd3vCnKG3CA6Ujfvp1sLChUy2Xr0ZXtjESBa8YNZ-QeMnOHsaIH8sAhY7owDYQHsMnrhqQuX-A7ERjIqpA6p8L6UmUW4eAg7xoah65UyHQ2O9pqH8ljyJasEvm02JV4kZBnYUay09fubdvoeeJ1baPDBo1OXOxSeW26jfHj7HFV1G0TeFEabQi0x~a-2FdcFXu9zYQGVZPfybXaVXgbR9TWKsG1gHpIcUMDiz8O8Siag__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_2_of_35.json.gz?&Expires=1711116038&Signature=Me26LY3yqMV5RABzbPOxThF46AVoyc0-F9yNQ-7cOchWKFt9gxrffVOaMgCLbnpUuGifSiL8QY5BwvGf2C2FI-~SCXlmWh81Cq3ab3Fw1VPgRHP9TWWrJL25A7uqEdE7bb-qP01wyGNA83RhbdV6ARXO2EBkRqom-ZmGDDp3bWQ3jhjMcUAKlO3NiZbnRqfkwGLo7s6DVFfr0z2ZwSkYP7t0Bs7rLx4sAOAAfMbkX-gTqS1zFzdBGl8plYFpw-e88AUfwFjAJ3GplKBdXhFFceeDKa8UBi7dntHs5mXdsBLbtMGgHATAaGhbP26pbH14wGdVTDDSOn~4Of-L40DjzQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_32_of_43.json.gz?&Expires=1711116038&Signature=43dMvJFhrXf2jNEIqXprAsyoReLBveqzO1qRC53le7vQH~dTmERuXlYQODzXHDeVwwFCddlXptnrhdOB7PTEdLja79B5ieleV9HioikmM6dFV2pQ8aPwuFqmqImnpnHeA6dOV~jg1K1JnLNwHP1sGWNJroJPjCRWVbEj5sVREb6FZHPJpBP7NjSrXN8AuOnfAGWXjxlACELCXKbLPPreLwjMSfMUOiUDPT6pTDWcEyaZxGM-1bWI0PD7KFAPceOp58EZZom~mv6sMexrEA8tPFjMJ9CTN4tTna6TMA828CuBXNWyO5Z1uHqeOa-aDmiRZwa2qR~K3UtqL1THVrnhGQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_254_39B0_in-network-rates_4_of_9.json.gz?&Expires=1711116038&Signature=NI3~0Gfn7D6DM70B545rYTZgVwg6uxOU5iWoaxrPhmNhuko7OY1xZMSoNtU7jOAXbK7WDDvWBNluErw~8WrWkQTUEyjmwe-C3oIYwEqojBXt4LDWnobxxjZVELqg4xPuAB7hq-ukiYaKsXv1d-Vq-7gcoaBkUXMWXSPCAEhx9y2s2WHFlU-fMaNHo9smPdxO8XrcREWmgxAE~ak6fHQCSMoAMslbJjxDSNsCAh0PLNJi~4H~~flm2siRJAvBMwsAnK6IxXQFSlIrOzvSArFvDDQlNebW8KfIot1jlBADyu-XH~8ms52cg9FnaVQdty9cLiffaYoBSywxVc-TFE4mTw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_43_of_43.json.gz?&Expires=1711116038&Signature=SxmH5sElyr763qcgQpK7MX9o4GPHb7iR67lUIYZ6IEle7kcTtWVnAdqU1d87Ryqs91aVgtl4jd3wyR5oKURJVALoyEA2Yfk971k7b5TaSPwjbCoB90SAyU2RqeV8UFRL599kULSV1UgYLRl6NXQng4bXKdUKqbqpkz4Nf~gu~cxhd-Y7F9hXnwq~ysCA5HQH2iGmKZ6cqrLWO9lwvO~FxE3Gc5tcx3fHpk5ZGXWhROqxkSl4q5OhKNnRCN-c1hMBME7ZyAAZJISuPPuuYYmkbfFCK5~OfRwzU8CeEslLyErpucauYR9IAAQCdnMUnA-hhJCkLYaqcRD4y3OSXWtX4A__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Arkansas BCBS : True Blue PPO",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_020_02I0_in-network-rates_1_of_2.json.gz?&Expires=1711116038&Signature=gfxR5jd1MOVb9dGRmXeKJQgSnLnwIcq3L0cQu34XeInl8rP7M9-5S9~ScCmcNREHnCO1RJF7SjAVfZOFgUUP2g23-X0yK9keEml0vmrHqfdynwkDw0lNeJYLXZcn~Rm00xIb7LHv8MU3obxy5omoZU9E5gUz2YLO1mlGy-uGMXS0Gubl~VCPZqf1HT8VKxdDflFg5NAbMobp8iIx-Adc7ooJbgMXohUqf5nI2xhw4pF8IvvFF0fLh5cB~Rgg4VpSzWaVf~pdYWM2rb7t3z-MJj42ftLgmmoqih8oLQeif8J~84iWD63ADHtVHwQg2b~nM~lR7C-aV5w1q0FXVS1yuQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_28_of_35.json.gz?&Expires=1711116038&Signature=m8blGUnU2OWSl51JTMr4TEAd9ZKNdaXb-8GUYT-y-PWnvvHl2LxNp7wA6nhMRH0wzUp0VnO3MCpNWVQof35Hs41ujjJv7oCqPtfi4qMmWVjFLbe~dcLvHlsgS2Fmb-VpcTTwj77qWS9zhlbtycG1dHYgBtOILrhMwGdvnaJnmmebDs8VWUCYkSwDQo7kOazDzEgsv1AXhjIdon2IAkyHfMYZmLb-XzRFbXUHxYlhC-k7nysN5RVEc8wGqFhdfSuKslKUnK1dtVjMP5DWZ74XfSXAQRjaymMnopfcr5jS-gC5R2q~Ejqft4uVJlMxkaMq6IXK25bUzn0-ueRtShN5MA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "HCSC: BCBS Texas : Blue Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_400_59H0_in-network-rates.json.gz?&Expires=1711116038&Signature=5Ao24OLJ4WaRaEFsQeXiO~VXLsD3yt7lgzG2wQJHx4vLHkMHNyNlzVkZLRTIFvRBBYmfMB4IY2hVs4CBnC-JIJ8xr3R0fL3szulQITlOgQ~G~QU~hTQc9JZPBDp1s9XW6u4E4gH5CoUchdrh069eCR8c9Qlh~YSwxl0mCjtqzgB28wdfyVJ1VEMt8lCG9RU~EEDI2vpTPX7ydW~VEXMQsyK-Mkt1VScoolbDmdTwkXSrsDmiisiHU-3DwChKobJtlyUa3liestuqyjzJAoKPnfseh5rAqkgUXJhf0d2up6EJ-OLJTK2-NCDpf12s-N8HoVi1PMJ447KwZNKXIOID8Q__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_14_of_60.json.gz?&Expires=1711116038&Signature=PHUjSUO19hywx~MMXd3NyJwNRmXO0OJ0pJwMNtA13wlDMHu6GnS2hU00zOFTJzS3KFaOP-gB9mLG8i00xARAKqVEdfSYUJtUCoMv4jlEw9xf4jhggRQdDLttJV6mVm5UuWMV3pI-bPRfh40mCI4Kl5idDSj1RAXSpj6FKNGZVStjZTmNV6aK80yIOJL37N3z~8SlqiZ~eMe8WU20uxlNCSuTG3JoJbFqXtKViOXADwdKB9buwxERVvSbnL3dNl62VwOXGKqlNnUs~WJSDy9lssHqL0V5rPQaqrPVI3kPh4OSuBCwFPxxQKYye0fsH5Yihxm6wMY7BL0VBVlHOF~IsQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_7_of_29.json.gz?&Expires=1711116038&Signature=OeIIA4tt8vpbkYfzD-76zM2-Prtqdy~Y1K2c0TNugNcEU4YQ3JSAmcjvdw2p6aKx530PFoVEcCgFNY6DThBsjJd~14G8WLrugRf~xGenm-7r0NkXGfpdWSqgDQtWNU2x~Gqjl1BEw-bQSxhbfsUdhdQSCWlYeRTDwfCoPlBlFsV4xjTAGd1ArGbsh5Bm2pIE7mX4VvYPv40ioW1Rbcw2v-Lad4I42EXoph3jiJ5Q3TWcHiArDF84H63J-8AASXxf42DvIQlp5FNBResgeOyEk1K~fzYmqLX4h~ay45YFscc-nlXWi3m2FfMJrktP4ObT9sEP98G~vwOUXSNRp4kZWw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_26_of_60.json.gz?&Expires=1711116038&Signature=RB~w8LdNA8UXJTvxSTZAQwJUHbGtbqaS5IS0J7iz4Gw5an5v7O6vCxRFQSx82sZo3XUotPF7nwVHPjBjcY2TfARahiaatpq3CZ0KGTpD-wfV8hXVtRmtOl9dnXuIBCERfbCA~AgkRMf8TT-Tvd-N5n7vbriUpuWa1xmYPdcBKu5Z36OcLbFU6LpgzdxOZfIvEMYrB7i1PIJW3OYj6lfZqa5pusJg61ibB3PELPRg3tFmaXL9LaUvYrTo4HJOJcMKp0-ot1ZGrGrmi~udFyywn2rrbYQUK2Bza14RcNFAp-agI561Vb3GPa7~1jeeNI1lATVy3U6BhdZQf0PlQM4MGQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_15_of_35.json.gz?&Expires=1711116038&Signature=lrCoMNfO2M1GaIcAP8zbQpBnYDEzY23K3gd7EcYH09PYYCfg5d-apcnP9D4HN1OxxL~UK-tPLPnWHSzOd82z0Sm9ZI1LnvXt5N999m3FSdTY35YYxIkmolVK0Xw0nvBmEPTsYpRo0wY-vzwmZ2SrGORDrrky4V0kPgQa1Qjq9E~YCr78JYWbs6iKkXHCvATUd-3xmNNYPEY~kMeO3r5fAIHXqywtxaMkn7bgTsyufBsA2dY5ipGp1tRHXWMRoQT74xxLhIiLVr8jJ5eHIDJo~EqA3otOwU7k8eUGuo4HxM-hYbck7U9EDRLz9UViUd73ZfApvERxkC0MuQIPgatquA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Independence BC : Personal Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_362_52S0_in-network-rates_13_of_13.json.gz?&Expires=1711116038&Signature=BAKkAkdk-OzsR4pyY7pXzE6u04vou8i3sn-fgZHwE7HrNnWF4PRDJYve9fHE-yzK-yiyJQ4nzXvf8viXCGJdX3NtTWOoi2qiSBgaamU-sJT84CP~2U5OboueQD83s7kD5BGIvZb1ZWQtnAY26CPakGpbahWBu81VcGZ0VgTrNhNQUgax563gudIOdOOnmpUq~pIUmJjMW-Y-49vgClPXuLSeqJ4SR95nxfoKdAOmI7dxxFp9Vqb5YQPrxkkqF9d0GNl-CbUjiRkElHvPWzvX9XG9Tnd2i5eBh~ZyouhYgZY3Xvk6W4UrqBfGMzXX5FwUcZJXDLO99nbtfin8QL6lcA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_44_of_60.json.gz?&Expires=1711116038&Signature=4rl2UerwBo8qodhFuZTN6HIEQflHTgY0y3okbzCWGtquT3HudbphVXTqOo15Y0X-hN-CSHC44b8MQJ2w9A3TLL~rGs3i~sMR6ZJcJ5ELu5e5oCGnHPZi1ruZsHGyZWoizLpY-kmUspFkoh9DCXm65ndBMH-hwqDMlWuCVtyUo9vVWQJYRhNM-N0V9sH528wcvBUU7ZdobatXuAL2zlAhQD0VLfbuGSrUQQtr-SSBU1lJJe2Vrmqs5srBd0cWUv8jafrqFqs6~KxB4CXT4u1RBBJy2l7ppaWpMbFEVVQFWMLL~CrkmixD5XGvnf4XNs4Qn3ol7rTUUxUTxrZZ7ycruA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_38_of_43.json.gz?&Expires=1711116038&Signature=TAypW7J-l0PriLcsMav-Lih2DT8-xEQ3O5v4BBEF7cGDZrb4mSbhRf6FbjSYx1k1Ujc1CQiJ~vzqQqlRbW7Gfa9r69hoUjK6fMnsUcOmKOHSq4eCXhJz3UPXmyus7MiAKcmll74Qz9C6Gx5FTAxDX2Kv7CvCd1pkO~kCjfp5A14ydWadWRkERvVz4CZ113EIW-I4O9mHWkHP9hPOkYHycI1ufRmpyN774ZWVqQ0~m6HweBm9CCbbIrgFIPlHiWzftthWbffU5DmuPuzlmmQNNKCptFQXIzj5sIeDxfm87FicAb7z0PDRCsLJ2H7mouIbg5KaGuejJ38p73xO2Z9xXA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Independence BC : Personal Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_362_52S0_in-network-rates_03_of_13.json.gz?&Expires=1711116038&Signature=hoGUYhS7W78S2qTOHT4ZGuI1~QrYTjF~80xoQ5B1LQgih6xK~GNJD65dyB6r-5eyBD-Fo0jjRn5ONk~LBIm~8czKXJAeGrlbrMR94cJYoiu9fHdkD3Fe24KXciq92AdX64J0LpeRobwiZYU-haWqmnbbnFdyS3mgV72ICldV38gsO2cPZdwq2BM3eAaJRqZ5vKcmPG7OhAJM1n7WAd144Q-4LgwLwuzUzK4jPTTdU~1K5QGs0HoXrlH6rfC3Uijsd59fJiwMp~rTGu7269j6IrN7630OtoOWfBoFCswM-hrDBNGh-eln78AOFwWwoKmRyfB22uNy503Z01w2lLrOFA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS North Carolina : Preferred Provider Network (PPN)",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_310_32Q0_in-network-rates_1_of_1.json.gz?&Expires=1711116038&Signature=XsOyi9s1Q0coH8HACnlYWWKCxc2BNe3GndV~Xpxp0NR5LgtKrfPUioYR8qbQpBPG5QDoPXdJ65gqcFqakc3fBHMF773Epbuczis-QE2~yCqPfsPZf5FQk96nDoMn1tjKLELGRY8skYIS3q5cKINNH7MwVsNdAnYBDWaoY-T5wGjAqtgVKNXd7ltEHsIjIFyh5PIqUdxgwbjWuBIH6BAQTJJfCjmUZM4ZA3tCZJP1LLI0~komHS~2baeTt46wY1BYMqjkXuMdkmxyzAfoAlfam392w8rDahSZnbcT8yr4CJb6wErueS~Ntpe2WvQ9eJWOoeowzYhfPUqTOetjo5pZXg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Minnesota : Aware",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_720_27B0_in-network-rates_22_of_26.json.gz?&Expires=1711116038&Signature=I-Dbli5xsP3EjgNtO5nDjRJqS2tfUS1UUGuMEZ3w5zM~3~RnWkia2A7WvILMVtMzMKGMzGEV9pKpsYPUBcNNR2JDDM5Z7tuPewbloojelDAaYPJzmG1VsshhItPzUSl~xxnjpz96wD0d5geQjVj4FF846kr-WIUoRJMPZkcciuj2shpQshzJD4VDl65SOSWS-ZgsYdMyu1BfBhZo7QcEoileiU4NB~DmE0kBKT8C4aHV3cgmiiuKzITv6oBqVzRe4VeJly98YUIgjewVQcbf~hJFccIiqWk~md5ZWq9PZwuAsCctOSf1tq8ESEzlhMfSySbwEV0pLAE910pOgG8-DQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_13_of_35.json.gz?&Expires=1711116038&Signature=OUni5YxNkw9Dw-voHuEyqXXMqKNVacnCNFiaEXGWoww5NhYXw3Zmn5Yc5bh97eKD1yKiSgLglUF0Ce1AFpketNFk6mLQIdt944hZd2DJPCfJjNebmOprjrZESfquYMylio-XPjffA30DsxnxfmvxRX-TdjKf4LpalDklXZheduBjTWfk6l6GWO6EaAyqZwgAC~3G3UKVqelPfAu6-QHXs28vdV6URniTTBgJtN4ZP~GfJwkZunReA1obr30ObN1ky-vpOstwnWn0b3kd02G4uMBKyi3O-x-cSm5VGImQWdWfwpmtgVk-zmtuypS49FFUSXyWHwybyMc1w3-SE~0jxg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_131_17B0_in-network-rates_4_of_17.json.gz?&Expires=1711116038&Signature=Tp0Mzj4JL1RTlswWl~70~IdlTVkKoNWq~KjVuHlWZjoNuV0nyDs28Z37bxFhRsTIt6Fj7uKEfh5h2iwFC7~sCrrwaQzqhXd6n2QjlI37t1KH3uAcdq2WnvdzeX6j0JjQjf70Y5eLVXbwI6mPuJD-sCzZeJaSlqqLFY~-KJKGCEkxsPoobKpZpX8VmTykMuXJzuaCl~ClQlUogm5y-DlXr3mxvEPyoRQU0MQsJQCLXq0M17syMuRnTGl8T6M3Pv1gOjow4h9rFclr6NiNOEK42aMRuaQu6YeN12ysJD35jVW7Rzhb2IA4VvwNj8G4eIBJ6bSoUjJXixMn5t1InLexwA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Minnesota : Aware",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_720_27B0_in-network-rates_16_of_26.json.gz?&Expires=1711116038&Signature=eCgjH7ERea8o8kaxbFlyJQH56CJE0n0lbb1FtMmTVWmK1~GSBgABBmRFhCYW80ph6HFinT9GmzpL2eojbrWYr-MoUxsJYKzEJatQpZfmIvPVukC1QbbV9c~ZMhgaDl50uaeONDQD4ESy7XN2D78f1Vg0~E2YqnrZltlp88Z-mOCr8sscT--Xzi5hXTw9oGdHz9bfPTRf1pJAnyzxezWuMTq3IfG3zeNla9sAkvP6xufppTBCjCv2KlEwnuLFZrq6z61Q7Yxc34Wrss9EhsN7HxV3UlBU-SVd5D7TrJCODPg1hDpIQglKHUJEYRcQoKOIbTH3b-GE9zr4VeheYlRW6g__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_254_39B0_in-network-rates_1_of_9.json.gz?&Expires=1711116038&Signature=wkuzD3j-X0zv8vLL53Wn7hzY-H6uDH1-VhcXjMXF382HzJSMOpXgfQhNzJeDbozUUNqPuCQZBvxDdVtw-cNYOmuLpWNFsyVHIOv2YnP4DN2LkYtPAgjoMcO4IqXMF1z1M8-q5rx7BAl3TEefOY33HnQErCszgFZfX~ulqSH5Wa7ZlHRVWn5pZehN5bbrn7DZrrgKdUy6c3sLtvR5j6IYJYg1are-EsPfyvD14rtfZNnsygGy4RvnxksyBihQkRkJeRtBNw8gZiOCVEItwoQ32S~eBlLEuDJUPl93Exe7y1bA7r3FjHvD5-ZKPxrFCUp1dEIA6u2RtHa-QRn1S0qkpw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_27_of_29.json.gz?&Expires=1711116038&Signature=jyPlO5FkRPR8K49KM8~vDMGxwiOphGBihGhLUirIj0gLs2xZVUCSsoFXutaT2bmM~wdaKfSjKxV4u0zsOlXt-hX2KJjsjds1gYybcbw0b1Fh~9wty~VIe4QekY5CbnFHx~3cqvMwLuq9deIRXT9wMnw6L~OBFgwsXMwFGf3~stWLR7CrTFxstQEO3nzbeL7Y2JaY-j8Se1cjE~D-YFspU1SRw52qk87bSkY6zNpsEUdWM~90z0WE8IFM-0Xhbwu7rsroyitQxW-Z8nD9-x~hlHm7BOL~e-gtGB~oPPbPXVyuX2HpJB-F3409c8fTeZbNtWIt2h-nmym95NQPrmqvNg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Regence BCBS Utah : ValueCare",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_410_60B0_in-network-rates.json.gz?&Expires=1711116038&Signature=e8NPAaXmnCBsFXKvpwIvnptrZxlK5ciPNagcjqXqI-GZHEbYRy3chgnm08asNx0V9dX5KuAYd4EhUFNVMqMGE7oxmg49m~rSS6BRurX4yEH~oEfCU9GATkrc8~slBXeZ8PNl704evAERZ21UNW1G6OZChuRsLl4nFX6YbxkrZcuM1YPqNmJXygVDlz91At4ZBGCGPijC4-1ntrCoq-NDssaVEs6~fWG05F~-og7cGQjzaNmtN7b~nc20cnnsc-03PdojnWiefdRVs0JYpJbFRumT9XRlYUK3flHMvpj5o0-dDK2PjTWNk-ncdN-Zjwt0VSEBp3FvfMxbbL8FSR0QiQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_15_of_29.json.gz?&Expires=1711116038&Signature=JETXKwVWct7GLMsEHzlT1nQVOE9EtRz9tdU7RAlFl30cWuUIwVlLbHI4y4VxvO1Ss54xKE4ReohbDFRs8fYiUWorENmpjlT5s8PbUDzkKLAg1ONZuiUr8N~-TtjAupRGuso5Il6sR0kbOS~0jSggdUWjJERsIbRpNvJ-UvCvJovIvtUa-SYz9olvp2zVmN8DvkuNqv2tomWpORJdsnXowBdRS4IddCnhGT4QqGmEtKB0rJYARfWd87PrEaDbLv52t18nXOsl0pCQ99DjgBqV3w3tntfAiODZFFDX5lzfO-8jMvWN0XPLFairLKZDYY3TzY4ZuwRqfvEhbuY4NQd3rQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_21_of_29.json.gz?&Expires=1711116038&Signature=amxINjzvT8E5YYo9~GZaxixKI4ZYpIfj5dx08jNf0mBcwJBmmHwW~kIujqx40do3v5~isR2BiBObQ6p67fqeJHWHbR45QF2BwMEqPzR5NJYaS3zDwz2VVSt-t7I8j10fLclcKiJa-R1VHDK~MyVDSCRI5-L8OJ2q4I5Jx-J5PSQO17Upe0P4iDmuS9vY5aMWHSPAOGAXWF7u~hturf4s3pu6htT~~AitxHU5gU0nh-DeCurgkR6Ueig8GkvhboriUE9cYad1HDs7sHgifP~I8j~TUWZhFwawdDjlx0EXokWdw8uVdLAOp~EMz5FuDkiZsBR899YsdZLyX9~1waraCA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_30_of_43.json.gz?&Expires=1711116038&Signature=v7PFAb5z69VXXvYFmxYuh2BQaPF5BVBKWHcGhNP0BcL1-4OCkwFDCnolFuQUUpXfgAsuqjJW1s0iiN2LV2NrDohP33sLQJVVfhCrWypgfdYTwqwh8kPjbG1PkczBBv41TGDG7QxItBFQwUCm6oDr0Vzff43YFAMXSvkXmLZcM3T8ToH7tHwIDkDDjjirBSseFO0lLrKi6X-kRFkG3l4WwyHOZYEdsNspOuMlnV4GP0lNHgXW9tKFQEXAhmHC5Ui67URP2volbvIgQuTZ~qCG8synW1YgM8gtRxl4G65aIjJhTPHg3b3H9zude14qIjM4DMgxaRc3zkq73a1wwLLbjQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_29_of_35.json.gz?&Expires=1711116038&Signature=Wa3B8nN55xlUnK2RLRsQAIjkJAfRFcpciEs9hKNtz~GNnhaf1xGBZKtcJLCe3uqLjKSaNhGUDnCdjbJPft3-wKzL5fdP-kGwdzCFgarYcylf6UW6ngMVKTY~NMuGCWkkJuM-DxHoWgM8SnG4YaCHpPEQq~sSOXouwV8kabZGNIao6pYMYJE89hh3m0Jd8yyPVtx0X5KUJ2lXO5Yonu6tOmXZU4RqEUVRS0Lw47-Wkwa027PbYQta6e4ubSmOgYhaYMPB6BJfdNK8UpoTvdyIaOSesc4l96C7OHw6~rQN~0HCY2V3Jdj7FzMTmRtX-7pBaa1gaCfMatmmzY6KYG7LXg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_49_of_60.json.gz?&Expires=1711116038&Signature=3kVRe2Qq5oDXGZnRive0qZ2VnPeEDzGNb0Qb8BJpffO87vEFumgu~WfeMohcoF2YK6WvAhOE40g35cBV1MPgOC5RyQAZXESqmZyhZCtyys4L0hkoCiyXZtK1AkQxBEsKGPSPBd8un5-wozWZRJmjUUc2L1mp1h7wlOCosL1CzVnUf1wo7NQa-z76xjP4lmJwOeK2yRnPm-it09~-5NYQEv5-N2-n840-bVO8LBvU8GbfmuP~afwAVpSHX9uyR-73ZR21kaPwOCcYa4SuGGbYa1B~oQ0XfjPQVIhFf6hHbmbz4KFEWOHtIZshDGi3qhO0~hwUEwtyvRlRBpSIxvqpWg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Minnesota : Aware",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_720_27B0_in-network-rates_10_of_26.json.gz?&Expires=1711116038&Signature=htcZBYWFJNKPHR~YrT4lbJe4HCGoBlF7Yvmv3Azkopox4EViQ2BKtU5cDlNOycfR4EdmMR3cwoa4oXtpZXvetXqU3Z0lxLhyGtcuPY4iBe6nz4VlkPY1DqISYM3C2osa9cYgdIAbGvGgMp5UvULPb8E8PXmTbNb2J4IMkNbMDgpsJHUdd0CH2TcnFkMbbGIE3hq77V5-ULi1Spay28hsqruDc5a3fikWgA~cJQ7T92hqo8vUu--2af3c57zxsecQGtaO3cnKFhVO8XnO37uJbd-Cxvl~WG-5-inD61R0Y13SvQMHb31G1tUDQeuD4K7HW3kC-f8dfDJpshPRB85Htg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_25_of_43.json.gz?&Expires=1711116038&Signature=Ox2fsUOrlAjRiMN3fix~PaFnR-HThCwEnrGCpaBW996qHRxFMDRZdmCNB~xlswsyKyrCTSanEsbQthqdEBL9S7OhggTC0cIMgtDC4crXNIX6wiqb2ShgczwjV4jXjVaaa0MkZt2IZHIqG1q9tl8az5dZ9GG1g52691S93-DaL15vApLUoX2o4u6j4TraEwdl5bkVAXHj3qYyKwOY94yyhNeYjo5KXmc~dHw2QalWpCO95fSKJMqsbIfPH9fgp1Hm0Ob-Y2qnN3Ty0tTtUGlroJyD9nDN6ZAXxrr08ORIbYWW58HNFtmP9lA4BBEzLD6jBkx2xXrMPcuEGjDI9gCN8Q__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_59_of_60.json.gz?&Expires=1711116038&Signature=owKyLChFrolSwjC47Kfkd4cbB4pG1PNb9F9e03MhP0E17uXG~xGnNIWHUlm82g3iqW7atP~mQNskTwF5DROp88ekLe9bupxV1gSQWFAXGyBXCKmmn5Rn0qWMx3rQ35S2jWFtCGGTMUbkKFlbKIRKjstL0dDmDE3ULY~O35eamly9SeF5QVUwwVFvWSeehkfPzGHsOS0pt9axHc4eoUJs~w6FeXMbxSzotj9RZYimCK7l45k2NOu6etlQXTBzTkT8KTELzSvgMRKDE4vYg-3HnCzZ6ytdnu1eg1BOFA~HfF7STJWmeDsJXBc~5QknJCNGJ1cb2y8SVK6wdf3yg38zyw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Minnesota : Aware",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_720_27B0_in-network-rates_15_of_26.json.gz?&Expires=1711116038&Signature=fpV9PU~6rpBzs1-lLdVoxLEUhLn-CjyoE3v4waZTdE97WRYc979ikJsDuioiooFKyrPbGRRaxubPrSXJ9OtD0yzAQeXZ2oa7Gz9S5YUdFpATYc8LtyJoZ~-s59IXitXOcH33wiDQ~6O4~bvhvkoHWZSuZ6Nlibu4N8jS54mwmyPpIG2a4MRVKEq9oGVmzmxbD1Pm~ox9ehPl6PXZdH3A6wguxxyN1vD3cp0sYIDYsOH7mmBSWYUecsjHQOJi36B0ZU8sD6y8kWkLClfCuGPBJ1ropYBGfsOkc0q8oP4ERc6oioISUbKXb~01ZDJgx8ssBhg8VJSRhs0W2ac9dCpmdA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_425_61B0_in-network-rates_2_of_4.json.gz?&Expires=1711116038&Signature=o5cnUSThlmQRI4ztWZmIs50Iw7TeWRzboG2IDXXu4ajbXbdtIilLWtuM04RxBBcorosHqWjWreuO3cdIYjbbT-JnkvFSJL-Lza96hzeVxrqLvwNqS4gZy8ctD~2xSNko3U-eaCOKIqsqdh5zExxVz3lkMoj~LjsMPJHjlQ3Xk6QXmYMa8dsJVYLD0NKdsABtfR8F~Q~O7T2APtS4dMpsw~bgNR5TxcObXp~QoucFA5Cv43OmvHYWPddStO4~eqnLw253cG0ZjkA6U-txrap6wpjWvbJ9uQqLZ8o0XkJUO9RuxFmetdhr6sN14ZU61Bf8rNNL~UnyI5RtOSu92BWfKw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_266_38B0_in-network-rates_1_of_3.json.gz?&Expires=1711116038&Signature=LpliLhEApLvsuyk-IfMJLRbbFL8w1TV~TNskmBJy19mXnuFBQu5ZNbUOdHNlOgxWHhEszXrThPzWJE04~JdWq2MrkIiTOXPUy17nkhgiEr2BcMvBvuxRz7I9J1BKgbt2LzW3uQmzJYHynzwAs131t0bjMRdzp~oK7z-Jli~N1wzqqm4G1Zo1~3SqCvUUrQyw16cA51eEM8XtwS7rCEplMGiNKB8mmY4U1dYaW0bDAIhOb3Rbnx~WB5cz0BsBzHAtC9abKkcpfars-4nU1TnWLcE8po5HNU0JC-B2A6zHfgwuj8qjfcsCNHGCVvVBL6wMoMwsWmekrLri2VweUJbgDg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_26_of_43.json.gz?&Expires=1711116038&Signature=yukhpBIiCiYQbVqALk5ZDSbsedCF~hKNiQB3LJIWYnyK3ygFt~DkgS~zNsxxG~XH2fxf~lZY~lRZYYRJOSZHT3R2tkMLHR7UbHFhfqOBloQUadU8OhayokbDXFLToY7KPJYtkIyq1pardFb0hHYDLKd8NI8XP0ODsORagZFEgt5EgjMhaz3~Y7MTjNhdci3JCWDEEbRwArNJkhSydK6dpLLGOLDPR0Y9TklRagJbqvTMaeUTWplWKkDbir53auxEZNR5V5FsEvloBGJXhXrK-FQoUcJgBbFv4t~s~HIoLwgsTOOrTzcTxoTfb1rpv6DK7T-N~Yq12jcq5uJflxV-gg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_14_of_35.json.gz?&Expires=1711116038&Signature=tO83JwSUr5iSC2LgIB99-AJVbfXYrLwWwqDA9muiSVEa1RLuBJ0~mxd0wgOivmKh8hLmAbrVrr9EfE~x6OMQTrDuy4ghw9e6TejbSCyZ7dk9qIVWYUxHdAXazdG-p3NDWYY~iFSlFK6YbunuIELc~FpMo1NFLYBzdD9poZVrPDdUzlz8NemFokq1HNCLasF7SF4XI5n-woGo4XxaABMmK1hrzveiwK3Xv3MpFswwJemXn1RxYrwpaqrALsbWIMXDPgsLzKGpzV4JQWlzH0ZdNf9XtTiLX4a0BNmMFfGglL9d26CiemVxn5WI91ws4oiVhGflj9k0dMkSc7P~SkZfGg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_31_of_35.json.gz?&Expires=1711116038&Signature=KMR-cGq3ttMq4GWUMrqgMUZ7tgZjckE5XA1tDSMLfVYFqJLifcAN1-eTayMhP94LeLsHM54d6NM6AMVKpqq0hdlDheuMxilzb9HjSLzQlRww-6wAR4pCF~14vpIxS8lZe9nlGAQyYz-yYVSFxuMiTkEWYkZiUpT~3G-Eucn8eojNUOEEfAGYM61898aEXz2kGj-zH1XRHgNztoPTkOglZr7QZZkciQ2~HgahIzAMPy4LA8XErcqhbwCrtWrSWU92hzZ0BtAmbHjXt5-bR8eCc6v5mojVE7ic2XMWM7joZXC~zRDOoj~GZ~ZoF0qjmbJ7kf146MRNoXWtwIKCbNYOAg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_26_of_29.json.gz?&Expires=1711116038&Signature=ot3YInnFITKkwO0Y9D2plQ6aVofacoq7YE~7mzFJ8Tn9ItxRS6bVTNkfazHKgV7KUe1nMwO6MDH6fRIGJD11odwh6WZy6jKSxgxZSOpxNRRxsCDFfIhLcTWG6ltcv7DIGBnGWItSegT9XXVKE5rdw3En5Tv7ZinP486JB4qPWJsZmnSnZyM4mKUcX-UQ9yEDmjQI7b9RObh7NH5LCyWk4XU6pEASpsnzcWKSiTF0E-JgiLjz4MhQZEjA0~VJVtacLYqwxQcKD3ag4rRwAjTFR8SYw0NUAkZRhnZTv3nSSp1Vs6dMc7~NlG1ZAGDuhKtQbmFbD6FZuTZN7d1Pf2MuXg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_28_of_60.json.gz?&Expires=1711116038&Signature=zwfw8XHLZdCOKM71mq0TrqjS0A2tIrTmCOjR5PCMT46WAQvO4tKDg2XJ77svoL4bYC6CpTH4VokY9hs3X-F3TZ3E9kJfq~qnJWVWfWYNJREFc18v8OWMVPWE4HmitAYUyYrZNPuV8WD8dnBQDdcKAfGWeZCGufvgNmGdfodJ45IamDq39JoAHuJsw1eILtFEkTPVxNJ7-Z3Byrr7Whj7TsFnmAjApgED43Yky3AE3wjfrYe7GGkPLraTPTh3pvq26ecRCo-jnkCWDK1-k2eWUKDdCWKJ8Uwp-~i~hcZSSNsfPh85NyLadQYpneF1M7BO3e0jpAFSd4ed~ivCyTFNVQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_57_of_60.json.gz?&Expires=1711116038&Signature=IZvMj8bIyXoLkGEWiV8h4pnxAUHWjK7UXhb4q8~yvTDpN5M-5ztFh1F7JuH1zrqRkobgr4t8XU-ZzPm~ZT1FfV19DQC0ptoWrjghrJ~sNoIzLHy6rsUu55qzDVlmMIBpEhLNkiJHxfyHwwbDsBP0giI-UxftK0I~16-1pqSVzz-5GqSEFb9FhN~JdIiIb3iGmIryFT8V~iRILQiZFAwNUAd9zZ56E-bqCY~BgJ2xvBJINgbZmI-RUoUj7QIZuDIuJkTuMposjl3rSI7VbQvm9mQR94GEDYDqmrzHVGss~ImgdG9jYF-glu5Cr1AHX4wLvwQHZBq0HPZVdEWamiek7g__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Minnesota : Aware",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_720_27B0_in-network-rates_01_of_26.json.gz?&Expires=1711116038&Signature=CF80DioKUDtkXYE-NYuY4brepHiUZrNxCDgcj0CglyksOhZkxsHKHrD0a9nnbVud7NwtsCJRN-4bUvqdFIjEcOF7PwjvX5VcSt0MXB5YbtcTo3MdHXpFsJp2dkAZF~~cFNCizaMvIFB~sI8uRzd8cmc0z4SYtHMt5D7AkseUa-f7TBPTgQ2q6B1g6-17O6MGY50ZqP9j8xt3BiKzFqDkcs7uyYahUzNNGeO8EeERaVb5XB1mtczS-vfIarAWZfGh~x8Sp2NHU2N7zv0DUgFdfkptIiORWtn7tRybYhHfqFjCf0IY1hhAxjCermFKs8RSXuqHbHRngW~sKuV4rORy9A__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Nebraska : NEtwork BLUE",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_260_34P0_in-network-rates.json.gz?&Expires=1711116038&Signature=zAOofJsnfBu7fb5K4i1zto4VoH~v80n9Z3naVqc7z-c-aV9PefXgfWcsOcNkVf0YFiItPAxWGux~PugGCCgerfK2v0R8KzPz3bVuHEeXCViY-NWaBT90S0e2vTcOXrcx-ofro9eSsAJLhNs4msYUY2U5BbMLfvpwCoB7fLdu~pIfJP5y~1wiWI9MGGCsc3PExK4UQTuB7xzwMuOLwFRl9fX-J8mYXPUFBieY9OuVS5ssw8MAvLkmQWjkSiHmOi6ELLR0Qd9DDv435Mk2s1U4sKOHqlnNQu~16Ds8YrS6aBG59Kk5qo3o4VzTiYS-ZcZNZDuBkBGxm94wxaQ5kj86eA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_07_of_43.json.gz?&Expires=1711116038&Signature=rtvk~WSQvsTFRyl3GG4wSJMd6JYatAWvg53g8WViF7xybQQVHJQo6p9HXdxAl6k1PiiiwYFvI2SQPhmTtI19LdJtCxkrJ8~6neM~oHSq0pXOItdXICTw9zhP2nQVsKlB-BGhbIYcDKrNNhGpJun8vRRsK4ykxwsJYoZw5rBF-3m4ghEesv1~4~EBldpVcKbkCzeqjNKIEbBT6cIqIq3l-tghC2YVvRYBArnlaqbRtxXLDglL1441Axc7xQ1JApLpEPuL3wRXh~CgNfkZDcoFCtOgD6ErXpiBx~VEr5fAWa2dUtg426cZSZ3YrsAUK~r9oZfRJuukXtSffpoEazE3jQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_01_of_43.json.gz?&Expires=1711116038&Signature=gICEefO6H-CqI12i81uRcB9W9TbQAFdXnGgfOSD1tivFGRR4GJAf-U1jFEFO1zNF5QXmBQS0yVILLkN~EO7Rsf3Hwox8llaXpsdZ79dr6EO4DZjvGeLOQVXraMko815mrY9sOa4m37GU3b1LfSommPGUBaWr0KPB0-lggGSRv7drAnWWu56TsDa-jxSmQzdAhgLPPIKXsSrx1z7HcavISABiuJXkp0JBuRl55xCiJ5si1qhEsT4JBl-XZM4dZVpJbX~i1G0FGdhtQtRXbCvoNBbpBNrZWSK5myrlG6xvr5nuuHuh3zbbgVZVd7ATtTepJNFwLi5lhPGHc4SQ-3hQSw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Florida Blue: BCBS Florida : PPC / PPO Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_590_10G0_in-network-rates_1_of_2.json.gz?&Expires=1711116038&Signature=DBBebvzhi2RkcKeKNWdRTK9dWsAQaUPuOZG6CaE6OqfjZX8ovGfTyIE4llhk5VxDDqhNusuJZEsQKenc5RGqmXmLB837d3yNSt5T9qwImhwBkf50ifY1cckKp83lBEp7snmuXIh-jKpjD9tSlN98iKQFBJ8usFzhMHP0gBw0YnYZCO-4uU5yMKDAJ-W5-Ld-ukvNtIl42PnD81aAo01VLeHjxmQbeislrA4uFAfwp0DtZPbHpn~FfckslFyRVtYDajdBeIY6rHNc51YPu1BoKq-IPhsvulRfmD7bZcuPRNytSqXs5j6cMAJn8uAAt7sQ9HycE2-n9FlMhJlRAjY-jQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_34_of_60.json.gz?&Expires=1711116038&Signature=Lr4yvwEvQ6NxLw8bZUDPmtAr-EmqtRcJr3HwZQt~x7ViSNcBxGSrkM~xSxYi2QFgJQyH1BwNP9L1aSDG55vK0Rvj25ZcLGvqa6auSowyHrJAufvAsdUB22jThzCzrA7CyR6TJtk2O8NybDVmnCK8Wuvlw1il7teO~tVZCoLZYKDmOQPJvAb0zZIyME-yPwQA9LD9eA88TdFd76YFCsxAdpuwpKHtvhKBmr7OV9v~GRnjdbGP6JSCM6gbQLzz98OzxdDoDCGLKWfGjfQNJ52la3ByYwAJuDLueibRbG9NndkofVzuLwSMYHuP3yU5tmsDgvPuAaufKOLIAzGaZMiHyA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_15_of_43.json.gz?&Expires=1711116038&Signature=av~tCHeZOKyEKfKoHNwW1sUpqsLFaQpugwGp-PtbZ~7IJqkKS-wGKK6V5BurMkyEnTuUGhzrm3IJAo6vMec7K5GdEgVn5lhtq0UrdyNe3mDDzhYfMEi7AtN7Zm1by8uGGWRVmlA7z4IuUZrXWQNkMG4fDNb0QA-WCgq67rEANHge0M3b6W-hvfHaPd-ScfmFV8ooz6Gi1IJJfYQ5aff0EZk~VixtqcJx0LQtz9Zdxx6vRpsqFFv8tEEYCtX28XTcgGF208sIsOLwqpdAqi~HEHDmbHxlo3QGwxcIHELFYd3RHwapujthFAKsJq3~UgYm8mV~ZwEkXZf6KFVbU6Z1Ww__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_16_of_29.json.gz?&Expires=1711116038&Signature=DLlZSXzXYoswJImB~4OKU46IrVcRAQc2wzoTuyvYtT8ogyuZ99v3YzJh0Yp0z1Ue0Lwb6FTSglRSK96R0VsbE5tZjb9RCP3kH2QCZL19q1YEEZ0R6vPGB4fjs5YDwhjqKgzWnnGfriuS9bshvFnrf6nQ7j~JCk5Vr53RYDs~rLrOwMfcUoD4lXMlLN~MenUJwvVMKqpUlr7YbJSiQ80L7zqN0S3sPDGdXLmbGeRsYuQOBXMOGcnXsyQCQwWTbn2JZbIL-SueXwOv4lF30igNHf0HNKoLiNqUIIFkdfeVGkh5~Vr9Ky6JfiifTDaG6gH2IVpHWjkIMqUp8aSYIn3CPA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_13_of_60.json.gz?&Expires=1711116038&Signature=v9OCkkSij38PX~xE4te1OVxV1Nc2GYz6cGLw0d-MR8zYydnAZphcbuajCr~PY~3PCM35Xt7sXNPpTIIJ1wqKnnAYVD0dU5NqVwMFItCC6IZSzlwJbYSkpUgiMRYHpHSzUP0EociIHgrnOsdV8U9AOPXXIW8AdeZTyevWZpyMdwWnJQ1Iu18eOmePzTf2ntcr13IVgdNBke4sXh4DitDX~tQrL03K1XUD4hQdExEXJ~L2pDJDq3vdcdgHKXlKmt9ugCLPROhV6TVmG3q457goJnVUIRWyns7yq7D0-AIxgpROz16-inXcE7XQY~WGy-m1LTwUtDXIyjJtwX-BgV7zaQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_31_of_60.json.gz?&Expires=1711116038&Signature=mJH0RCtXYpoMc~YmEsR5NgZRDvoGaDeOjBGSmxppQ5WwDe~pUgfpwUri7bKEeUIpciSvd8SjqCWC3MZJUm3XmI0MGLxSGW~bm5VBLC69zM2D-QQSpEO0SQw-x8NHiUpnqkSdiOFZ6a9M-T-OqsHcpCKRkHrQ63L78Y2dNZL-9k7sFGl1-Kg7KcBloigCeruApaFdbfu2CaHb0pdHtxopL-ruTSAOV0GiTIc1cRX8VzEND5GIeMencqUjt54cR8xSovGb7MRo6YSre-ZQ-KXqvePhwhTOPm15VTU-vpdFFdEAYy1Zp3iyraqbmY77yk8wbTulMwdxir192RHOLeqPIQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_41_of_43.json.gz?&Expires=1711116038&Signature=laSpBBm4FB0jU-6SbBq3K13lFhFc-qyUO~5jNIoydJapT7128lBS0v3q28ZwdbYcyKc49R4QPQWmxKsClQc9kM6fVd5sOJ3U7043Q7i0wv4QlIIQA5t6vmZqDG23FJYGQNBOU5i0UFvdZU-q9X7qK0aot1v0w1O2ji3BPBJ~svpBfIkJpPsjNHKrXaCSFHj39FDYGmbGtRyV2pHX2UuqbyqZwFtiwXb4aV3ItxbztKBqk~PlGFFH1we32wUirVIaem1-ohYGlE0Lggy5taSIVbQyte57ZoCknSErAmqS5XQEYAXzgcbuN6TtmimPL-xQWIsMct4sF6PVPs36DATjiA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BS : Highmark BS Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_378_49A0_in-network-rates_12_of_43.json.gz?&Expires=1711116038&Signature=G~KSmjFwpEszSZ7P-suVtRrrth9nMdr0Gi2Q1D-nYUUcMhTLrk8EfJroxId5pGpRVKsF~jCHSyNbR8n0uWu1DDEQYweKTc4o7fDjWeoA88~Tci5v8xMHGbcvpQDFQOqO7ZUWiL-H0Oaxub8~E5e-lwEm7jPAJsVaszXHxsHErG71YE9MvzkJQPFW7DYOUA-r1AxN7IC19l4WcGxMRQi9a99p27MO9bakNWfQfutDkMQS4J77Doaby7v39g2QFroIG3pajLWGzXtrrBBp~b6UPmFfhCvT2QPj67k5EjR4UjuzqHsdOBiFOb80u77rQrQsz~8m3brujQBzyk5bRIshCw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_36_of_60.json.gz?&Expires=1711116038&Signature=kDuKv66WXiD5r9Jd1LAC-3jcDGbn7h6GQWzQ0H6n4aH9DdoQHrwfTXSjxeqBe284MMOg3JryXoM6~jVTp1o3fXncuqNzl90W9hmFyVipmWthzjQg93GcbjsAuaYiXaJrB3w~PtMxCXtheDBPRE7~2ByNEvnsc1Qth1qB-SzCdJ-sEqJfhfROOFOKfrA2EMKOoYJcaPgsnE46LPHowZrJLuqrgxcDCIK8Tz~21PjveBkxgWS5Ft7tNGjrnFps45W2DMPKSz5QH~FESKMeLSZmaIp36~NebR619OKAhm1Q4wD0w3-D7n-oFwHBI4IEfKMbqsug3JJ9WNStHd28EUkvPA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_32_of_60.json.gz?&Expires=1711116038&Signature=52YmeD95Uve6n1gRTczh40~XkQS5sWsB3FQqNKMm6~JFesc4nl9OtpPvQ2q8g65yVYfY3ANS2rPXc2eeoR8m67twkTUYzkq3QHINfzF6RnyHrupSvkBz8yQyXFOXAMW2OYnCemf5FqVRiv5rq4ZIyh6whffebSG2BiguwYOnol4-3LC9vNnzNBdK3JPWhRwNlAjYDaGr4E84nXTpcqapGwQU7P9FDDHLOWiNfJQRq98Q7J7oCqE6~uLqMZ~2iMYr9ZxHBsOLc5ug4t9pR58VXSsWnnU0x9fVe86SwGMyQk39CZalnNHoUEioy4GUy2dF~iGMG4ryzAQLxNi6jIfUwQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Hawaii : Preferred Provider Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_471_12B0_in-network-rates.json.gz?&Expires=1711116038&Signature=ly9GVn11d5jD377gL9LNkEEkfxTwQMDCKCgDeWCpOSomEktOlAKjWLtWgLNsqMZPhMMKF87EqXdiuPcPGnr-zN6Eazdx4pkJJKXhK~JRffRGlAHy9OGVMJfNujq0bq~EySRE2hGMcHpkcHNFrCimpeMYOwdImfnSYsu7Ll7KUn7ijE5rK9KERaVoM6baWnrtrjVVeJs4mEXTYV1Hlsv8AyaTant4Ue4VGencUlZ6CO9dZDSHLcvV7ThuSM-SHf4kdQNT6G5acNpLlGFK1-vlunWwaqT96jCCsrvydCsGQkv4MRWTcDPsu~xEmA4H7XA5lShGkzN7gyUY56dt3Noirw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_6_of_29.json.gz?&Expires=1711116038&Signature=3Kl4GvYQQnRHBtUzlUDAQ6m~CSn~3r~f-W6mE0lF3izOPoTqG9dxkEDE9psfMVZL8d334Vy6goiFfP0QW3wGmA6FUa7sklpWEYqAiX8QCT6khw783OAhYiwNc9TLCFFPRHFRMLG0-Y5PKvQPwd895~xcdMQPSZ02otuDfDUzlJgp16jApvIJCneYZC~xpt87zAvju8DSVGTrK2HcAWtR3Sa1oQdc90cNd3hCl7tpF3R6bW4D-hl6jhZmsXDTRjs4EMU1Mu75itcwlFUngEYP7-5sB8jP~dL5gkJfZQyChZE5VObpG0B4abhvtWoRWE~Q-vZavWYw~J2mv5~9j6oiJg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_1_of_29.json.gz?&Expires=1711116038&Signature=hPwmT5EDKU4VJ8YVuUV6-jrVmOPk5T9~tL4GPG3g4R9O-kY7CvKU5to4dYyvf5UWlh5UPqNRNCn8uv-gNheZFh1nkhilQqC-vYwI1IFbIl0GAociZblJBPUgse1c1MmZxmq~4GP6IL-pvFZ28Q8ZeRJ44ThWR0xquZyhTjvNeYz5gl5h9f6uz8zTdecDfUW1WVkANG6EoBOCSJuUlwnzhHYcgIExSmR7UEqMVWBQ3wkyPjKh8J8Xje0o46uwezL644Y3JqHdyooD36SS-IFXyHNuaX4cyNTjPDQJ~eqjey08m4awCLCiXZ5pyZwq1msfrK2D5QLeR5YA40ud7C3WVA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_53_of_60.json.gz?&Expires=1711116038&Signature=G8ABzKdwGy7qTkp3yt16-TknBffj91cvGqPRKUwoO~GWVa1fOl9oCqZdMO9Fy4ONUpfabcQR2~AwsZzAUCSQ25R~KdRePiSOaY3YF1MZ1K0NyzFBj5iNcPJ~U2cM5SWtKcdQX~fJdsgnPC2SE2GPHpXb0o-9VMHlwOADaWlMp8D908sb0Rc63iSaoAFBnIrOsmpMsFGpCZtT2Daw-jhIhPUNZAyW2jVxfx8l2TCOqj71hCecreIDC8i0lT0BOKvJiYfu9ayfypVlv9SRG7gCjOu5JBU6i-YvFWa2ovw-6K-vJ~THJRaKu4n~BFNrBydegxlutls9T9upqoCvJ6jaOg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_1_of_35.json.gz?&Expires=1711116038&Signature=I8~JAn3smYyIAfzAOWdAv-P6TEi67h6fbzSOYb22FiAU6iaHKbT4qF0H4XVkvQm8iTF0cz8btKaDRLjYj3OylU2Q6p~KnZ3SgQpuQr6ICZtweWAVLxswT2MkB99T3rpN03bbkM9XZ7J3tT2bxRkuvq-mmz5sRJGTHSBon4HC3Ydm772pG5QA-HpC29DWIZkm8Yf2X-4ncPFZG25nt7KVbedD8SCMKmqvjBEgOeegYfQiIB3eTnSstheS8PbIKZSbFSZjUFpR0SNgJ0pS3LryhIO64-batoYC4DFYd8ePmQgdCScK9oULvZkRWf9LFw1p6z3KlwNTolhha7v~La67JQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_4_of_29.json.gz?&Expires=1711116038&Signature=d0SQ-yjEDPvmgqLQoF3Sg8jt-4AVg1UDH~y0mv3nByKiwH6700WPKCn~HRH-dNQgz9h8XvJ~KytYLFIroJzwlTMWnKxL4F4-i4p8~1mIoLw32w539T5AdKOfO~VWYmza3rlpiBPmywLEU19xU6ecsPTtwUxBtlhxDKeHIrvTcCifQmcRR8CB61KrfRB~aAEGwTT-1xBS7rc94lOf3mieltePlgR3yqfr3fnJzjB1EFZipGaKD3H26sNIXvSQbBJ2tmOfBVw1UetG1HKCQoGWsGQiFKwAom3j6UPsKBGxtgMQYKuPaTEXXcmGhioj1jPwCWB3dL00S57mcNFSZUAkGQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Regence BCBS Oregon : Statewide PPP",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_850_47B0_in-network-rates.json.gz?&Expires=1711116038&Signature=CgTayGspKRaabcGxxNwEb-WRZv83U6zPDQ4XfUev8zENmR5huSp0wg5hyw6DSPYY4q0Z6OH0rbCA06WfT999vLzQlncQ2hq5kpSgoo5dnlnXl0hcy4axj9XyxvQ991zZGfCJ0pUtEQr-uYn6IpqKntA5f3x6E7ChLQ1IpiT8SvmN9UCW6DaxWv2pJSKR558sGG59N4ctPDiI5ArthDAoJ5MkwaHbK8yU0xhT0YtXFIwIDIolERADBxlcyVwU4LZHWnIeB4T0UvDxep4oJhvn6M8f4oR1DWNYLesa2SxmtCKOCZ7HP9bOx19omFDflxBvVt2jzayugXwPGFEd2eUXBg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Rhode Island : Healthmate Coast to Coast",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_370_55A0_in-network-rates.json.gz?&Expires=1711116038&Signature=A3K0Gzn1Ai3gwxu~G9VLkGPDOtTJtGwg5CSltA79qs7psJGFV5-UMki6n5ldeByYzQFJdsSkHLjaHhKHv4v1~rzaww7-LnwCqE2H-H0qKTXXjtryyPUa8~Oie1EVPsbE5A8N6yeODpx9XJMFoIBgch~GXp~NstRVQM-LXHiz56LChBgxyo4PIBhbvDm~r0gF7k8-0Adkh66Q3QYqEUMA5ftYBOzIG4HHtO0d8-1yHFUgzgpPa~RuBLx8Kd3qYM97ql2QsAHF9ecmIBqVB8L6s3Hn9ajqJ7D~hw~zGUR-pZWF99JvPTLMl7fQtPFcJWeBqqAQ5q4vVkbv~eqH7YrwMw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Independence BC : Personal Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_362_52S0_in-network-rates_01_of_13.json.gz?&Expires=1711116038&Signature=x00I2a~JMl8pVLIR3IJrmrEJJy5y60BUU1Dr-T8tiKmwu4TQRoW4Fbn1XOZUZwnFxwvt3qr8r5PwMg657pZp5NtydMO~rWPbWt4Nb2hq-X5VZvYhfQ0pKmeZ0BHC~8TzUOnw-HfdGtvGBLttcjRol5LazdoumpdKiL31vTE8SKmJYwFiRKbxCEWNFyyikxBOaIHIysVhIY~pRD9-xCCZxXheqi1aDao1O7pLjwamVuHXL39C1~0P~~jaF9j0CRSpuP3nh6-gGtLngCNQ58-7rq2EAJTzzvfPgjROs0z462VrY37KbPI9WtgfwLPPiT3WSdSvoNfSPyqwBJgDEaHCGA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_38_of_60.json.gz?&Expires=1711116038&Signature=Qcmp27NDXwq~yxx4D~SSNYvQyqMbqkda2LPO3Ml-MxPS4VRxZVl8SPUYLbWJQk8xy8kncQDRBGXX-w5Dz3zXYwtEUf552zMHPr6INbX6QO1X7CvZoW0BDf7HsxjLymG24h0RqS7UtzKdHxZFBRB1LZ3CsCvVBrlXhqyf5bAeIrNj59gMjAqaTlUNKqmvPLKci8Rnm-YAJbQrvHepcPjtv9qH6J3ah6F8H3Ar-CXMm6NDqNbmPf0SPp1wzyDPyrU38eLoK74DL8q12H5WHLl2PPIY5lCjBOVr1ubIbwQ-~caQ2KbXDpNFQ8rUtawaPsUGHZcSityTkzYzqLOhgwe0Jw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_18_of_35.json.gz?&Expires=1711116038&Signature=Kx5X-4Y1fhZ9U5UunIO-UtLhBbW8xJO~Cey2N9AiZmoAKINQHPR18lWpBIVDCRKHNzESLdzi7YuPuzJM-ZANrdSuktqJ69D5LJbcx3Jb1D4BeIHdAejATHwC6bUAK4~F~Jt-stcNHiwwYM9jWKxUaGcqO-yBCpWfrtsdQHMBIM~dxqqh3RznIAOFFPICTI9wzeHYyYpBvNtyEqHjTTZpfTvRnNHDe3YpQ-LMzlGKJ~uICwO9-gtQ49YumIHCupmA-66ydy80QmTp-OVR9VJcHX3qZ3UQOuok6Md4MZrpOd-DBCBNg1pLZg5d5-qa89JvrcMIy69E0~Od1mngoNjIWA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_15_of_60.json.gz?&Expires=1711116038&Signature=sNLc5Uak97qg3B5SVzqyWyfhbvB6l-4mE1pqevdcsMAiQnMHjjDsFRoMlISOzje8zGTPViTxdlgqpVJmtHHsd30Ukloho1tUdzpCHZk7Ud8N81I4GkUt0xizO7hZzXJHtSLgpvOdr9qj9JyX3sVMMW6C-petqp5ZkHLN2h61-6EUTaofOOl25f-de8Mr6~NhaIpCz4fXiHQZyPyCAOqYseu1oOT36Wa4TxBnZwrN-g6~8iUUgUsWpDMM4Qb1u1TQatlQpmPftYU30BrdLRWpHiqTLw3VzDpoFokOkI6zvetcKrAwpHUmyQgyB8lnn1tYr2kSYZrSWyhKXVvLRkyQ3w__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_8_of_29.json.gz?&Expires=1711116038&Signature=FqSJnkECT6sQRz4dwpS2scnMRqbA8E~FHaUhLu65ugGjg~wQrqTB7xlGE6gkxhai9SfEiwqva9qnUV2RxdgUT9wuO9LiFppxuC~AeVR2v5zLjKbndkjPmCXxfr~DEJYqLSd7gtcD7TVhPcfxZBKH2nbStOsT2mOON06qUFI4kGoaNAign2QBtDSXeYdFZw7XARGZswlGNnqbrz3kIKxhcCF~wKVvVJob6Cq5ornf7JLNOCHEGtp6ojUvHou-pvXpBOnLU~bcBv7jFIE-109VftVGB23cRfhPRN6RNsYOoYITU1qWzSJunYK6G4LKxsbcktiNTgdIn7BEKCrOGhj3Kw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_19_of_29.json.gz?&Expires=1711116038&Signature=28-bSbhP3TOKjiPSqipJVG-OwfdiRihLnjct5s5ocHmz4m6Kt227VoQnfZZ9AIj64cetR1OMO9WWSIdVch4kuMVkrlEQ5iFz-nnr82p-ZA730NsIc4t7Vjo9Wb5B08r9dXkTLTz8WCaJSR~McCYAtzRxAF~gpSFfQ4Rz~G6yLElm5llbT4SFyo2mupfHEAXeF-14SvpPwRIQo~bxfMxRzkWuLpT2eFkTn9p7HCzQi8xyhSl60BMqmZoiA7hefSJju2O1uf0CuX-WYCJyULscjOc2QR9IOuAN9dCwr4RstnjiUd78OzHCrv-dCKkT0wFg5gdnpiXyPCYqCyW2nGL4jA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "HCSC: BCBS Oklahoma : BlueChoice PPO",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_340_46B0_in-network-rates.json.gz?&Expires=1711116038&Signature=t~4pPhvLhmjAoq-RVgUlCpWe2WMD70~Ch2yuWSkVX6amqNaRaEKOw5ejkN1MjtNvcWDvkgbREQPIXcPTmwHf6dK46a1dIbHvmzxUScysNkcZ1hsdYw5tvmPFl9Lih0X9n7IXa8UpxbXrnpe-jti4~jYd3dRL4yKJdpX7~UP7I0C-x3BDVQJPgvSlnQAjKHz1NREwQpKa3N7QrCANp2haZtAFegURnviogB5tHBccnTP9cncBiaewtAUS6UC-pT3jQ-VVQ4kDuCgGXeSUiX3-ldyza~lFk6evt5js5jEnjYo8IZpCa5iFREluvXfqUSr~ulhKryvkPu2I-Ekk7IO13g__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_254_39B0_in-network-rates_8_of_9.json.gz?&Expires=1711116038&Signature=kTy2YA5odSwqhfbwze2oTR5IR~y45wldx-3hsPPOMHkuggU~oeiDNJPON0virI45hc7wfluWCIoTjZaN3d5wEY5zmVxZO9JvC5j44INwGeJXWQb1GTSmDtfpOKWZokCMwhMdwIA~2YUfmIvwDvNdBMYxOn2oxctb45vcDMA9YKCw~aOcqNQtTS8mBXkMJ6-KDGLBplcG1hkq-qTISih73hrgs0~PBouHtNEGmv87G98NHgMAkz5h090detClsET8O4dCUi7HTRiakuzYqZ9BOhhmo-6CwjsnWpUHETBnb4Ja7yNco5OueBGRVmel0iYIeQJhiVG5cKdLkch2vBJ5Dg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_131_17B0_in-network-rates_8_of_17.json.gz?&Expires=1711116038&Signature=m0aV1VMUb8WB2DLnwWnIS7kd6S0qCkFrwicXxa3VLzCQ9~hr1flVdLJCY-k~txWnN~9VzpBggO8C65dSRdKd94bk9TDQRDUccwjTcHJlGFBcbl1HvjwEZZVfKz4qSMYEE3Lt4mnY6mca7sZxtWmn0X7oaCn4lpPSP8efPVmWPt8PgGJQ~GpF-PU0pcsO-5NtqrRNDOj2LJzDC60m57Lkukakp0H72fCWdf0EjaonQ0N8clg8l6ha65Ke~0XdCQyDZtLeAi7doD-gEfJfZF6330niun0Cs-xoKPYkYHZ-e2clMMIynmsFOxij8e2M~aPWBCg9xK-1Xe8SEej48gscbg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_30_of_60.json.gz?&Expires=1711116038&Signature=Wi3lOFGX4DCHOJ9IOzZqg~o9O0jP4uWKSAlqXKFbRwJ7DMh7yNyhn6XB93KV2o3eeqne3QpUCRKBhuxSEaW3BQAuB3t5AvwQ7KmE~H38Zh0H66jB-Bo2YsLuQPYH~zOESDYmPL0rCSDxb2xNJhpt4d7t3e3mIlMJvsSdNmK2CcSn-KBkEhQUiUOIBhpu3dg8EEwsRqCfezJ5z0Z6H-eal5cZ0oOM0O~srtVeBa8btpJIqsSJtpUnXo0AZoCZRhdO95u4hShFMxZ50hecif44gG5XW-0XsIMlraXOT50kdt5Er-pu6lgpRZG~SsfO79ctmbPKHzs0NGunV6GgtZqtsg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_3_of_35.json.gz?&Expires=1711116038&Signature=xg7379dTOOeLr5R2OvBUgFvDbKUVNnfieYBYnPwggDahP9I2zwTC8M3VXkvVsqZ8xyplHzuw9g7MBgFF7ZhYKP-fL8rxqa3inZy87A4~rB0ZxloBkHlVJktt1Olv4sjWi-NSdynQDMBrjbHBgLVJTMXVMpx2q0UVQA-J82lbGHaxYuUdDBiw5wA~Y1XR4v0ruG-TsEFtmWKZmim02l6fhEAaYOCBlUZzoCVVszN64Ok8ABV79KoOmJmupCl3e8MAEX5dVMjJ9Jn53UgQIqaUKm-Bj8bJoXxahYkSULBpgJsV5x5W6FObYAmES6SeZZ8qX4AL9kXOG2zoB5RoB9DYZQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BCBS Delaware : Blue Choice",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_070_09B0_in-network-rates_02_of_04.json.gz?&Expires=1711116038&Signature=e6Yvnoit-PIYVFYw~43O2gsgf2d7~7qQ-mIe4fQnaa0M5UPzsd3ahU8VvGKZo7-vCMSZCBTk6QQhYSEVaBUwkIX75TZvqV4e~VgtqGBqTrPtzky6lepxGqiAibqkhqg~fcMd5Y6nnZ8vJARAWRXLQlzESSSxzFeRQgcc7mGEShEIyBTVjdICuPbX9ThhQhD8thAx8g5E2sxQlSNwHyzDCjnZM~wnkJq8iy0G0vYQ4wIUAwncIt63yvA~7xeO7or4E--ZAOJiOmBPjRkZ1OPWnrCMV2WjpaOmhHBjTVTMLYZ~iA6lVy34PnaJc82LEia4EVg8-K-iFuOJ1917LkXZeA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_5_of_35.json.gz?&Expires=1711116038&Signature=SyPQ02wVj~fGtEBTebMuQGj0xE~rDm6sv2YJvEyfitVBJjg0fxYo1T2F07XpOOlKHT9G21FX4o4pXstvD-d0gQv4~x8vo1CGrGBftm0kgt8-1Hd-6vE-3JVXrJNhYNRmstCEDCJNfHwWXEx3v3DZtiIm2cfjxzNgHWswBXal1NpVw88nNt2e2JdOi1vbD5q3lWQmTSnYt2Fh4-H~ptiZHCYAl8UsGZiCksbJTd0rghRE5S5Xe49EUk0wZBF5UNL8fKP-ukMXFlv0VVfL2P9dqYOdYSQ5wttEoZpzXpYd-Cd4~c7pGV-NpEIdX2at-qxxpWvo8PFvEx8WDRGIH1mo6A__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Minnesota : Aware",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_720_27B0_in-network-rates_06_of_26.json.gz?&Expires=1711116038&Signature=BaVNCUd3fkgRcrDjoYeYCODwQKVpe5grTN~ykfZ6XRRWDcyc97Mgjt41ipJ-OUbAT8aETcaJou3Mb9CYrXJDoWk4L0khR1NbR6v815QRFtvkZ4RWV0xRo~vwKuZPUMQdLCs8vBEOy1K5pumkhzXTLvcb5X9GLtMxuHujlTQ-B-69Pgw80Oa4LLd~Ld8cXmswi8DoDzjHwNI6l4KfIiN~DXqnv8jVuXRsKhEkWAyUVrsOnyNFAjcQYmn~efaf8gjvGzKdi-dcGy5os7Ph2L725axQDR047g15ljxFnIZGw4tDUnoimQ04REsOiX9NcVyzbh3YKWma7guGkwdbvFETrQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "HCSC: BCBS Illinois : Participating Provider Option",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_121_16B0_in-network-rates.json.gz?&Expires=1711116038&Signature=S3zEyl0Rv4kAuNTUe46l~nP2RPV2U~pEMmwVLGEB-zX2WNc-TwjjQvQkjQsFk9f9hN8loAsiGd-MaEvx0ienJ7VCEM-IKbfkcuuZ6fXrbGci4BIpvvRmeP9716tomgrn2yh0uXFiE~yLSXtl-e-G58Zi2dDrZ38JneKE7nL7VFesDQT5IBHVaDJX6s7DhbS~NLD~NZeTppfRi73hubNVCErENmsivDpy-pj~YYB0~hJVoh-zg3kjIF~gyNBmecmZDaxMwXQYVKSHvfY9TMrGxArjZsO8HlZ2xUnFN60cSGF-FfvmmZweO5daAnnt~l4gE~B8akgqBa3KHTR2q4phWw__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "CareFirst BCBS : Select Preferred Provider",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_690_08B0_in-network-rates_24_of_35.json.gz?&Expires=1711116038&Signature=A~2b5JsLKWX9Pu6edUFrU6wO4Rkk6EAjLMvHLN67HDqU3HfbLZrFKKweTqTtK6cNxqAEYq6XBCRm7emAvs2FWtecw60HTM5oHu4XOItq~jLTnASyvd6JuRNtyN0wfgFjSNL3k9C1P6pDUBQEpXrWgXU~PHOJQIpzn~08diBzlPPDnsvTRz9LRn7UdT-H3btvm9UNp68eAcKRkfMBPZpa-rknWgWOTFJ1yuhMw9SsK4p2xT0mYVhBtjMVYmGk5EGaQOXHnV4uBF5GghXQB-VALIn~KK-lpbTshgmoon4x2rSR5C222evvsbJtvcjovmH6Q-2ihFcPfj2Gx6yity3I2Q__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_27_of_60.json.gz?&Expires=1711116038&Signature=2Sz2JiwlSXoR1QTqSPunkx403FDIr8sbZcqFfMA7nDBGg2LB6qWod263R4m3FEE0nltkAyeNmKIAjvBbi2~tNlL9Do5I93XM4mQ8nIET0kv-sMuI~2hNOEqYEPwKuPwVlcTFNroyoc-uY1U8CJiQYk1TzNvAyVQIYln2R32SZ3ecYme6AqRtVg97KCrI65-fI3z2c0YZcABxaanrWO39uqv6AN8rfzKXy9dGSBN3r0YpYEi5TKuB3tbZtln-cJzpP7k5uCzRshgvfdTOlrBWnuffwjrPhNZgZyLZqJOUJSgmwW7MHDja7aeQ0MTD5QorSggrgLqCF6giAHpylWwyHA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "Highmark BCBS WV : Super Blue Plus",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_443_69B0_in-network-rates_06_of_06.json.gz?&Expires=1711116038&Signature=2RvanrZicioLAOuQa91nHaVHa0StrEeSRj5BbUeiIZqcPbdatZEUwOj9xfgGx4T~acd7I-bONY18kE6X~HB27eb-naLiAjWXvCQTv~b90I2YomWD3S229GzU2nvdRz~jJishrOEVAY31K7SMCSMMjwR7-HZDv0eKop3xcyGZKuOUSXz15XHaZJ7B5VFuByLc0mhGRMDJKP5pCU8Ap0HDZyixjIVY9me5TPW7UsBj4-jwFC7IOL36l7xRc5hptxdOu3JkLZxW-5aXpkdzJ2d1ufQ9xxVqRWRHRlbMnB3qWalyn3GBDpV3lrBRSsQNe2f5hRut-QjwWrWfIAOPx-ejrQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "HCSC: BCBS Montana : PPO Network",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_250_31H0_in-network-rates.json.gz?&Expires=1711116038&Signature=v80YUPgtfKXDlzXJowalgYrgjG-3O9xwPkKx-a-QWriWEyFU7bQTRtHzHovqVOAHgQUAu4bOKPCLGulzMvoprz44tb-uW~WKX9a1u-MKj6YBsYG9igO8B-Mg~zVCKYQuEZ~bPi5NN3irm0y-PrA6rkSc59jFCNz5G1SmMqqqABP7FzmkKQdMAyYJjvMyfhuZXVpMZ3nRXdmj1Tw8ZkM1GcWd0VJ~BpjOA46tIYYF1p8nj3sCVMssYzsjDLun1B2C~A4K4fYHjk4TE0Un77WgCTy4b8nR0138QJPvfmV1lNiZ6S4F7CoqCgGATaN5aNKEtjr7DiuknTYGPlTbnc-Fyg__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Alabama : Preferred Care",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_510_01B0_in-network-rates_12_of_29.json.gz?&Expires=1711116038&Signature=hWGvdEutQJcsUPbTDp1avUu4XtlGqD4FIgUkejzzA-iDTWNsPON7zcd5qFJj3ZH5C8BOlf0vz~QMnhzz~UTXEAa-843guYfPzI1j0KtTtCNNqhHMzxlLMw5GBijf-ZhqJE-ZTuo~bzFsiqYGFYAEK6QA5Ril9dxldaOr5CfJx45PLE~mTNEKjbZGWxSkj3KARfUpCionxhUDOspJHCI0aJH3jjuQS-~GoN8I07fDqzvkfpRsaK78PuSM7rXoSDLcvMjAHP~2gjoagMgQH1U5O4yi74WufF9LmvKcOXUyNM8Amo3dgEOF~kdfrj5jCGY7MJIRZ0~d9sBw178zD2sajQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_19_of_60.json.gz?&Expires=1711116038&Signature=H9sSTyeXUzb81G12hx82bmaVhaijcdebctUSjtq98eMWVKhoonKEL6v7GSUhDv0LMTW~EXZI34ddkBiavgFxmh076YkiVxWNyvmgTcUkScSrUUDLLNNymVb~FCYL1awu3qeFLyT6~GmGT8N7hoKKwRwrdo6hOen4-vNPtfWGzDtu-0Cc87EBBI0mq6T1-d8nI~cu0uKZRoaoT-X5EqdW6meIsCAMLddpTmyUVpb3QRQLr5pvSV38i4pkO~iaIxnapVv4fkTJKGF~ZRTsiSdfX4us~R~GNbrUbtlVPiaA3Js4iezKh3aZbBPxnIo5kxKvtnlB5aC~E6wULmbHrhO5KA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "BCBS Tennessee, Inc. : Network P",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_890_58B0_in-network-rates_25_of_60.json.gz?&Expires=1711116038&Signature=iH7MGo9-QIl4HWYbcb35KLNvv69WnN38Dy5fgfCgCoSWzF4hJPyRbQ16h-y9sC9LkGZVUzAIaSAsoUXZffrY6-HjRrV-ek-EtOX-yJnfZBRw4-WZx6bH-7PrHVjDo3wlxuvQUG660xURGGxRffhDdAnIkNYfFh1EoZTiqz92EQeLwlwch4BB1i5mwNWIGpBPehss9J6tOfAstKqdyaiu-7jutBVQHe-GN1ZfoU4oyfoVaBYw4vneS158hzUZS0RnCbA03u2c0dudOldP8XxhQfIE2xc9xzEvGrFcKxQPNnseWBGOKA-LNNBGAg1iVeqCEngE9ED8hwC0FpPNd7YNmA__&Key-Pair-Id=K27TQMT39R1C8A"
+        },
+        {
+          "description": "In-Network Negotiated Rates Files",
+          "location": "https://anthembcca.mrf.bcbs.com/2024-02_271_35B0_in-network-rates_3_of_4.json?&Expires=1711116038&Signature=ObIpY1cCvZYQZfCCIMhu4nLBv4izQrrQBiK0qganBEPk~JCVeWu-9J9BJf~kRzQ60-9W41yPTPkXi2jx9RMlDH7TVd1umAp7oU7e0dSxTsWfHqXZ4y3fuFuWToFV4v6KKUapBRjn5jOmGxI7MLG58DHnal8gZ~AjewVHSRIjpOCofHvFuVF32V3~0hLuBJQ7lkIe4KaamMvzgtHizGunZgcFeiuZ6TO5pJTJVqH2IRqprtkbFhR0AIC6cEAsx2nD7lABX2r6YZCFj9NWxfYKuTEa6IALSsHu-fgdyKnSTgH499zxl20ORK8OIk3Ox69~eYlLNq6w2CAn5eAS0YtEdQ__&Key-Pair-Id=K27TQMT39R1C8A"
+        }
+      ]
+    }
+  ]
+}

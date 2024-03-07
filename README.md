@@ -1,70 +1,46 @@
-# Serif Health Takehome Interview
+## Approach
+My approach largely focused on trying to use the information that we have in the main large file we are given rather than
+downloading the zipped JSON files that are referenced from the large file. I started by using google to figure out if any
+part of the EIN (such as the prefix) mapped to a specific state. From
+what I could tell, there was no way to accurately link an EIN to a location. This makes sense because an employer could
+employ people in multiple states. At this point I started breaking down the location urls and found that in the json
+file names there were dates, some alpha-numerics, and a brief description of what the rates were. I figured that if there
+was any mapping to location, it would have to be part of the alpha numeric section. While I had this hunch, I was a bit stumped
+as to how those may map to location and plan type.
 
-This repository contains the files and instructions for our takehome engineering interview. Please *locally* copy to your own public repo or [import](https://github.com/new/import) to your github account for use in sharing solutions back to us. Direct public forks and pull requests will expose your identity and solution to other candidates also working on this interview question, and we want the interview process to be fair for everyone. 
+The thing that got me unblocked at this point was Anthem's tool for EIN lookups. When looking up an EIN from the main file,
+it returns three lists -- the In-Network Negotiated Rates Files, the Out-of-Network Allowed Amounts Files, and the
+Blue Cross Blue Shield Association Out-of-Area Rates Files. These lists of JSON files have state codes within the file name
+such as 2024-03_NY_39B0_in-network-rates_1_of_10.json.gz. When these links are hovered, you can see the alpha numeric that
+the "NY_39B0" piece maps to "254_39B0". When I searched for this string in the main file I found that there were a lot of
+urls that had this New York mapping.
 
-## Context
-Serif Health was founded with a mission to make the US healthcare system more transparent, efficient, and affordable for everyone. One of the challenging problems we're solving at Serif Health is making healthcare *pricing* data transparent and uniform for all market participants. There are myriad reasons this is difficult.
+This investigation took about an hour and then I started writing some code to isolate those URLs. To stream over all of the
+~27 gigabytes I used the ijson library so that I wasn't loading all of the file in to memory. While the resulting list
+of URLs have some state codes in the base URL, from what I can tell the "254" piece of the json file name maps directly to New York.
+I only considered the in network urls here as from what I can tell, Highmark is a different insurance company than Anthem.
+While I ran out of time for the take-home and didn't find a programmatic way to discern whether a URL is for PPO plans, after downloading some of the location
+URLs I saw that the negotiation_arrangement is FFS. Fee for service is a subset of PPO so I am considering those correctly
+dubbed as PPO plans.
 
-At the macro level:
-- Most data in healthcare is protected by law, sensitive by default and tends to be locked up in proprietary systems or data formats.
-- The data aggregators and clearinghouses that do have access to clean, normalized bulk data assets tend to employ extremely expensive and restrictive licensing terms. 
-- While recent price transparency laws have required hospitals and carriers to publish their pricing, compliance and data sharing occurs at varying levels of completeness and consistency.  
+The the description field had some valuable information but they could not be relied on entirely to find all of the Anthem
+PPO providers in New York. I think that my solution is incomplete as I would like to do more research about in network
+versus out of network providers and the different negotiation_arrangements. As I said in the beginning of this readme,
+I was optimizing for a solution that did not have to download the location files to ascertain additional information.
+This was due to the fact that I wanted the program to run quickly and avoid taking up the entire memory of my computer.
+If this was a background job running in a server-less environment it would be a bit more feasible to scan those files
+for additional information.
 
-At the micro level:
-- Medical billing and coding for a specific procedure can be very complicated and is contingent on place of service, patient history and comorbidities, structure of insurance arrangements, so on and so forth. Many procedures are lots of N of 1 type cases. 
-- Insurance companies (carriers) establish pre-negotiated non-published contracted rates with each facility, physician group, or health system that reimburses the healthcare provider at a rate and structure very different from what is 'charged'. 
+## Program Stats and Running Locally
 
-Summed together, all this complexity contributes to a general lack of transparency and market efficency in our healthcare system.
+To run this program locally you will need to download the large index file as well as install `ijson`
+1) Download the file
+2) Run `pip install ijson` from the python command line or `python3 -m pip install ijson` if you have python3 installed
+3) Update line 58 in `file_download.py` to use the local path of the file downloaded in step 1
+4) Run the program
 
+The list of urls can be found in output.txt. When I ran the program locally I had the following stats
 
-
-## Objective
-In July 2022, insurance carriers were required to publish their negotiated prices with all providers and facilities under the Transparency in Coverage Act. Pricing for every procedure code for every provider in the country is a lot of data; thus, the published files are extremely large and require some forethought and skill to be able to work with them. 
-
-Our customers typically want to know and compare reimbursement rates for healthcare services from specific carriers. E.g., what does Anthem reimburse orthopedic surgeons in New York state for total knee replacement surgery? To get there, we need to go to Anthem's Transparency in Coverage website, find their appropriate index file (also called a table of contents file), look up the MRF file URLs in the index for the correct plan, pull the MRF, extract the data, and we have our answer. The challenge for us is that carriers don't always follow the schemas, so these postings and indexes aren't always easy to decipher - it takes some sleuthing and creativity to get to the answers we seek. 
-
-For this interview, we'll give you an index file URL and we'll skip in-network MRF processing for now, since the data elements in the in-network file are significantly more complex and variant. 
-
-Your task is to write some code that can open an index file, stream through it, and isolate a set of network files in the index. We'd simply like to know, *what is the list of machine readable file URLs that represent the Anthem PPO network in New York state*? 
-
-
-## Inputs
-The input to this takehome is the Anthem machine readable index file [table of contents](https://antm-pt-prod-dataz-nogbd-nophi-us-east1.s3.amazonaws.com/anthem/2024-02-01_anthem_index.json.gz) for February 2024. 
-
-You should write code that can open the machine readable index file and process it according to the schema published at [CMS' transparency in coverage repository](https://github.com/CMSgov/price-transparency-guide/tree/master/schemas/table-of-contents), so you can extract the data requested.
-
-
-
-
-## Outputs
-Your output should be the list of machine readable file URLs corresponding to Anthem's PPO in New York state. Make sure to read through the hints and pointers section before declaring your solution complete.
-
-## Hints and Pointers
-As you start working with the index, you'll quickly notice that the index file itself is extremly large, data is very frequently repeated, plan descriptions seem to contain random businesses in various regions around the country, and that there are a handful of different url styles. 
-
-- How do you handle the file size and format efficiently, when the uncompressed file will exceed memory limitations on most systems? 
-- When you look at your output URL list, which segments of the URL are changing, which segments are repeating, and what might that mean?
-- Is the description field helpful? Complete? Is Highmark the same as Anthem?
-- Anthem has an interactive MRF lookup system. This lookup can be used to gather additional information - but it requires you to input the EIN or name of an employer who offers an Anthem health plan: [Anthem EIN lookup](https://www.anthem.com/machine-readable-file/search/). How can you find a businesss likely to be in the Anthem NY PPO? How can you use this tool to confirm which underlying file(s) represent the Anthem NY PPO?
-
-Use your best judgement to proceed here, and discuss your decisions in your writeup. 
-
-
-### Deliverable
-You should [send us](mailto:engineering@serifhealth.com) a link to a public repository or zip file that contains at miminum:
-1. The script or code used to parse the file and produce output. 
-2. The setup or packaging file(s) required to bootstrap and execute your solution code
-3. The output URL list.
-4. A README file, explaining your solution, how long it took you to write, how long it took to run, and the tradeoffs you made along the way. 
-
-## Expectations
-### Time vs Quality
-We are a small engineering team with limited resources, and often have to make hard tradeoffs to meet deadlines and make rapid forward progress. We do not want this takehome to take more than a few hours out of your day. So, please timebox coding your solution to two hours max, and know that you have the opportunity to discuss the tradeoffs you made when submitting your solution. Experienced engineers should be able to complete the coding portion in about 90 minutes, perhaps less if you have prior healthcare experience. If you think this will take you dramatically more time than that, let us know before starting the takehome so we can discuss why. 
-
-If you finish early, we'd recommend adding additional notes or commentary to the README (e.g. discussion of performance characteristics, how you would ideally test/deploy/run your code in a production environment, feature iterations that might come next, so on), but please don't exceed the timebox doing so. 
-
-### Language Choice
-You can choose any language you want, but your solution should be portable enough to run on someone else's machine. 
-
-### Dependencies
-You can and *probably should* use dependencies (JSON parsers, type validators, etc) and libraries from public package managers in your language of choice. Again, your solution should be portable enough to run on someone else's machine, so if you leverage packaged dependencies this please make sure relevant setup instructions to install the dependencies and execute the solution are included.
+The program took 224.74 seconds to run.
+There were 1409028 urls added to the output.
+The output file size is 682414978 bytes or 650.8016376495361 MB
